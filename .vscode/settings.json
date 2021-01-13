@@ -1,0 +1,38 @@
+{
+  // Editor
+  "editor.tabSize": 2,
+  "editor.rulers": [100],
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.markdownlint": true
+  },
+
+  // Files
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    ".yarn/releases/**": true
+  },
+
+  // JavasSript
+  "javascript.format.enable": false,
+
+  // TypeScript
+  "typescript.format.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+
+  // Prettier
+  "prettier.ignorePath": ".eslintignore",
+
+  // Node Project
+  "deno.enable": false,
+
+  // Use PNPM
+  "npm.packageManager": "pnpm",
+  "eslint.packageManager": "pnpm",
+  "prettier.packageManager": "pnpm"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@1.3.0/schema.json",
+  "changelog": "@changesets/cli/changelog",
+  "ignore": ["website", "support"],
+  "updateInternalDependencies": "patch",
+  "commit": false,
+  "linked": [
+    [
+      "svgmoji",
+      "@svgmoji/blob",
+      "@svgmoji/core",
+      "@svgmoji/noto",
+      "@svgomoji/openmoji",
+      "@svgmoji/twemoji"
+    ]
+  ],
+  "access": "public",
+  "baseBranch": "main"
+}

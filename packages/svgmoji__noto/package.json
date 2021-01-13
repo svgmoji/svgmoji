@@ -1,0 +1,33 @@
+{
+  "name": "@svgmoji/noto",
+  "version": "0.0.0",
+  "description": "A sample package from `svgmoji/svgmoji`",
+  "keywords": [],
+  "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/noto",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/noto",
+  "license": "MIT",
+  "contributors": [],
+  "sideEffects": false,
+  "main": "dist/svgmoji-noto.cjs.js",
+  "module": "dist/svgmoji-noto.esm.js",
+  "browser": {
+    "./dist/svgmoji-noto.cjs.js": "./dist/svgmoji-noto.browser.cjs.js",
+    "./dist/svgmoji-noto.esm.js": "./dist/svgmoji-noto.browser.esm.js"
+  },
+  "types": "dist/svgmoji-noto.cjs.d.ts",
+  "files": [
+    "dist",
+    "sprites",
+    "svg"
+  ],
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "@svgmoji/core": "0.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "meta": {
+    "sizeLimit": "5 KB"
+  }
+}

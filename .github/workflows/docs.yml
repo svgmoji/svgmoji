@@ -1,0 +1,54 @@
+name: docs
+
+on:
+  push:
+    branches:
+      - main
+env:
+  PNPM_CACHE_FOLDER: .pnpm-store
+
+jobs:
+  github-pages:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' || github.event.pull_request
+
+    steps:
+      - name: checkout code repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: setup caching
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.PNPM_CACHE_FOLDER }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+
+      - name: setup node.js
+        uses: actions/setup-node@v2-beta
+        with:
+          # Uses node 14 to allow nullish coalescing in `.js` files
+          node-version: 14
+
+      - name: install and audit
+        uses: ./.github/actions/pnpm
+        with:
+          cache: ${{ env.PNPM_CACHE_FOLDER }}
+
+      - name: build project
+        run: pnpm build
+
+      - name: build docs
+        run: pnpm build:docs
+
+      - name: deploy docs 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: support/website/build
+          CLEAN: true

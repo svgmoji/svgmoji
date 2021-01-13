@@ -1,0 +1,5 @@
+{
+  // This is a reference file which is used for type-checking the project.
+  "files": [],
+  "references": [{ "path": "./tsconfig.json" }, { "path": "./support/scripts/tsconfig.json" }]
+}

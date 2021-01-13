@@ -1,0 +1,41 @@
+{
+  "name": "svgmoji",
+  "version": "0.0.0",
+  "description": "A sample package from `svgmoji/svgmoji`",
+  "keywords": [],
+  "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji",
+  "license": "MIT",
+  "contributors": [],
+  "sideEffects": false,
+  "main": "dist/svgmoji.cjs.js",
+  "module": "dist/svgmoji.esm.js",
+  "browser": {
+    "./dist/svgmoji.cjs.js": "./dist/svgmoji.browser.cjs.js",
+    "./dist/svgmoji.esm.js": "./dist/svgmoji.browser.esm.js"
+  },
+  "types": "dist/svgmoji.cjs.d.ts",
+  "files": [
+    "emoji.json",
+    "emoji.min.json",
+    "emoticons.json",
+    "emoji.json.d.ts",
+    "emoji.min.json.d.ts",
+    "emoticons.json.d.ts",
+    "dist"
+  ],
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "@svgmoji/blob": "0.0.0",
+    "@svgmoji/core": "0.0.0",
+    "@svgmoji/noto": "0.0.0",
+    "@svgmoji/openmoji": "0.0.0",
+    "@svgmoji/twemoji": "0.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "meta": {
+    "sizeLimit": "5 KB"
+  }
+}

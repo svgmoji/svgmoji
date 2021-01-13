@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+
+# Remove this file if you don't have **Discussions** enabled for your project.
+contact_links:
+  - name: 💡 Discuss an idea
+    url: https://github.com/svgmoji/svgmoji/discussions/new
+    about:
+      Suggest your ideas for this project. Discussions with high interest and positive feedback will
+      be added to the roadmap.
+
+  - name: ❔ Ask a question
+    url: https://github.com/svgmoji/svgmoji/discussions/new
+    about: Ask questions and discuss with other community members.
+
+  - name: 🙏 Request help
+    url: https://github.com/svgmoji/svgmoji/discussions/new
+    about: Ask the `remirror` community for help.
+
+  - name: 🌟 Showcase your work
+    url: https://github.com/svgmoji/svgmoji/discussions/new
+    about: Showcase what you've been building with `remirror`.

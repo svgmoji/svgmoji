@@ -1,0 +1,33 @@
+{
+  "name": "@svgmoji/twemoji",
+  "version": "0.0.0",
+  "description": "A sample package from `svgmoji/svgmoji`",
+  "keywords": [],
+  "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/twemoji",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/twemoji",
+  "license": "MIT",
+  "contributors": [],
+  "sideEffects": false,
+  "main": "dist/svgmoji-twemoji.cjs.js",
+  "module": "dist/svgmoji-twemoji.esm.js",
+  "browser": {
+    "./dist/svgmoji-twemoji.cjs.js": "./dist/svgmoji-twemoji.browser.cjs.js",
+    "./dist/svgmoji-twemoji.esm.js": "./dist/svgmoji-twemoji.browser.esm.js"
+  },
+  "types": "dist/svgmoji-twemoji.cjs.d.ts",
+  "files": [
+    "dist",
+    "sprites",
+    "svg"
+  ],
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "@svgmoji/core": "0.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "meta": {
+    "sizeLimit": "5 KB"
+  }
+}

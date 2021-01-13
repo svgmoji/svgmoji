@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "jsx": "react-jsxdev",
+    "types": ["node", "jest"],
+    "moduleResolution": "node",
+    "useDefineForClassFields": true,
+    "sourceMap": true,
+    "declaration": true,
+    "pretty": true,
+    "noEmit": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "preserveWatchOutput": true,
+    "noUncheckedIndexedAccess": true,
+
+    "skipLibCheck": true,
+
+    "experimentalDecorators": true,
+
+    // Import rules
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+
+    // Stylistic, but faster than eslint
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "@svgmoji/core",
+  "version": "0.0.0",
+  "description": "A sample package from `svgmoji/svgmoji`",
+  "keywords": [],
+  "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/core",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/core",
+  "license": "MIT",
+  "contributors": [],
+  "sideEffects": false,
+  "main": "dist/svgmoji-core.cjs.js",
+  "module": "dist/svgmoji-core.esm.js",
+  "browser": {
+    "./dist/svgmoji-core.cjs.js": "./dist/svgmoji-core.browser.cjs.js",
+    "./dist/svgmoji-core.esm.js": "./dist/svgmoji-core.browser.esm.js"
+  },
+  "types": "dist/svgmoji-core.cjs.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@types/object.omit": "^3.0.0",
+    "emojibase": "^5.1.0",
+    "emojibase-data": "^6.1.0",
+    "idb-keyval": "^5.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "object.omit": "^3.0.0",
+    "type-fest": "^0.20.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "meta": {
+    "sizeLimit": "5 KB"
+  }
+}
