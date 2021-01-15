@@ -1,8 +1,14 @@
 {
   "name": "@svgmoji/twemoji",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
-  "keywords": [],
+  "description": "The svgmoji sprites for the [`twemoji`](https://github.com/twitter/twemoji) library provided by Twitter.",
+  "keywords": [
+    "emoji",
+    "svg",
+    "icons",
+    "twitter",
+    "twemoji"
+  ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/twemoji",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__twemoji",
   "license": "MIT",

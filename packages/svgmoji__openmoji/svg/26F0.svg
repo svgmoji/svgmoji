@@ -1,16 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#3F3F3F" d="M52,42.2c0,0-0.2-6.2-0.3-6.8s-0.7-1.6-1-2.1L48.2,29L42,24.5l-7.2,5.4l2.6,4.5l4.9-0.4l10.2,13.3L52,42.2z"/>
-    <polyline fill="#9B9B9A" points="50,39 53.4,48.1 60,56 12,56 16,49 18,37 25,18 29,22 33,25 37,33 42,33 50,39"/>
-    <path fill="none" stroke="#9B9B9A" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M50,39"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="60,55 53.4,48.1 50,39"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="37,33 33,25 29,22 25,18 18,37 16,49 12,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="31,24 32,33 42,33 50,39 49,45 50,50 48,52 45,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="39,28 43,25 47,29 50,34"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#3F3F3F" d="M52 42.2s-.2-6.2-.3-6.8-.7-1.6-1-2.1L48.2 29 42 24.5l-7.2 5.4 2.6 4.5 4.9-.4 10.2 13.3-.5-5.1z"/><path fill="#9B9B9A" d="M50 39l3.4 9.1L60 56H12l4-7 2-12 7-19 4 4 4 3 4 8h5l8 6"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"><path d="M60 55l-6.6-6.9L50 39M37 33l-4-8-4-3-4-4-7 19-2 12-4 6"/><path d="M31 24l1 9h10l8 6-1 6 1 5-2 2-3 3M39 28l4-3 4 4 3 5"/></g></svg>

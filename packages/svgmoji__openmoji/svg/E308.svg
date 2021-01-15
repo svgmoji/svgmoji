@@ -1,6 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="11 36.873 20.227 36.873 25.713 29.641 30.95 43.107 36.686 27.397 42.047 44.603 48.157 36.873 61 36.873"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 36.873h9.227l5.486-7.232 5.237 13.466 5.736-15.71 5.361 17.206 6.11-7.73H61"/></svg>

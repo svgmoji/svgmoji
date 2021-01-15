@@ -1,14 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#ea5a47" d="M21.4,51V36A14.9585,14.9585,0,0,1,36.3,21h0A15.0887,15.0887,0,0,1,51.2,36V51"/>
-    <path fill="#d0cfce" d="M21.4,51h30a4.9514,4.9514,0,0,1,5,5h0a4.9514,4.9514,0,0,1-5,5h-30a4.9514,4.9514,0,0,1-5-5h0A4.9514,4.9514,0,0,1,21.4,51Z"/>
-    <path fill="#d22f27" d="M51.4,36A14.9381,14.9381,0,0,0,36.6,21h0a14.7059,14.7059,0,0,0-4.2.6C41.8,25.4,42.7,44.8,42.8,51h8.7V36Z"/>
-  </g>
-  <g id="line">
-    <line x1="17.8" x2="13.1" y1="23.5" y2="18.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="54.1" x2="58.8" y1="23.5" y2="18.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36.4" x2="36.4" y1="14" y2="8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21.4,51V36A14.9585,14.9585,0,0,1,36.3,21h0A15.0887,15.0887,0,0,1,51.2,36V51"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21.1,51H51.6a4.8011,4.8011,0,0,1,4.8,4.8h0a4.8011,4.8011,0,0,1-4.8,4.8H21.1a4.8011,4.8011,0,0,1-4.8-4.8h0A4.9353,4.9353,0,0,1,21.1,51Z"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#ea5a47" d="M21.4 51V36a14.959 14.959 0 0114.9-15 15.089 15.089 0 0114.9 15v15"/><path fill="#d0cfce" d="M21.4 51h30a4.951 4.951 0 015 5 4.951 4.951 0 01-5 5h-30a4.951 4.951 0 01-5-5 4.951 4.951 0 015-5z"/><path fill="#d22f27" d="M51.4 36a14.938 14.938 0 00-14.8-15 14.706 14.706 0 00-4.2.6c9.4 3.8 10.3 23.2 10.4 29.4h8.7V36z"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M17.8 23.5l-4.7-4.7M54.1 23.5l4.7-4.7M36.4 14V8M21.4 51V36a14.959 14.959 0 0114.9-15h0a15.089 15.089 0 0114.9 15v15M21.1 51h30.5a4.801 4.801 0 014.8 4.8h0a4.801 4.801 0 01-4.8 4.8H21.1a4.801 4.801 0 01-4.8-4.8h0a4.935 4.935 0 014.8-4.8z"/></g></svg>

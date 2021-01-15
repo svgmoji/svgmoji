@@ -1,6 +1,1 @@
-<svg id="emoji" fill="none" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
-  <g id="line">
-    <path fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M53.5366 45.6237C45.7296 51.1493 34.8495 50.4162 27.8579 43.4246C21.4225 36.9892 20.2895 27.2593 24.4589 19.6639C19.341 23.2862 16 29.2529 16 36C16 47.0457 24.9543 56 36 56C43.5571 56 50.1353 51.8086 53.5366 45.6237Z" clip-rule="evenodd"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 72 72"><path fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M53.537 45.624c-7.807 5.525-18.688 4.792-25.68-2.2-6.434-6.435-7.567-16.165-3.398-23.76C19.34 23.286 16 29.253 16 36c0 11.046 8.954 20 20 20 7.557 0 14.135-4.191 17.537-10.376z" clip-rule="evenodd"/></svg>

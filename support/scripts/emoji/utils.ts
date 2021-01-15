@@ -73,7 +73,7 @@ function getHexcode(filePath: string) {
   );
 
   if (!found) {
-    log.warn(`No hexcode could be found for the filePath: ${filePath}, hexcode: ${maybeHexcode}`);
+    log.warn(`\n⚠️ No hexcode could be found\nfilePath: ${filePath}\nhexcode: ${maybeHexcode}`);
   }
 
   return found?.hexcode ?? maybeHexcode;

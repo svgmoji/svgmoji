@@ -1,8 +1,12 @@
 {
   "name": "@svgmoji/core",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
-  "keywords": [],
+  "description": "Utilities forked from emojibase for working with svgmoji",
+  "keywords": [
+    "emoji",
+    "svg",
+    "icons"
+  ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/core",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__core",
   "license": "MIT",

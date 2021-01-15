@@ -1,18 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <circle cx="35.9047" cy="36.0138" r="27.0345" fill="#fcea2b"/>
-    <circle cx="36.0058" cy="36.0369" r="21.8709" fill="#fff"/>
-  </g>
-  <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M55.1092,25.38a21.8626,21.8626,0,1,1-8.0938-8.2451"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M62.9392,35.9973a27.0463,27.0463,0,1,1-5.265-16.0382"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="47.394 21.578 58.432 20.418 57.272 9.38"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="49.975 36.354 35.987 36.354 35.891 36.354 35.891 18.52"/>
-    <line x1="35.8906" x2="35.8906" y1="53.9106" y2="50.0661" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="21.143 36.354 18.086 36.354 18.086 36.354"/>
-    <circle cx="35.8906" cy="36.3538" r="3.7371"/>
-    <circle cx="48.6938" cy="47.9371" r="1.4802"/>
-    <circle cx="23.0873" cy="24.7172" r="1.4802"/>
-    <circle cx="23.0873" cy="47.9371" r="1.4802"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><circle cx="35.905" cy="36.014" r="27.035" fill="#fcea2b"/><circle cx="36.006" cy="36.037" r="21.871" fill="#fff"/><g><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M55.11 25.38a21.863 21.863 0 11-8.095-8.245M62.94 35.997a27.046 27.046 0 11-5.266-16.038"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M47.394 21.578l11.038-1.16-1.16-11.038M49.975 36.354H35.891V18.52M35.891 53.911v-3.845M21.143 36.354h-3.057 0"/><circle cx="35.891" cy="36.354" r="3.737"/><circle cx="48.694" cy="47.937" r="1.48"/><circle cx="23.087" cy="24.717" r="1.48"/><circle cx="23.087" cy="47.937" r="1.48"/></g></svg>

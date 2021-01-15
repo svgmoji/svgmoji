@@ -1,16 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#FCEA2B" d="M36,13c-12.7025,0-23,10.2975-23,23s10.2975,23,23,23s23-10.2975,23-23 C58.9857,23.3034,48.6966,13.0143,36,13z"/>
-    <path fill="#FFFFFF" d="M44.5,49.2708h-17c-2.2064-0.0065-3.9935-1.7936-4-4l0,0c0.0065-2.2064,1.7936-3.9935,4-4h17 c2.2064,0.0065,3.9935,1.7936,4,4l0,0C48.4935,47.4772,46.7064,49.2643,44.5,49.2708z"/>
-  </g>
-  <g id="line">
-    <line x1="28" x2="28" y1="41.7708" y2="48.7708" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="33" x2="33" y1="41.7708" y2="48.7708" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="38" x2="38" y1="41.7708" y2="48.7708" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="43" x2="43" y1="41.7708" y2="48.7708" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="36" cy="36" r="23" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="2" stroke-width="2" d="M44.5,49.2708h-17c-2.2064-0.0065-3.9935-1.7936-4-4 l0,0c0.0065-2.2064,1.7936-3.9935,4-4h17c2.2064,0.0065,3.9935,1.7936,4,4l0,0C48.4935,47.4772,46.7064,49.2643,44.5,49.2708z"/>
-    <path d="M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31"/>
-    <path d="M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#FCEA2B" d="M36 13c-12.703 0-23 10.297-23 23s10.297 23 23 23 23-10.297 23-23c-.014-12.697-10.303-22.986-23-23z"/><path fill="#FFF" d="M44.5 49.27h-17a4.012 4.012 0 01-4-4 4.012 4.012 0 014-4h17a4.012 4.012 0 014 4 4.012 4.012 0 01-4 4z"/><g><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28 41.771v7M33 41.771v7M38 41.771v7M43 41.771v7"/><circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/><path fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="2" d="M44.5 49.27h-17a4.012 4.012 0 01-4-4h0a4.012 4.012 0 014-4h17a4.012 4.012 0 014 4h0a4.012 4.012 0 01-4 4z"/><path d="M30 31a3.001 3.001 0 01-6 0c0-1.655 1.345-3 3-3s3 1.345 3 3M48 31a3.001 3.001 0 01-6 0c0-1.655 1.345-3 3-3s3 1.345 3 3"/></g></svg>

@@ -7,3 +7,6 @@ declare module '@babel/register' {
 
   export = babelRegister;
 }
+
+declare module 'localstorage-polyfill';
+declare module 'isomorphic-fetch';

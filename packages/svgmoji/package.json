@@ -1,7 +1,7 @@
 {
   "name": "svgmoji",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
+  "description": "Consume svg sprites from popular open source emoji libraries.",
   "keywords": [],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji",

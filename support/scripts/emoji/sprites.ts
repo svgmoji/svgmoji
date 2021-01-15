@@ -31,9 +31,7 @@ async function writeSprite(props: WriteSpriteProps) {
 
   const start = Date.now();
   log.debug(
-    `GENERATING '${
-      subDirectory ?? 'all'
-    }' sprites for directory: ${dest}, with output name: ${output}`,
+    `\n🎬 ${library.name}${subDirectory ? `/${subDirectory}` : ''}/${output}\nDESTINATION: ${dest}`,
   );
 
   // Ensure that the destination directory exists.
@@ -50,9 +48,7 @@ async function writeSprite(props: WriteSpriteProps) {
       view: false,
     },
     shape: {
-      id: {
-        generator: (svg) => path.basename(svg).replace(/\.svg$/, ''),
-      },
+      id: { generator: (svg) => path.basename(svg).replace(/\.svg$/, '') },
       transform: [{}],
     },
   });
@@ -72,22 +68,33 @@ async function writeSprite(props: WriteSpriteProps) {
     spriter.add(filepath, file, await readFile(filepath, { encoding: 'utf-8' }));
   }
 
-  return new Promise<void>((resolve) =>
+  return new Promise<void>((resolve) => {
+    const limit = pLimit(os.cpus().length - 1);
+    const promises: Array<Promise<void>> = [];
+
     spriter.compile((_, result) => {
       for (const resources of Object.values<any>(result)) {
         for (const data of Object.values<any>(resources)) {
-          mkdir(path.dirname(data.path), { recursive: true }).then(async () => {
-            await writeFile(data.path, data.contents);
-            log.debug(
-              `Duration for ${library.name} - ${output}${subDirectory ? ` - ${subDirectory}` : ''}`,
-              ms(Date.now() - start),
-            );
-            resolve();
-          });
+          promises.push(
+            limit(async () => {
+              await mkdir(path.dirname(data.path), { recursive: true });
+              await writeFile(data.path, data.contents);
+            }),
+          );
         }
       }
-    }),
-  );
+    });
+
+    Promise.all(promises).then(() => {
+      resolve();
+
+      log.debug(
+        `\n✅ ${library.name}${subDirectory ? `/${subDirectory}` : ''}/${output} completed in ${ms(
+          Date.now() - start,
+        )}`,
+      );
+    });
+  });
 }
 
 /**
@@ -103,7 +110,6 @@ async function generateSprites() {
     }
 
     const svgFolder = getSvgDestination(library.name);
-
     promises.push(limit(() => writeSprite({ folder: svgFolder, library, output: 'all' })));
 
     for (const [group, output] of Object.entries(groups)) {
@@ -128,7 +134,7 @@ async function generateSprites() {
             library,
             output,
             subDirectory: 'subgroup',
-            filterFn: (emoji) => emoji.group === +subgroup,
+            filterFn: (emoji) => emoji.subgroup === +subgroup,
           }),
         ),
       );

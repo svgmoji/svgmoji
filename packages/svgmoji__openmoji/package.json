@@ -1,8 +1,13 @@
 {
   "name": "@svgmoji/openmoji",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
-  "keywords": [],
+  "description": "The svgmoji sprites for the [`openmoji`](https://github.com/hfg-gmuend/openmoji) library.",
+  "keywords": [
+    "emoji",
+    "svg",
+    "icons",
+    "openmoji"
+  ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/openmoji",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__openmoji",
   "license": "MIT",

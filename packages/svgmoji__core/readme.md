@@ -36,5 +36,7 @@ npm install @svgmoji/core
 The following code creates an instance of this extension.
 
 ```ts
-import { PopulatedEmoji } from '@svgmoji/core';
+import { PopulatedEmoji, minifyEmoji } from '@svgmoji/core';
 ```
+
+More docs to follow.

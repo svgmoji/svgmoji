@@ -1,8 +1,15 @@
 {
   "name": "@svgmoji/blob",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
-  "keywords": [],
+  "description": "The svgmoji sprites for the [`blobmoji`](https://github.com/c1710/blobmoji) library.",
+  "keywords": [
+    "emoji",
+    "svg",
+    "icons",
+    "google",
+    "blobmoji",
+    "gmail"
+  ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/blob",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__blob",
   "license": "MIT",

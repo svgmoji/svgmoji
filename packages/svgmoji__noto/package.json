@@ -1,8 +1,15 @@
 {
   "name": "@svgmoji/noto",
   "version": "0.1.0",
-  "description": "A sample package from `svgmoji/svgmoji`",
-  "keywords": [],
+  "description": "The svgmoji sprites for the [`noto-emoji`](https://github.com/googlefonts/noto-emoji) library.",
+  "keywords": [
+    "emoji",
+    "svg",
+    "icons",
+    "google",
+    "noto",
+    "android"
+  ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/noto",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__noto",
   "license": "MIT",

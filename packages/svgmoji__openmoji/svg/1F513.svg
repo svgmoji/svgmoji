@@ -1,15 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <polygon fill="#FCEA2B" stroke="none" points="53,32.2969 54.875,32.2969 54.875,59.1719 16.875,59.1719 16.875,32.2969 18.75,32.2969"/>
-    <polygon fill="#F1B31C" stroke="none" points="54.4302,32.493 35.66,58.9944 54.9675,58.9944"/>
-    <path fill="#D0CFCE" stroke="#D0CFCE" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M46.0641,31.8167 l0.2102-2.902c0.4766-6.9852-4.8299-12.6829-10.5142-12.4934c-4.6725,0.1558-8.6157,4.2846-9.8282,9.301l-4.0503-0.9026 c1.6615-6.6916,7.2189-12.2207,13.8118-12.4281c7.9697-0.2507,15.4098,7.2847,14.7416,16.523l-0.2425,2.902"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="53,32.25 54.875,32.25 54.875,59.125 16.875,59.125 16.875,32.25 18.75,32.25"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M46.2743,28.9146c0.4766-6.9852-4.8299-12.6829-10.5142-12.4934c-4.6725,0.1558-8.6157,4.2846-9.8282,9.301l-4.0503-0.9026 c1.6615-6.6916,7.2189-12.2207,13.8118-12.4281c7.9697-0.2507,15.4098,7.2847,14.7416,16.523"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M46.3042,29.9146"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#FCEA2B" d="M53 32.297h1.875v26.875h-38V32.297h1.875z"/><path fill="#F1B31C" d="M54.43 32.493L35.66 58.994h19.308z"/><path fill="#D0CFCE" stroke="#D0CFCE" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M46.064 31.817l.21-2.902c.477-6.985-4.83-12.683-10.514-12.494-4.672.156-8.616 4.285-9.828 9.301l-4.05-.902c1.661-6.692 7.218-12.221 13.811-12.428 7.97-.251 15.41 7.284 14.742 16.523l-.243 2.902"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"><path d="M53 32.25h1.875v26.875h-38V32.25h1.875zM46.274 28.915c.477-6.986-4.83-12.683-10.514-12.494-4.672.156-8.616 4.285-9.828 9.301l-4.05-.902c1.661-6.692 7.218-12.221 13.811-12.428 7.97-.251 15.41 7.284 14.742 16.523"/></g></svg>

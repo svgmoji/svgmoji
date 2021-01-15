@@ -1,13 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
-  <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.5 63.5L32.5 35"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M41 63.5L38 35"/>
-    <path fill="none" stroke="#000" stroke-width="2" d="M38 35L40.5 18"/>
-    <path fill="none" stroke="#000" stroke-width="2" d="M32.5 35L30 18"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35 18H40.5L43 42"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35 18H30L28 42"/>
-    <circle cx="35" cy="11" r="3" fill="none" stroke="#000" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-width="2" d="M29.5 63.5H41"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><g fill="none" stroke="#000" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M29.5 63.5l3-28.5M41 63.5L38 35"/><path d="M38 35l2.5-17M32.5 35L30 18"/><path stroke-linecap="round" stroke-linejoin="round" d="M35 18h5.5L43 42M35 18h-5l-2 24"/><circle cx="35" cy="11" r="3"/><path d="M29.5 63.5H41"/></g></svg>

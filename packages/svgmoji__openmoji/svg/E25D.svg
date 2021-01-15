@@ -1,14 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="12.854" y="16.5774" width="42.4977" height="42.246" fill="#FFFFFF" stroke="none"/>
-    <polygon fill="#F4AA41" stroke="none" points="32.775,39.4058 37.4938,37.6238 34.5571,34.687"/>
-    <rect x="44.8202" y="9.0123" width="5.3523" height="31.1323" transform="matrix(0.7071 0.7071 -0.7071 0.7071 31.291 -26.3861)" fill="#A57939" stroke="none"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M54.5567,28.084v30.6836c0,0.55-0.45,1-1,1H13.1685c-0.55,0-1-0.45-1-1V18.3794c0-0.5523,0.4477-1,1-1h31.0229"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M38.0526,37.7487l21.4611-21.4611c0.3905-0.3905,0.3905-1.0237,0-1.4142l-2.3359-2.3359c-0.3905-0.3905-1.0237-0.3905-1.4142,0 L34.3025,33.9986l-2.6258,6.3865L38.0526,37.7487l-3.7501-3.7501"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#FFF" d="M12.854 16.577h42.498v42.246H12.854z"/><path fill="#F4AA41" d="M32.775 39.406l4.719-1.782-2.937-2.937z"/><path fill="#A57939" d="M56.61 11.679l3.785 3.784-22.013 22.013-3.785-3.784z"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"><path d="M54.557 28.084v30.684c0 .55-.45 1-1 1H13.168c-.55 0-1-.45-1-1V18.379a1 1 0 011-1h31.023"/><path d="M38.053 37.749l21.46-21.461a1 1 0 000-1.415l-2.335-2.335a1 1 0 00-1.414 0l-21.462 21.46-2.625 6.387 6.376-2.636-3.75-3.75"/></g></svg>

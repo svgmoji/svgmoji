@@ -1,16 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="42.9998" y="15.7214" width="10.9999" height="15.5562" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.4114 41.1773)" fill="#9B9B9A"/>
-    <polygon fill="#3F3F3F" points="46.0339,22.2119 50.512,17.7338 57.8891,25.1109 52.5221,30.4779"/>
-    <circle cx="31.769" cy="40.4038" r="23" fill="#9B9B9A"/>
-    <path fill="#3F3F3F" d="M19.6333,55.7374c12.7025,0,23-10.2975,23-23c0-5.5327-1.9548-10.6081-5.2097-14.5762 c9.8615,2.5932,17.1357,11.5674,17.1357,22.2428c0,12.7025-10.2975,23-23,23c-7.1697,0-13.5723-3.2816-17.7903-8.4237 C15.6416,55.4725,17.6063,55.7374,19.6333,55.7374z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="41.4601,19.5393 46.8889,14.1105 57.8887,25.1103 52.5218,30.4773"/>
-    <circle cx="31.769" cy="40.4038" r="23" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="55.7574" x2="64.2426" y1="16.2426" y2="7.7574" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><path fill="#9B9B9A" d="M39.11 21.888l7.778-7.778 11 11-7.778 7.778z"/><path fill="#3F3F3F" d="M46.034 22.212l4.478-4.478 7.377 7.377-5.367 5.367z"/><circle cx="31.769" cy="40.404" r="23" fill="#9B9B9A"/><path fill="#3F3F3F" d="M19.633 55.737c12.703 0 23-10.297 23-23a22.904 22.904 0 00-5.21-14.576C47.286 20.754 54.56 29.73 54.56 40.404c0 12.702-10.297 23-23 23-7.17 0-13.572-3.282-17.79-8.424 1.873.492 3.837.757 5.864.757z"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"><path d="M41.46 19.54l5.429-5.43 11 11-5.367 5.367"/><circle cx="31.769" cy="40.404" r="23"/><path d="M55.757 16.243l8.486-8.486"/></g></svg>

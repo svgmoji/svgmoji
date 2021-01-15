@@ -1,6 +1,6 @@
 # svgmoji
 
-> A sample package from `svgmoji/svgmoji`
+> Consume svg sprites from popular open source emoji libraries.
 
 <br />
 
@@ -30,3 +30,7 @@ npm install svgmoji
 ```
 
 <br />
+
+## Getting Started
+
+More docs to come.

@@ -1,12 +1,1 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
-  </g>
-  <g id="line">
-    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.74" paint-order="normal"/>
-    <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="4.74" d="m43.24 22.41-15.01 26-0.3267-0.1886"/>
-    <g transform="matrix(4.347 0 0 4.347 36 20.78)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd">
-      <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.84" d="m0 7c-1.058 0-1.916-0.857-1.916-1.916v-3.168c0-1.058 0.858-1.916 1.916-1.916s1.916 0.858 1.916 1.916v3.168c0 1.059-0.858 1.916-1.916 1.916z"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72"><circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd"/><g stroke-linejoin="round"><circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4.74"/><path fill="none" stroke="#000" stroke-width="4.74" d="M43.24 22.41l-15.01 26-.327-.189"/><path fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7.998480000000001" d="M36 51.209a8.327 8.327 0 01-8.329-8.329V29.11a8.33 8.33 0 0116.658 0V42.88A8.327 8.327 0 0136 51.21z" clip-rule="evenodd"/></g></svg>
