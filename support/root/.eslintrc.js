@@ -266,6 +266,7 @@ let config = {
         '@typescript-eslint/ban-ts-ignore': 'off', // Often you need to use @ts-ignore in tests
         '@typescript-eslint/no-non-null-assertion': 'off', // Makes writing tests more convenient
         '@typescript-eslint/no-use-before-define': 'off',
+        '@typescript-eslint/no-var-requires': 'off',
       },
     },
     {

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Popular open-source emoji libraries available in SVG format.
+  Consume popular <em>open-source</em> <strong>emoji</strong> libraries as SVG's.
 </p>
 
 <br />
@@ -25,7 +25,7 @@
     <img src="https://github.com/svgmoji/svgmoji/workflows/ci/badge.svg?branch=main" alt="Continuous integration badge for github actions" title="CI Badge" />
   </a>
   <a href="https://github.com/svgmoji/svgmoji/actions?query=workflow:docs">
-    <img src="https://github.com/svgmoji/svgmoji/workflows/docs/badge.svg?branch=next" alt="Continuous integration badge for docs deployment" title="Docs Deployment CI Badge" />
+    <img src="https://github.com/svgmoji/svgmoji/workflows/docs/badge.svg?branch=main" alt="Continuous integration badge for docs deployment" title="Docs Deployment CI Badge" />
   </a>
 </p>
 
@@ -33,29 +33,20 @@
 
 ## Why
 
-Consume emoji libraries as SVG sprites.
+Consume open source emoji libraries as SVGs.
 
 ### [noto](https://github.com/googlefonts/noto-emoji)
 
 <br />
 <p align="center">
-  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
-</p>
-
-### [openmoji](https://github.com/hfg-gmuend/openmoji)
-
-> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#). Requirements for attribution are outlined [here](https://github.com/hfg-gmuend/openmoji/blob/master/FAQ.md#-whats-the-license-of-openmoji-for-app--website--book--ad--video--projects).
-
-<br />
-<p align="center">
-  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F4A9.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F62D.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
 </p>
 
 ### [blobmoji](https://github.com/c1710/blobmoji)
 
 <br />
 <p align="center">
-  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F4A9.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F62D.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
 </p>
 
 ### [twitter emoji](https://github.com/twitter/twemoji)
@@ -63,15 +54,26 @@ Consume emoji libraries as SVG sprites.
 > Attributes requirements are outlined [here](https://github.com/twitter/twemoji#attribution-requirements).
 
 <br />
+
 <p align="center">
-  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F4A9.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F62D.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+</p>
+
+### [openmoji](https://github.com/hfg-gmuend/openmoji)
+
+<br />
+
+> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#). Requirements for attribution are outlined [here](https://github.com/hfg-gmuend/openmoji/blob/master/FAQ.md#-whats-the-license-of-openmoji-for-app--website--book--ad--video--projects).
+
+<p align="center">
+  <a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F4A9.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F62D.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="55px" height="55px" src="./packages/svgmoji__openmoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
 </p>
 
 <br />
 
 ## Getting Started
 
-Install the emoji library of your choice `svgmoji`.
+Install the **emoji** library of your choice.
 
 ```bash
 pnpm add @svgmoji/noto
@@ -125,10 +127,10 @@ Documentation is still very much a work in progress and more is to come.
   };
   ```
 
-- [ ] Add `React Native` native components.
-- [ ] Add support for `Vue`.
-- [ ] Add `Svelte` support.
-- [ ] Add svg css support.
+- [ ] Add `React Native` components.
+- [ ] Add `Vue` components.
+- [ ] Add `Svelte` components.
+- [ ] Add SVG **CSS** support.
 - [ ] Optimize the individual SVG's with `svgo`.
 - [ ] Add metrics for sizes of the group, subgroup, and other sizes for metric.
 - [ ] Add new package `@svgmoji/openmoji-black` for `openmoji` black and white emoji support.
