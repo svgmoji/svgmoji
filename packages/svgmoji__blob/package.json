@@ -8,6 +8,17 @@
   "license": "MIT",
   "contributors": [],
   "sideEffects": false,
+  "exports": {
+    ".": {
+      "import": "./dist/svgmoji-blob.esm.js",
+      "require": "./dist/svgmoji-blob.cjs.js",
+      "browser": "./dist/svgmoji-blob.browser.esm.js",
+      "types": "./dist/svgmoji-blob.cjs.d.ts",
+      "default": "./dist/svgmoji-blob.esm.js"
+    },
+    "./package.json": "./package.json",
+    "./types/*": "./dist/declarations/src/*.d.ts"
+  },
   "main": "dist/svgmoji-blob.cjs.js",
   "module": "dist/svgmoji-blob.esm.js",
   "browser": {
@@ -28,6 +39,6 @@
     "access": "public"
   },
   "meta": {
-    "sizeLimit": "5 KB"
+    "sizeLimit": "10 KB"
   }
 }
