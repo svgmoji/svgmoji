@@ -19,6 +19,7 @@
     "dist"
   ],
   "dependencies": {
+    "@babel/runtime": "^7.12.5",
     "@types/object.omit": "^3.0.0",
     "emojibase": "^5.1.0",
     "emojibase-data": "^6.1.0",
