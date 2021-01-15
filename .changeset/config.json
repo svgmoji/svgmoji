@@ -10,7 +10,7 @@
       "@svgmoji/blob",
       "@svgmoji/core",
       "@svgmoji/noto",
-      "@svgomoji/openmoji",
+      "@svgmoji/openmoji",
       "@svgmoji/twemoji"
     ]
   ],
