@@ -68,7 +68,7 @@
     "ts": "node -r esm -r ./support/scripts/babel-register.js",
     "typecheck": "tsc -b ./tsconfig.references.json",
     "update:deps": "pnpm update --latest --recursive -i",
-    "update:workspace": "pnpm up -r --workspace \"@remirror/*\"",
+    "update:workspace": "pnpm up -r --workspace \"@svgmoji/*\"",
     "watch": "preconstruct watch # not recommended"
   },
   "browserslist": [
