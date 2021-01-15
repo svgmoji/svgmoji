@@ -24,6 +24,9 @@
   <a href="https://github.com/svgmoji/svgmoji/actions?query=workflow:ci">
     <img src="https://github.com/svgmoji/svgmoji/workflows/ci/badge.svg?branch=main" alt="Continuous integration badge for github actions" title="CI Badge" />
   </a>
+  <a href="https://github.com/svgmoji/svgmoji/actions?query=workflow:docs">
+    <img src="https://github.com/svgmoji/svgmoji/workflows/docs/badge.svg?branch=next" alt="Continuous integration badge for docs deployment" title="Docs Deployment CI Badge" />
+  </a>
 </p>
 
 <br />
@@ -31,6 +34,38 @@
 ## Why
 
 Consume emoji libraries as SVG sprites.
+
+### [noto](https://github.com/googlefonts/noto-emoji)
+
+<br />
+<p align="center">
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__noto/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+</p>
+
+### [openmoji](https://github.com/hfg-gmuend/openmoji)
+
+> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#). Requirements for attribution are outlined [here](https://github.com/hfg-gmuend/openmoji/blob/master/FAQ.md#-whats-the-license-of-openmoji-for-app--website--book--ad--video--projects).
+
+<br />
+<p align="center">
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__openmoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+</p>
+
+### [blobmoji](https://github.com/c1710/blobmoji)
+
+<br />
+<p align="center">
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__blob/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+</p>
+
+### [twitter emoji](https://github.com/twitter/twemoji)
+
+> Attributes requirements are outlined [here](https://github.com/twitter/twemoji#attribution-requirements).
+
+<br />
+<p align="center">
+  <a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F44D.svg" alt="thumbs up" title="thumbs up" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F600.svg" alt="grinning" title="grinning" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/2764.svg" alt="red heart" title="red heart" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F602.svg" alt="face with tears of joy" title="face with tears of joy" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F605.svg" alt="grinning face with sweat" title="grinning face with sweat" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F97A.svg" alt="pleading face" title="pleading face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F4A9.svg" alt="loudly crying face" title="loudly crying face" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F62D.svg" alt="pile of poo" title="pile of poo" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F60E.svg" alt="smiling face with sunglasses" title="smiling face with sunglasses" /></a>&nbsp;&nbsp;&nbsp;<a href="#"><img width="40px" height="40px" src="./packages/svgmoji__twemoji/svg/1F631.svg" alt="face screaming in fear" title="face screaming in fear" /></a>
+</p>
 
 <br />
 
@@ -42,11 +77,63 @@ Install the emoji library of your choice `svgmoji`.
 pnpm add @svgmoji/noto
 ```
 
+You can consume the library in the following way.
+
+```ts
+import { Notomoji } from '@svgmoji/notomoji';
+import data from 'svgmoji/emoji.json';
+
+const notomoji = new Notomoji({ data, type: 'all' });
+const image = document.createElement('img');
+image.src = notomoji.getUrl('❤️');
+
+document.body.append(image);
+```
+
+The above code will reference the svg sprite image from the cdn. This is a huge file (3000+ emoji) and although it's a one off download cost, you may prefer to be more incremental.
+
+The `type` parameter can be updated to reflect how you want to reference the emoji.
+
+```ts
+// Will load the cdn sprite for the emoji groups.
+// There are 10 groups in total some of which rarely get used.
+const groupNotomoji = new Notomoji({ data, type: 'group' });
+
+// Will load the cdn sprite for the subgroup. Smaller download size,
+// but if you are using a large variety of emoji, it could lead to
+// delayed load times.
+const subGroupNotomoji = new Notomoji({ data, type: 'subgroup' });
+
+// Loads each emoji as a direct url. This is useful if emoji are
+// rarely used in your codebase.
+const individualNotomoji = new Notomoji({ data, type: 'subgroup' });
+```
+
+Documentation is still very much a work in progress and more is to come.
+
 <br />
 
 ## Future
 
+- [ ] Add `React` support to all libraries.
+
+  ```tsx
+  import { SvgMoji } from `@svgmoji/noto/react`;
+
+  const MyMoji = () => {
+    return <SvgMoji unicode='💋' />;
+  };
+  ```
+
+- [ ] Add `React Native` native components.
+- [ ] Add support for `Vue`.
+- [ ] Add `Svelte` support.
+- [ ] Add svg css support.
 - [ ] Optimize the individual SVG's with `svgo`.
+- [ ] Add metrics for sizes of the group, subgroup, and other sizes for metric.
+- [ ] Add new package `@svgmoji/openmoji-black` for `openmoji` black and white emoji support.
+- [ ] Add support for css backgrounds.
+- [ ] Add font consumption support.
 
 ## Contributing
 

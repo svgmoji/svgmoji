@@ -370,6 +370,8 @@ if (process.env.FULL_ESLINT_CHECK) {
 
         // Set up rules to be excluded in the markdown blocks.
         rules: {
+          'simple-import-sort/exports': 'off',
+          'simple-import-sort/imports': 'off',
           'unicorn/filename-case': 'off',
           '@typescript-eslint/no-unused-vars-experimental': 'off',
         },

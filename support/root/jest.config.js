@@ -2,7 +2,7 @@ module.exports = {
   ...require('../jest/jest.config'),
   coverageThreshold: {
     global: {
-      statements: 60,
+      // statements: 60,
     },
   },
   collectCoverageFrom: [

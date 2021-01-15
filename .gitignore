@@ -82,6 +82,7 @@ jspm_packages/
 
 # Build files
 dist
+**/dist
 
 # We are using pnpm
 .yarn/

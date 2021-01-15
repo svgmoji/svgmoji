@@ -1,7 +1,7 @@
-import { Emoticon, FlatEmoji, EmojiGithubMeta, stripHexcode } from '@svgmoji/core';
+import { EmojiGithubMeta, Emoticon, FlatEmoji, stripHexcode } from '@svgmoji/core';
 import path from 'path';
+import { BLOB_META, NOTO_META, OPENMOJI_META, TWEMOJI_META } from 'svgmoji';
 import emojis from 'svgmoji/emoji.json';
-import { NOTO_META, BLOB_META, OPENMOJI_META, TWEMOJI_META } from 'svgmoji';
 
 import { baseDir, log } from '../helpers';
 

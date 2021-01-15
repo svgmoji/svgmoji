@@ -4,7 +4,7 @@
   "description": "A sample package from `svgmoji/svgmoji`",
   "keywords": [],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/openmoji",
-  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/openmoji",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__openmoji",
   "license": "MIT",
   "contributors": [],
   "sideEffects": false,

@@ -1,7 +1,42 @@
 [
   {
-    "name": "template-package",
-    "path": "packages/template-package/dist/template-package.browser.esm.js",
+    "name": "svgmoji",
+    "path": "packages/svgmoji/dist/svgmoji.browser.esm.js",
+    "limit": "5 KB",
+    "ignore": [],
+    "running": false
+  },
+  {
+    "name": "@svgmoji/blob",
+    "path": "packages/svgmoji__blob/dist/svgmoji-blob.browser.esm.js",
+    "limit": "5 KB",
+    "ignore": [],
+    "running": false
+  },
+  {
+    "name": "@svgmoji/core",
+    "path": "packages/svgmoji__core/dist/svgmoji-core.browser.esm.js",
+    "limit": "5 KB",
+    "ignore": [],
+    "running": false
+  },
+  {
+    "name": "@svgmoji/noto",
+    "path": "packages/svgmoji__noto/dist/svgmoji-noto.browser.esm.js",
+    "limit": "5 KB",
+    "ignore": [],
+    "running": false
+  },
+  {
+    "name": "@svgmoji/openmoji",
+    "path": "packages/svgmoji__openmoji/dist/svgmoji-openmoji.browser.esm.js",
+    "limit": "5 KB",
+    "ignore": [],
+    "running": false
+  },
+  {
+    "name": "@svgmoji/twemoji",
+    "path": "packages/svgmoji__twemoji/dist/svgmoji-twemoji.browser.esm.js",
     "limit": "5 KB",
     "ignore": [],
     "running": false

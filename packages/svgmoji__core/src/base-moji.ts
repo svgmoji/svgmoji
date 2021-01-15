@@ -91,7 +91,7 @@ export abstract class Moji {
     }
 
     if (this.type === SpriteCollection.Subgroup && emoji?.subgroup) {
-      const name = subgroups[`${emoji.group}` as keyof typeof subgroups];
+      const name = subgroups[`${emoji.subgroup}` as keyof typeof subgroups];
       return `${this.cdn}/sprites/subgroup/${name}.svg#${hexcode}`;
     }
 

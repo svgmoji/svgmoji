@@ -4,7 +4,7 @@
   "description": "A sample package from `svgmoji/svgmoji`",
   "keywords": [],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/twemoji",
-  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/twemoji",
+  "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__twemoji",
   "license": "MIT",
   "contributors": [],
   "sideEffects": false,
