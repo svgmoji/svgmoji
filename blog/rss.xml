@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Remirror Template Blog</title>
+        <link>https://remirror.github.io/template/blog</link>
+        <description>Remirror Template Blog</description>
+        <lastBuildDate>Tue, 14 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blog Plugin]]></title>
+            <link>https://remirror.github.io/template/blog/2020/04/14/blog-plugin</link>
+            <guid>Blog Plugin</guid>
+            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[You can use our blog plugin to do your posts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A large blog post]]></title>
+            <link>https://remirror.github.io/template/blog/2020/04/14/large-blog-post</link>
+            <guid>A large blog post</guid>
+            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is an example]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://remirror.github.io/template/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://remirror.github.io/template/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hola]]></title>
+            <link>https://remirror.github.io/template/blog/hola</link>
+            <guid>hola</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies.]]></description>
+        </item>
+    </channel>
+</rss>
