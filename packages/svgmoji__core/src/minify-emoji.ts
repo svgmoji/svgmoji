@@ -86,7 +86,7 @@ export interface MinifiedEmoji {
 /**
  * Minify emoji which can be useful for reducing the json bundlesize.
  */
-export function minifyEmoji(emojis: FlatEmoji[]): MinifiedEmoji[] {
+export function minifyEmoji(emojis: readonly FlatEmoji[]): readonly MinifiedEmoji[] {
   return emojis.map((emoji) =>
     omitUndefined({
       a: emoji.annotation,

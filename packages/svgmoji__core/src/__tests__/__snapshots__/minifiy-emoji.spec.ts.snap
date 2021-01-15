@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`minifyEmoji minifies the json object 1`] = `
+Array [
+  Object {
+    "a": "hot face",
+    "b": 0,
+    "c": 6,
+    "d": "",
+    "e": "🥵",
+    "h": "1F975",
+    "i": 1,
+    "o": 58,
+    "s": Array [
+      "hot_face",
+    ],
+    "t": Array [
+      "feverish",
+      "heat stroke",
+      "hot",
+      "red-faced",
+      "sweating",
+    ],
+    "v": 11,
+  },
+]
+`;
