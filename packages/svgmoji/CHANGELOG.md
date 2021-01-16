@@ -1,5 +1,20 @@
 # svgmoji
 
+## 1.0.0
+
+> 2021-01-16
+
+### Patch Changes
+
+- Updated dependencies [ca58f626]
+- Updated dependencies [b549183a]
+- Updated dependencies [67a34b4f]
+  - @svgmoji/blob@1.0.0
+  - @svgmoji/noto@1.0.0
+  - @svgmoji/openmoji@1.0.0
+  - @svgmoji/twemoji@1.0.0
+  - @svgmoji/core@1.0.0
+
 ## 0.2.0
 
 > 2021-01-16

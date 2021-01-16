@@ -1,5 +1,26 @@
 # @svgmoji/noto
 
+## 1.0.0
+
+> 2021-01-16
+
+### Minor Changes
+
+- ca58f626: - Upgrade sha for `@svgmoji/openmoji` to include recently added emoji.
+  - Improve optimizations for generated SVG's in `@svgmoji/noto` and `@svgmoji/blob`.
+  - Add missing flag emojis to both `@svgmoji/noto` and `@svgmoji/blob`.
+  - Add json entry points for both `missing.json` and `extra.json`.
+    - `missing.json` is a list of hexcodes from Emoji version 13 which are missing from the emoji set.
+    - `extra.json` outlines all the non-standard emoji within this emoji set.
+  - Add a new group, and subgroup called `other` which includes the set of all emoji without a group / subgroup.
+- 67a34b4f: - Make `@svgmoji/core` a peer dependency.
+  - Improve type inference by setting the `name` to a `const` for `Blobmoji`, `Notomoji`, `Twemoji` and `Openmoji`
+
+### Patch Changes
+
+- Updated dependencies [b549183a]
+  - @svgmoji/core@1.0.0
+
 ## 0.2.0
 
 > 2021-01-16
