@@ -245,6 +245,7 @@ Documentation is still very much a work in progress and more is to come.
 
 ## Future
 
+- [x] Optimize the individual SVG's with `svgo`.
 - [ ] Add `React` support to all libraries.
 
   ```tsx
@@ -259,7 +260,6 @@ Documentation is still very much a work in progress and more is to come.
 - [ ] Add `Vue` components.
 - [ ] Add `Svelte` components.
 - [ ] Add SVG **CSS** support.
-- [ ] Optimize the individual SVG's with `svgo`.
 - [ ] Add metrics for sizes of the group, subgroup, and other sizes for metric.
 - [ ] Add new package `@svgmoji/openmoji-black` for `openmoji` black and white emoji support.
 - [ ] Add support for css backgrounds.
