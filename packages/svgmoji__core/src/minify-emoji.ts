@@ -1,4 +1,4 @@
-import type { FlatEmoji,MinifiedEmoji } from './types';
+import type { FlatEmoji, MinifiedEmoji } from './types';
 
 /**
  * Minify emoji which can be useful for reducing the json bundlesize.

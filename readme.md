@@ -31,9 +31,11 @@
 
 <br />
 
-## Why
+## Why?
 
-Consume open source emoji libraries as SVGs.
+Consume open source emoji libraries as vector graphics (`.svg`). The bundle size is smaller and the image scales better with high resolution devices.
+
+This library tracks the most popular emoji projects that I'm aware of and makes their SVG available as sprites which can be consumed.
 
 ### [noto](https://github.com/googlefonts/noto-emoji)
 
@@ -236,7 +238,7 @@ const subGroupNotomoji = new Notomoji({ data, type: 'subgroup' });
 
 // Loads each emoji as a direct url. This is useful if emoji are
 // rarely used in your codebase.
-const individualNotomoji = new Notomoji({ data, type: 'subgroup' });
+const individualNotomoji = new Notomoji({ data, type: 'individual' });
 ```
 
 Documentation is still very much a work in progress and more is to come.

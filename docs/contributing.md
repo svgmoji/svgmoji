@@ -70,7 +70,7 @@ pnpm emoji:download # download the emoji libraries to your machine.
 pnpm emoji:sprites # create the sprites in the respective emoji packages.
 ```
 
-The `emoji:download` command takes approximately **2 minutes** to run on a 64GB iMac, while the `emoji:sprites` command takes **11 minutes**.
+The `emoji:download` command takes approximately **3m5s** to run on a 64GB iMac, while the `emoji:sprites` command takes **11m**.
 
 ## Documentation
 

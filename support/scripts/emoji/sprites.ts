@@ -112,7 +112,7 @@ async function generateSprites() {
     const svgFolder = getSvgDestination(library.name);
     promises.push(limit(() => writeSprite({ folder: svgFolder, library, output: 'all' })));
 
-    for (const [group, output] of Object.entries(groups)) {
+    for (const [group, output] of [...Object.entries(groups), ['', 'other'] as const]) {
       promises.push(
         limit(() =>
           writeSprite({
@@ -120,13 +120,13 @@ async function generateSprites() {
             library,
             output,
             subDirectory: 'group',
-            filterFn: (emoji) => emoji.group === +group,
+            filterFn: (emoji) => (group ? emoji.group === +group : emoji.group == null),
           }),
         ),
       );
     }
 
-    for (const [subgroup, output] of Object.entries(subgroups)) {
+    for (const [subgroup, output] of [...Object.entries(subgroups), ['', 'other'] as const]) {
       promises.push(
         limit(() =>
           writeSprite({
@@ -134,7 +134,7 @@ async function generateSprites() {
             library,
             output,
             subDirectory: 'subgroup',
-            filterFn: (emoji) => emoji.subgroup === +subgroup,
+            filterFn: (emoji) => (subgroup ? emoji.subgroup === +subgroup : emoji.subgroup == null),
           }),
         ),
       );

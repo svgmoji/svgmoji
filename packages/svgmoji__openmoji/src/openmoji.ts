@@ -10,6 +10,6 @@ export const OPENMOJI_META: EmojiGithubMeta = {
   name: 'openmoji',
   owner: 'hfg-gmuend',
   repo: 'openmoji',
-  sha: '13.0.0',
+  sha: '93513a3832db7c36bf0be119746456907972b262',
   directory: 'color/svg',
 };

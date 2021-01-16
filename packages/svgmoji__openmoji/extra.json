@@ -1,0 +1,3468 @@
+[
+  {
+    "annotation": "circled zero with slash",
+    "emoji": "🄍",
+    "hexcode": "1F10D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+  },
+  {
+    "annotation": "circled anticlockwise arrow",
+    "emoji": "🄎",
+    "hexcode": "1F10E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre", "share alike"]
+  },
+  {
+    "annotation": "circled dollar sign with overlaid backslash",
+    "emoji": "🄏",
+    "hexcode": "1F10F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre", "non commercial"]
+  },
+  {
+    "annotation": "copyleft symbol",
+    "emoji": "🄯",
+    "hexcode": "1F12F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["open source", "free", "libre", "reciprocal"]
+  },
+  {
+    "annotation": "circled cc",
+    "emoji": "🅭",
+    "hexcode": "1F16D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+  },
+  {
+    "annotation": "circled c with overlaid backslash",
+    "emoji": "🅮",
+    "hexcode": "1F16E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+  },
+  {
+    "annotation": "circled human figure",
+    "emoji": "🅯",
+    "hexcode": "1F16F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "by",
+      "attribution",
+      "credit"
+    ]
+  },
+  {
+    "annotation": "nail and gear flag",
+    "emoji": "🏳️‍📌‍⚙️",
+    "hexcode": "1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hello internet", "cgp grey", "brady haran"]
+  },
+  {
+    "annotation": "red flag",
+    "emoji": "🏳️‍🟥",
+    "hexcode": "1F3F3-FE0F-200D-1F7E5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["socialism", "communism"]
+  },
+  {
+    "annotation": "blue flag",
+    "emoji": "🏳️‍🟦",
+    "hexcode": "1F3F3-FE0F-200D-1F7E6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "united federation of planets flag (star trek)",
+    "emoji": "🏳️‍🟦‍🌌",
+    "hexcode": "1F3F3-FE0F-200D-1F7E6-200D-1F30C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["star trek", "future", "utopia", "trekkie", "trekker", "space"]
+  },
+  {
+    "annotation": "orange flag",
+    "emoji": "🏳️‍🟧",
+    "hexcode": "1F3F3-FE0F-200D-1F7E7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["maratha", "pirate party", "christian democracy"]
+  },
+  {
+    "annotation": "yellow flag",
+    "emoji": "🏳️‍🟨",
+    "hexcode": "1F3F3-FE0F-200D-1F7E8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["quebec", "yellow jack"]
+  },
+  {
+    "annotation": "green flag",
+    "emoji": "🏳️‍🟩",
+    "hexcode": "1F3F3-FE0F-200D-1F7E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["green party", "environmentalism"]
+  },
+  {
+    "annotation": "esperanto flag",
+    "emoji": "🏳️‍🟩‍⭐‍🟩",
+    "hexcode": "1F3F3-FE0F-200D-1F7E9-200D-2B50-200D-1F7E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["constructed", "Zamenhof"]
+  },
+  {
+    "annotation": "purple flag",
+    "emoji": "🏳️‍🟪",
+    "hexcode": "1F3F3-FE0F-200D-1F7EA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "brown flag",
+    "emoji": "🏳️‍🟫",
+    "hexcode": "1F3F3-FE0F-200D-1F7EB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "berlin flag",
+    "emoji": "🏴󠁤󠁥󠁢󠁥󠁿",
+    "hexcode": "1F3F4-E0064-E0065-E0062-E0065-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["bear", "city", "capital"]
+  },
+  {
+    "annotation": "bavaria flag",
+    "emoji": "🏴󠁤󠁥󠁢󠁹󠁿",
+    "hexcode": "1F3F4-E0064-E0065-E0062-E0079-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["state", "lozenge"]
+  },
+  {
+    "annotation": "asturian flag",
+    "emoji": "🏴󠁥󠁳󠁡󠁳󠁿",
+    "hexcode": "1F3F4-E0065-E0073-E0061-E0073-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["asturian", "asturina"]
+  },
+  {
+    "annotation": "california flag",
+    "emoji": "🏴󠁵󠁳󠁣󠁡󠁿",
+    "hexcode": "1F3F4-E0075-E0073-E0063-E0061-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["bear", "republic", "state"]
+  },
+  {
+    "annotation": "texas flag",
+    "emoji": "🏴󠁵󠁳󠁴󠁸󠁿",
+    "hexcode": "1F3F4-E0075-E0073-E0074-E0078-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cowboy", "lone star", "republic", "state"]
+  },
+  {
+    "annotation": "hacker cat",
+    "emoji": "🐱‍💻",
+    "hexcode": "1F431-200D-1F4BB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "coder",
+      "developer",
+      "software",
+      "technologist",
+      "smart",
+      "clever",
+      "code",
+      "notebook",
+      "computer"
+    ]
+  },
+  {
+    "annotation": "stick figure",
+    "emoji": "🯅",
+    "hexcode": "1FBC5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure with arms raised",
+    "emoji": "🯆",
+    "hexcode": "1FBC6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure with dress and arms raised",
+    "emoji": "🯆‍👗",
+    "hexcode": "1FBC6-200D-1F457",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure leaning left",
+    "emoji": "🯇",
+    "hexcode": "1FBC7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure with dress leaning left",
+    "emoji": "🯇‍👗",
+    "hexcode": "1FBC7-200D-1F457",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure leaning right",
+    "emoji": "🯈",
+    "hexcode": "1FBC8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure with dress leaning right",
+    "emoji": "🯈‍👗",
+    "hexcode": "1FBC8-200D-1F457",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "stick figure with dress",
+    "emoji": "🯉",
+    "hexcode": "1FBC9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["legacy computing"]
+  },
+  {
+    "annotation": "catalonia flag",
+    "emoji": "🻴󠁥󠁳󠁣󠁴󠁿",
+    "hexcode": "1FEF4-E0065-E0073-E0063-E0074-E007F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["catalan", "senyera"]
+  },
+  {
+    "annotation": "sound recording copyright",
+    "emoji": "℗",
+    "hexcode": "2117",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["trademark", "music", "phonogram"]
+  },
+  {
+    "annotation": "service mark",
+    "emoji": "℠",
+    "hexcode": "2120",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["trademark", "sm"]
+  },
+  {
+    "annotation": "circled equals",
+    "emoji": "⊜",
+    "hexcode": "229C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["license", "copyright", "creative commons", "open", "libre"]
+  },
+  {
+    "annotation": "power symbol",
+    "emoji": "⏻",
+    "hexcode": "23FB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["enable", "on", "off"]
+  },
+  {
+    "annotation": "power on-off symbol",
+    "emoji": "⏼",
+    "hexcode": "23FC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["enable", "disable", "on", "off"]
+  },
+  {
+    "annotation": "power on symbol",
+    "emoji": "⏽",
+    "hexcode": "23FD",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["enable", "on", "I"]
+  },
+  {
+    "annotation": "power sleep symbol",
+    "emoji": "⏾",
+    "hexcode": "23FE",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["sleep", "standby", "crescent moon"]
+  },
+  {
+    "annotation": "white square",
+    "emoji": "□",
+    "hexcode": "25A1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["missing glyph"]
+  },
+  {
+    "annotation": "black rectangle",
+    "emoji": "▬",
+    "hexcode": "25AC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "white rectangle",
+    "emoji": "▭",
+    "hexcode": "25AD",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "circle with left half black",
+    "emoji": "◐",
+    "hexcode": "25D0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "circle with right half black",
+    "emoji": "◑",
+    "hexcode": "25D1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "square with left half black",
+    "emoji": "◧",
+    "hexcode": "25E7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "square with right half black",
+    "emoji": "◨",
+    "hexcode": "25E8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "square with upper left diagonal black",
+    "emoji": "◩",
+    "hexcode": "25E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "square with lower right diagonal black",
+    "emoji": "◪",
+    "hexcode": "25EA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "up-pointing triangle with left half black",
+    "emoji": "◭",
+    "hexcode": "25ED",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "up-pointing triangle with right half black",
+    "emoji": "◮",
+    "hexcode": "25EE",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "black star",
+    "emoji": "★",
+    "hexcode": "2605",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["full star"]
+  },
+  {
+    "annotation": "red flag",
+    "emoji": "⚑️‍🟥",
+    "hexcode": "2691-FE0F-200D-1F7E5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["socialism", "communism"]
+  },
+  {
+    "annotation": "deep blue flag",
+    "emoji": "⚑️‍🟦",
+    "hexcode": "2691-FE0F-200D-1F7E6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "deep orange flag",
+    "emoji": "⚑️‍🟧",
+    "hexcode": "2691-FE0F-200D-1F7E7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["maratha", "pirate party", "christian democracy"]
+  },
+  {
+    "annotation": "deep yellow flag",
+    "emoji": "⚑️‍🟨",
+    "hexcode": "2691-FE0F-200D-1F7E8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["quebec", "yellow jack"]
+  },
+  {
+    "annotation": "deep green flag",
+    "emoji": "⚑️‍🟩",
+    "hexcode": "2691-FE0F-200D-1F7E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["green party", "environmentalism"]
+  },
+  {
+    "annotation": "browncoat flag",
+    "emoji": "⚑️‍🟩‍★️",
+    "hexcode": "2691-FE0F-200D-1F7E9-200D-2605-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["firefly", "serenity", "independent planets"]
+  },
+  {
+    "annotation": "deep purple flag",
+    "emoji": "⚑️‍🟪",
+    "hexcode": "2691-FE0F-200D-1F7EA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "deep brown flag",
+    "emoji": "⚑️‍🟫",
+    "hexcode": "2691-FE0F-200D-1F7EB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "left right black arrow",
+    "emoji": "⬌",
+    "hexcode": "2B0C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "up down black arrow",
+    "emoji": "⬍",
+    "hexcode": "2B0D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "black pentagon",
+    "emoji": "⬟",
+    "hexcode": "2B1F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "white pentagon",
+    "emoji": "⬠",
+    "hexcode": "2B20",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "white hexagon",
+    "emoji": "⬡",
+    "hexcode": "2B21",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "black hexagon",
+    "emoji": "⬢",
+    "hexcode": "2B22",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "horizontal black hexagon ",
+    "emoji": "⬣",
+    "hexcode": "2B23",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "black large circle",
+    "emoji": "⬤",
+    "hexcode": "2B24",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "black vertical ellipse",
+    "emoji": "⬮",
+    "hexcode": "2B2E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "white vertical ellipse",
+    "emoji": "⬯",
+    "hexcode": "2B2F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "heavy circle",
+    "emoji": "⭘",
+    "hexcode": "2B58",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["off", "disable", "power off", "O"]
+  },
+  {
+    "annotation": "anticlockwise triangle-headed top u-shaped arrow",
+    "emoji": "⮏",
+    "hexcode": "2B8F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "overlapping white squares",
+    "emoji": "⮺",
+    "hexcode": "2BBA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "overlapping white and black squares",
+    "emoji": "⮻",
+    "hexcode": "2BBB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "overlapping black squares",
+    "emoji": "⮼",
+    "hexcode": "2BBC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "horizontal black octagon",
+    "emoji": "⯃",
+    "hexcode": "2BC3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "black octagon",
+    "emoji": "⯄",
+    "hexcode": "2BC4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equilateral polygon"]
+  },
+  {
+    "annotation": "star with left half black",
+    "emoji": "⯪",
+    "hexcode": "2BEA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["half star"]
+  },
+  {
+    "annotation": "star with right half black",
+    "emoji": "⯫",
+    "hexcode": "2BEB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["half star"]
+  },
+  {
+    "annotation": "goldfish",
+    "emoji": "",
+    "hexcode": "E000",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["goldfish", "fish", "water"]
+  },
+  {
+    "annotation": "donkey",
+    "emoji": "",
+    "hexcode": "E001",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "poppy",
+    "emoji": "",
+    "hexcode": "E002",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["poppy", "remembrance", "veterans"]
+  },
+  {
+    "annotation": "doe",
+    "emoji": "",
+    "hexcode": "E003",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["forest", "hunt", "antler", "deer"]
+  },
+  {
+    "annotation": "spouting-orca",
+    "emoji": "",
+    "hexcode": "E004",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "cetacean",
+      "whale",
+      "spouting",
+      "orca",
+      "killer whale",
+      "blackfish",
+      "swim",
+      "animal",
+      "water"
+    ]
+  },
+  {
+    "annotation": "orca",
+    "emoji": "",
+    "hexcode": "E005",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cetacean", "whale", "orca", "killer whale", "blackfish", "swim", "animal", "water"]
+  },
+  {
+    "annotation": "narwhal",
+    "emoji": "",
+    "hexcode": "E006",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cetacean", "whale", "swim", "animal", "water"]
+  },
+  {
+    "annotation": "beluga",
+    "emoji": "",
+    "hexcode": "E007",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cetacean", "whale", "swim", "animal", "water"]
+  },
+  {
+    "annotation": "porpoise",
+    "emoji": "",
+    "hexcode": "E008",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cetacean", "swim", "animal", "water"]
+  },
+  {
+    "annotation": "pigeon",
+    "emoji": "",
+    "hexcode": "E009",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["vermin", "rock dove", "bird", "city"]
+  },
+  {
+    "annotation": "macaw",
+    "emoji": "",
+    "hexcode": "E010",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["tropical", "jungle", "exotic", "parrots"]
+  },
+  {
+    "annotation": "microbe",
+    "emoji": "",
+    "hexcode": "E011",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["amoeba", "bacteria", "virus"]
+  },
+  {
+    "annotation": "Twitter",
+    "emoji": "",
+    "hexcode": "E040",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "pinterest",
+    "emoji": "",
+    "hexcode": "E041",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["social", "platform", "pins"]
+  },
+  {
+    "annotation": "facebook",
+    "emoji": "",
+    "hexcode": "E042",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["facebook", "company", "social-media"]
+  },
+  {
+    "annotation": "instagram",
+    "emoji": "",
+    "hexcode": "E043",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["instagram", "facebook", "company", "social-media"]
+  },
+  {
+    "annotation": "youtube",
+    "emoji": "",
+    "hexcode": "E044",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["social", "platform", "video", "brand"]
+  },
+  {
+    "annotation": "github",
+    "emoji": "",
+    "hexcode": "E045",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["social", "platform", "code", "git", "brand"]
+  },
+  {
+    "annotation": "linkedin",
+    "emoji": "",
+    "hexcode": "E046",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["business"]
+  },
+  {
+    "annotation": "android",
+    "emoji": "",
+    "hexcode": "E047",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["google play"]
+  },
+  {
+    "annotation": "musicbrainz",
+    "emoji": "",
+    "hexcode": "E048",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["music metadata"]
+  },
+  {
+    "annotation": "openfoodfact",
+    "emoji": "",
+    "hexcode": "E049",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["nutrition data"]
+  },
+  {
+    "annotation": "openstreetmap",
+    "emoji": "",
+    "hexcode": "E04A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["map", "osm", "geodata"]
+  },
+  {
+    "annotation": "wikidata",
+    "emoji": "",
+    "hexcode": "E04B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["open knowledge graph"]
+  },
+  {
+    "annotation": "Firefox",
+    "emoji": "",
+    "hexcode": "E050",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser", "fire", "fox"]
+  },
+  {
+    "annotation": "Safari",
+    "emoji": "",
+    "hexcode": "E051",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser", "compass", "webkit", "apple"]
+  },
+  {
+    "annotation": "Opera",
+    "emoji": "",
+    "hexcode": "E052",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser"]
+  },
+  {
+    "annotation": "Chromium",
+    "emoji": "",
+    "hexcode": "E053",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser"]
+  },
+  {
+    "annotation": "Chrome",
+    "emoji": "",
+    "hexcode": "E054",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser", "google"]
+  },
+  {
+    "annotation": "Netscape Navigator",
+    "emoji": "",
+    "hexcode": "E055",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser"]
+  },
+  {
+    "annotation": "Internet Explorer",
+    "emoji": "",
+    "hexcode": "E056",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser", "ie", "microsoft"]
+  },
+  {
+    "annotation": "Edge",
+    "emoji": "",
+    "hexcode": "E057",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["browser", "microsoft"]
+  },
+  {
+    "annotation": "assembly point",
+    "emoji": "",
+    "hexcode": "E080",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "assembly group",
+    "emoji": "",
+    "hexcode": "E081",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "authority instruction",
+    "emoji": "",
+    "hexcode": "E082",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "help others",
+    "emoji": "",
+    "hexcode": "E083",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["help elderly", "help wheelchair"]
+  },
+  {
+    "annotation": "drop cover hold",
+    "emoji": "",
+    "hexcode": "E084",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["earthquake safety"]
+  },
+  {
+    "annotation": "evacuate",
+    "emoji": "",
+    "hexcode": "E085",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "evacuate vertical",
+    "emoji": "",
+    "hexcode": "E086",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "evacuate downstairs",
+    "emoji": "",
+    "hexcode": "E087",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "evacuate to shelter",
+    "emoji": "",
+    "hexcode": "E088",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "structural fire",
+    "emoji": "",
+    "hexcode": "E089",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "wild fire",
+    "emoji": "",
+    "hexcode": "E08A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "evacuate fire",
+    "emoji": "",
+    "hexcode": "E08B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "warning tsunami",
+    "emoji": "",
+    "hexcode": "E08C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "warning volcano",
+    "emoji": "",
+    "hexcode": "E08D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "warning fire",
+    "emoji": "",
+    "hexcode": "E08E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "authority",
+    "emoji": "",
+    "hexcode": "E08F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "first aid",
+    "emoji": "",
+    "hexcode": "E090",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["red cross"]
+  },
+  {
+    "annotation": "flagged point",
+    "emoji": "",
+    "hexcode": "E091",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["white flag"]
+  },
+  {
+    "annotation": "flagged building",
+    "emoji": "",
+    "hexcode": "E092",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["white flag"]
+  },
+  {
+    "annotation": "authority building",
+    "emoji": "",
+    "hexcode": "E093",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["white flag"]
+  },
+  {
+    "annotation": "signpost",
+    "emoji": "",
+    "hexcode": "E094",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["orientation", "crossroad"]
+  },
+  {
+    "annotation": "mobile info",
+    "emoji": "",
+    "hexcode": "E095",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "mobile message",
+    "emoji": "",
+    "hexcode": "E096",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "charge plug",
+    "emoji": "",
+    "hexcode": "E097",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["low battery"]
+  },
+  {
+    "annotation": "shelter",
+    "emoji": "",
+    "hexcode": "E098",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "volcano eruption",
+    "emoji": "",
+    "hexcode": "E099",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["volcano fumarole"]
+  },
+  {
+    "annotation": "volcano ashes",
+    "emoji": "",
+    "hexcode": "E09A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["volcano eruption"]
+  },
+  {
+    "annotation": "tsunami",
+    "emoji": "",
+    "hexcode": "E09B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "earthquake",
+    "emoji": "",
+    "hexcode": "E09C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "landslide",
+    "emoji": "",
+    "hexcode": "E09D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "avalanche",
+    "emoji": "",
+    "hexcode": "E09E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "flood",
+    "emoji": "",
+    "hexcode": "E09F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "north",
+    "emoji": "",
+    "hexcode": "E0A0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "transmission",
+    "emoji": "",
+    "hexcode": "E0A1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "sos stencil",
+    "emoji": "",
+    "hexcode": "E0A2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "ok stencil",
+    "emoji": "",
+    "hexcode": "E0A3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "no stencil",
+    "emoji": "",
+    "hexcode": "E0A4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "warning strip",
+    "emoji": "",
+    "hexcode": "E0A5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "warning strip right",
+    "emoji": "",
+    "hexcode": "E0A6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["arrow"]
+  },
+  {
+    "annotation": "arrow turn right",
+    "emoji": "",
+    "hexcode": "E0A7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "emergency exit door",
+    "emoji": "",
+    "hexcode": "E0A8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "location indicator red",
+    "emoji": "",
+    "hexcode": "E0A9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "electric plug red",
+    "emoji": "",
+    "hexcode": "E0AA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "timer",
+    "emoji": "",
+    "hexcode": "E0AB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["clock", "alarm"]
+  },
+  {
+    "annotation": "person with medical mask",
+    "emoji": "",
+    "hexcode": "E0AC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "woman with medical mask",
+    "emoji": "‍♀️",
+    "hexcode": "E0AC-200D-2640-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "man with medical mask",
+    "emoji": "‍♂️",
+    "hexcode": "E0AC-200D-2642-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "person sneezing into elbow",
+    "emoji": "",
+    "hexcode": "E0AD",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "dab"]
+  },
+  {
+    "annotation": "woman sneezing into elbow",
+    "emoji": "‍♀️",
+    "hexcode": "E0AD-200D-2640-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "dab"]
+  },
+  {
+    "annotation": "man sneezing into elbow",
+    "emoji": "‍♂️",
+    "hexcode": "E0AD-200D-2642-FE0F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "dab"]
+  },
+  {
+    "annotation": "disinfect surface",
+    "emoji": "",
+    "hexcode": "E0AE",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "sanitize", "clean"]
+  },
+  {
+    "annotation": "quarantine",
+    "emoji": "",
+    "hexcode": "E0AF",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "social distancing",
+    "emoji": "",
+    "hexcode": "E0B0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "sanitizer spray",
+    "emoji": "",
+    "hexcode": "E0B1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "disinfect", "clean"]
+  },
+  {
+    "annotation": "wash hands",
+    "emoji": "",
+    "hexcode": "E0B2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "sanitize", "clean"]
+  },
+  {
+    "annotation": "temperature taking",
+    "emoji": "",
+    "hexcode": "E0B3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19", "thermometer"]
+  },
+  {
+    "annotation": "medical gloves",
+    "emoji": "",
+    "hexcode": "E0B4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coronavirus", "COVID-19"]
+  },
+  {
+    "annotation": "half orange fruit",
+    "emoji": "",
+    "hexcode": "E0C0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["citrus fruits", "half"]
+  },
+  {
+    "annotation": "maultasche",
+    "emoji": "",
+    "hexcode": "E0C1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "meal", "germany"]
+  },
+  {
+    "annotation": "lentils with spaetzle",
+    "emoji": "",
+    "hexcode": "E0C2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "meal", "germany"]
+  },
+  {
+    "annotation": "pretzel",
+    "emoji": "",
+    "hexcode": "E0C3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "brezel", "germany"]
+  },
+  {
+    "annotation": "pomegranate",
+    "emoji": "",
+    "hexcode": "E0C4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pomegranate", "fruit", "seeds"]
+  },
+  {
+    "annotation": "latte macchiato",
+    "emoji": "",
+    "hexcode": "E0C5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coffee"]
+  },
+  {
+    "annotation": "roasted coffee bean",
+    "emoji": "",
+    "hexcode": "E0C6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "ubuntu",
+    "emoji": "",
+    "hexcode": "E0FF",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["linux"]
+  },
+  {
+    "annotation": "tap",
+    "emoji": "",
+    "hexcode": "E100",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "double tap",
+    "emoji": "",
+    "hexcode": "E101",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "three finger operation",
+    "emoji": "",
+    "hexcode": "E102",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "move",
+    "emoji": "",
+    "hexcode": "E103",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "scroll",
+    "emoji": "",
+    "hexcode": "E104",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["vertical", "y-axis", "mouse", "wheel", "movement", "up", "down"]
+  },
+  {
+    "annotation": "swipe",
+    "emoji": "",
+    "hexcode": "E105",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swipe", "finger", "move", "hand", "sideways", "app"]
+  },
+  {
+    "annotation": "scroll horizontal",
+    "emoji": "",
+    "hexcode": "E106",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["x-axis", "move", "mouse", "scrollwheel", "scrolling"]
+  },
+  {
+    "annotation": "page move",
+    "emoji": "",
+    "hexcode": "E107",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["movement", "left", "right", "site", "document", "next", "previous", "paper"]
+  },
+  {
+    "annotation": "swipe left",
+    "emoji": "",
+    "hexcode": "E108",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["finger", "movement", "gesture", "touch", "app", "left", "x-axis", "hand"]
+  },
+  {
+    "annotation": "swipe up",
+    "emoji": "",
+    "hexcode": "E109",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["finger", "movement", "gesture", "touch", "app", "up", "y-axis", "hand"]
+  },
+  {
+    "annotation": "swipe right",
+    "emoji": "",
+    "hexcode": "E10A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["finger", "movement", "gesture", "touch", "app", "right", "x-axis", "hand"]
+  },
+  {
+    "annotation": "swipe down",
+    "emoji": "",
+    "hexcode": "E10B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["finger", "movement", "gesture", "touch", "app", "down", "y-axis", "hand"]
+  },
+  {
+    "annotation": "finger pushing button",
+    "emoji": "",
+    "hexcode": "E10C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pushing", "pressing", "red", "alarm", "nuclear missile", "launch", "start", "stop"]
+  },
+  {
+    "annotation": "exit",
+    "emoji": "",
+    "hexcode": "E10D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "first aid kit",
+    "emoji": "",
+    "hexcode": "E140",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "armchair",
+    "emoji": "",
+    "hexcode": "E141",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "picture",
+    "emoji": "",
+    "hexcode": "E142",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["photo", "picture", "frame", "landscape"]
+  },
+  {
+    "annotation": "lighter",
+    "emoji": "",
+    "hexcode": "E143",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["lighter", "bic"]
+  },
+  {
+    "annotation": "outlet",
+    "emoji": "",
+    "hexcode": "E144",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["outlet"]
+  },
+  {
+    "annotation": "spätzlepresse",
+    "emoji": "",
+    "hexcode": "E146",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "spätzle", "germany"]
+  },
+  {
+    "annotation": "european name badge",
+    "emoji": "",
+    "hexcode": "E147",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "kehrwoche",
+    "emoji": "",
+    "hexcode": "E148",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany", "broom"]
+  },
+  {
+    "annotation": "tardis",
+    "emoji": "",
+    "hexcode": "E149",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["time machine", "doctor who", "police booth", "police box"]
+  },
+  {
+    "annotation": "espresso machine",
+    "emoji": "",
+    "hexcode": "E150",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coffee"]
+  },
+  {
+    "annotation": "french press",
+    "emoji": "",
+    "hexcode": "E151",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coffee"]
+  },
+  {
+    "annotation": "moka pot",
+    "emoji": "",
+    "hexcode": "E152",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coffee"]
+  },
+  {
+    "annotation": "milk jug",
+    "emoji": "",
+    "hexcode": "E153",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["coffee", "latte"]
+  },
+  {
+    "annotation": "electric coffee percolator",
+    "emoji": "",
+    "hexcode": "E154",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["burned coffee"]
+  },
+  {
+    "annotation": "drip coffee maker",
+    "emoji": "",
+    "hexcode": "E155",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "coffee grinder",
+    "emoji": "",
+    "hexcode": "E156",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "horse jumping hurdle",
+    "emoji": "",
+    "hexcode": "E157",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equestrian"]
+  },
+  {
+    "annotation": "drunk person",
+    "emoji": "",
+    "hexcode": "E181",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "person",
+      "person-activity",
+      "person-gesture",
+      "person-sport",
+      "drunk",
+      "alcohol",
+      "party",
+      "beer",
+      "drinking"
+    ]
+  },
+  {
+    "annotation": "person with dog",
+    "emoji": "",
+    "hexcode": "E182",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["person", "person-activity", "dog", "walking", "animal", "pet"]
+  },
+  {
+    "annotation": "trump",
+    "emoji": "",
+    "hexcode": "E183",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["trump", "donald", "president", "america", "usa"]
+  },
+  {
+    "annotation": "horse riding",
+    "emoji": "",
+    "hexcode": "E184",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["equestrian"]
+  },
+  {
+    "annotation": "barista",
+    "emoji": "",
+    "hexcode": "E185",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["person"]
+  },
+  {
+    "annotation": "man barista",
+    "emoji": "",
+    "hexcode": "E186",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["male"]
+  },
+  {
+    "annotation": "woman barista",
+    "emoji": "",
+    "hexcode": "E187",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["female"]
+  },
+  {
+    "annotation": "Greta Thunberg",
+    "emoji": "",
+    "hexcode": "E188",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["climate change", "sweden", "activist", "Fridays for Future", "FFF"]
+  },
+  {
+    "annotation": "wireframes",
+    "emoji": "",
+    "hexcode": "E1C0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "code editor",
+    "emoji": "",
+    "hexcode": "E1C1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "autonomous car",
+    "emoji": "",
+    "hexcode": "E1C2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "switch",
+    "emoji": "",
+    "hexcode": "E1C3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["toggling", "changeover switch", "exchange counter", "left", "right"]
+  },
+  {
+    "annotation": "surveillance",
+    "emoji": "",
+    "hexcode": "E1C4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["surveillance", "camera", "CCTV"]
+  },
+  {
+    "annotation": "augmented reality",
+    "emoji": "",
+    "hexcode": "E1C6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "led",
+    "emoji": "",
+    "hexcode": "E1C7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "motor",
+    "emoji": "",
+    "hexcode": "E1C8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "raspberry pi",
+    "emoji": "",
+    "hexcode": "E1C9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "virtual reality",
+    "emoji": "",
+    "hexcode": "E1CA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "cable",
+    "emoji": "",
+    "hexcode": "E1CB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "tablet",
+    "emoji": "",
+    "hexcode": "E1CC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["technology", "device", "portable", "screen", "phablet", "ipad"]
+  },
+  {
+    "annotation": "gps",
+    "emoji": "",
+    "hexcode": "E1CD",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "navigation",
+      "localization",
+      "location",
+      "reception",
+      "signal",
+      "wireless",
+      "crosshair",
+      "where"
+    ]
+  },
+  {
+    "annotation": "smartwatch",
+    "emoji": "",
+    "hexcode": "E1CE",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["clock", "apps", "monitor", "intelligent", "device", "armlet"]
+  },
+  {
+    "annotation": "washing machine",
+    "emoji": "",
+    "hexcode": "E1CF",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["clothing", "garment", "cleaner", "home electronics", "appliance"]
+  },
+  {
+    "annotation": "ibeacon",
+    "emoji": "",
+    "hexcode": "E1D0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "wireless",
+      "technology",
+      "iot",
+      "internet of things",
+      "navigation",
+      "localization",
+      "antenna",
+      "connection",
+      "reception"
+    ]
+  },
+  {
+    "annotation": "keyboard",
+    "emoji": "",
+    "hexcode": "E1D1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["keyboard", "key", "type"]
+  },
+  {
+    "annotation": "drone",
+    "emoji": "",
+    "hexcode": "E1D2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["drone", "UAV", "quadcopter", "RC"]
+  },
+  {
+    "annotation": "arduino",
+    "emoji": "",
+    "hexcode": "E1D3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["arduino", "prototyping", "electric", "sensor"]
+  },
+  {
+    "annotation": "wire",
+    "emoji": "",
+    "hexcode": "E1D4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["wire", "cord", "electric", "litz-wire"]
+  },
+  {
+    "annotation": "potentiometer",
+    "emoji": "",
+    "hexcode": "E1D5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["potentiometer"]
+  },
+  {
+    "annotation": "solar cell",
+    "emoji": "",
+    "hexcode": "E1D6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["solar", "module", "cell", "photovoltaic"]
+  },
+  {
+    "annotation": "circuit",
+    "emoji": "",
+    "hexcode": "E1D7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["circuit", "electric", "prototype"]
+  },
+  {
+    "annotation": "cafeteria",
+    "emoji": "",
+    "hexcode": "E200",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "emergency exit",
+    "emoji": "",
+    "hexcode": "E201",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "alarm",
+      "fire",
+      "escape",
+      "way",
+      "route",
+      "guidance",
+      "signage",
+      "run",
+      "person",
+      "people",
+      "humans"
+    ]
+  },
+  {
+    "annotation": "stairway",
+    "emoji": "",
+    "hexcode": "E202",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["steps", "up", "down", "ascend", "descend", "walk"]
+  },
+  {
+    "annotation": "town",
+    "emoji": "",
+    "hexcode": "E203",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["city", "village", "town"]
+  },
+  {
+    "annotation": "elevator",
+    "emoji": "",
+    "hexcode": "E204",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["elevator"]
+  },
+  {
+    "annotation": "eiffel tower",
+    "emoji": "",
+    "hexcode": "E205",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["paris", "tower", "france"]
+  },
+  {
+    "annotation": "parking garage",
+    "emoji": "",
+    "hexcode": "E206",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["parking lot", "car", "automobile", "vehicle", "sign", "traffic sign", "p"]
+  },
+  {
+    "annotation": "schwäbisch gmünd forum gold und silber",
+    "emoji": "",
+    "hexcode": "E207",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany", "schwaebisch gmuend"]
+  },
+  {
+    "annotation": "schwäbisch gmünd fünfknopfturm",
+    "emoji": "",
+    "hexcode": "E208",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["tower", "schwaebisch gmuend"]
+  },
+  {
+    "annotation": "schwäbisch gmünd ratshaus",
+    "emoji": "",
+    "hexcode": "E209",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["town hall", "schwaebisch gmuend"]
+  },
+  {
+    "annotation": "stuttgart fernsehturm",
+    "emoji": "",
+    "hexcode": "E20A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany"]
+  },
+  {
+    "annotation": "space shuttle",
+    "emoji": "",
+    "hexcode": "E20B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["nasa", "shuttle", "rocket", "space", "galaxy", "adventure", "alien", "transportation"]
+  },
+  {
+    "annotation": "viennese coffee house",
+    "emoji": "",
+    "hexcode": "E20C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["viennese coffee culture"]
+  },
+  {
+    "annotation": "black hole",
+    "emoji": "",
+    "hexcode": "E20D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["interstellar", "event horizon", "accretion disc"]
+  },
+  {
+    "annotation": "mark",
+    "emoji": "",
+    "hexcode": "E240",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "toggle button",
+    "emoji": "",
+    "hexcode": "E241",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "location indicator",
+    "emoji": "",
+    "hexcode": "E242",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "scale",
+    "emoji": "",
+    "hexcode": "E243",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "measurement",
+      "scaling",
+      "size",
+      "distance",
+      "meters",
+      "inches",
+      "miles",
+      "kilometers"
+    ]
+  },
+  {
+    "annotation": "locomotion",
+    "emoji": "",
+    "hexcode": "E244",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["movement", "transport", "driving", "destination", "start", "end", "distance", "track"]
+  },
+  {
+    "annotation": "toggle button state B",
+    "emoji": "",
+    "hexcode": "E245",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "people dialogue",
+    "emoji": "",
+    "hexcode": "E246",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "communication",
+      "talking",
+      "chatting",
+      "users",
+      "humans",
+      "conversation",
+      "two",
+      "face-to-face"
+    ]
+  },
+  {
+    "annotation": "safety",
+    "emoji": "",
+    "hexcode": "E247",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "chats",
+    "emoji": "",
+    "hexcode": "E248",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["messaging", "typing", "message", "text", "writing", "write", "dialog"]
+  },
+  {
+    "annotation": "collaboration",
+    "emoji": "",
+    "hexcode": "E249",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["collab", "team", "teamwork", "group", "work", "communication", "circle"]
+  },
+  {
+    "annotation": "interview",
+    "emoji": "",
+    "hexcode": "E24A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["interview", "talk", "speak", "bubble"]
+  },
+  {
+    "annotation": "intricate",
+    "emoji": "",
+    "hexcode": "E24B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["intricate", "abstract"]
+  },
+  {
+    "annotation": "simple",
+    "emoji": "",
+    "hexcode": "E24C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["simple", "abstract"]
+  },
+  {
+    "annotation": "return, back button",
+    "emoji": "",
+    "hexcode": "E24D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "close",
+    "emoji": "",
+    "hexcode": "E24E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "forward",
+    "emoji": "",
+    "hexcode": "E24F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "hamburger menu",
+    "emoji": "",
+    "hexcode": "E250",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "upload",
+    "emoji": "",
+    "hexcode": "E251",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "download",
+    "emoji": "",
+    "hexcode": "E252",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "share",
+    "emoji": "",
+    "hexcode": "E253",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "wifi",
+    "emoji": "",
+    "hexcode": "E254",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "copy",
+    "emoji": "",
+    "hexcode": "E255",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "contacts",
+    "emoji": "",
+    "hexcode": "E256",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "filter",
+    "emoji": "",
+    "hexcode": "E257",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "cursor",
+    "emoji": "",
+    "hexcode": "E258",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pointer"]
+  },
+  {
+    "annotation": "details",
+    "emoji": "",
+    "hexcode": "E259",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "hold",
+    "emoji": "",
+    "hexcode": "E25A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "duplicate",
+    "emoji": "",
+    "hexcode": "E25B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["make copy", "second", "file", "create", "page", "document"]
+  },
+  {
+    "annotation": "save",
+    "emoji": "",
+    "hexcode": "E25C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["store", "hard drive", "record", "hdd", "harddisk", "download"]
+  },
+  {
+    "annotation": "edit",
+    "emoji": "",
+    "hexcode": "E25D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "change",
+      "editing",
+      "pencil",
+      "page",
+      "document",
+      "file",
+      "write",
+      "writing",
+      "scribble"
+    ]
+  },
+  {
+    "annotation": "home button",
+    "emoji": "",
+    "hexcode": "E25E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "house",
+      "main",
+      "page",
+      "website",
+      "navigation",
+      "app",
+      "ui",
+      "symbol",
+      "internet",
+      "homepage"
+    ]
+  },
+  {
+    "annotation": "add button",
+    "emoji": "",
+    "hexcode": "E25F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["new", "file", "plus", "more", "create", "set"]
+  },
+  {
+    "annotation": "archive",
+    "emoji": "",
+    "hexcode": "E260",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["save", "save to", "library", "cupboard", "drawer"]
+  },
+  {
+    "annotation": "overview",
+    "emoji": "",
+    "hexcode": "E261",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["overview", "lines", "list"]
+  },
+  {
+    "annotation": "delete",
+    "emoji": "",
+    "hexcode": "E262",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["delete", "bin", "waste", "remove"]
+  },
+  {
+    "annotation": "comment",
+    "emoji": "",
+    "hexcode": "E263",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["comment", "write"]
+  },
+  {
+    "annotation": "more information",
+    "emoji": "",
+    "hexcode": "E264",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["more", "plus", "add", "cross"]
+  },
+  {
+    "annotation": "sort",
+    "emoji": "",
+    "hexcode": "E265",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["sort", "list", "hierarchy"]
+  },
+  {
+    "annotation": "inbox",
+    "emoji": "",
+    "hexcode": "E266",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["entrance", "inbox", "in"]
+  },
+  {
+    "annotation": "compose",
+    "emoji": "",
+    "hexcode": "E267",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["write", "compose", "author"]
+  },
+  {
+    "annotation": "add contact",
+    "emoji": "",
+    "hexcode": "E268",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["add", "contact"]
+  },
+  {
+    "annotation": "link",
+    "emoji": "",
+    "hexcode": "E269",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["link", "chain"]
+  },
+  {
+    "annotation": "exhausted face",
+    "emoji": "",
+    "hexcode": "E280",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["exhausted", "sleepy", "tired", "face"]
+  },
+  {
+    "annotation": "incredulous face",
+    "emoji": "",
+    "hexcode": "E281",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["incredulous", "disbelief", "shocked"]
+  },
+  {
+    "annotation": "dejected face",
+    "emoji": "",
+    "hexcode": "E282",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["sigh", "._.", "pensive", "disappointed"]
+  },
+  {
+    "annotation": "iceberg",
+    "emoji": "",
+    "hexcode": "E2C0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["titanic", "ship wreck", "ice", "cold", "sea"]
+  },
+  {
+    "annotation": "floating ice",
+    "emoji": "",
+    "hexcode": "E2C1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["glacier", "polar", "sea", "melt"]
+  },
+  {
+    "annotation": "floating ice broken",
+    "emoji": "",
+    "hexcode": "E2C2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["glacier", "polar", "sea", "melt"]
+  },
+  {
+    "annotation": "polar research station",
+    "emoji": "",
+    "hexcode": "E2C3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["neumayer station", "arctic", "science"]
+  },
+  {
+    "annotation": "ice core sample",
+    "emoji": "",
+    "hexcode": "E2C4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["science", "research", "arctic", "polar"]
+  },
+  {
+    "annotation": "ice shelf",
+    "emoji": "",
+    "hexcode": "E2C6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["glacier", "polar", "sea", "melt"]
+  },
+  {
+    "annotation": "ice shelf melting",
+    "emoji": "",
+    "hexcode": "E2C7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["glacier", "sea", "melt", "climate", "global", "warming"]
+  },
+  {
+    "annotation": "polar explorer",
+    "emoji": "",
+    "hexcode": "E2C8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["inuit", "anorak with fur"]
+  },
+  {
+    "annotation": "polar explorer man",
+    "emoji": "",
+    "hexcode": "E2C9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["research"]
+  },
+  {
+    "annotation": "polar explorer woman",
+    "emoji": "",
+    "hexcode": "E2CA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["research"]
+  },
+  {
+    "annotation": "oil spill",
+    "emoji": "",
+    "hexcode": "E2CB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pollution", "petrol", "fossil", "fuel"]
+  },
+  {
+    "annotation": "exhaust gases factory",
+    "emoji": "",
+    "hexcode": "E2CC",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pollution", "CO2", "carbon"]
+  },
+  {
+    "annotation": "solar energy",
+    "emoji": "",
+    "hexcode": "E2CD",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["sun", "panel", "clean", "power", "renewable"]
+  },
+  {
+    "annotation": "meat consumption",
+    "emoji": "",
+    "hexcode": "E2CE",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["carnivore"]
+  },
+  {
+    "annotation": "exhaust gases car",
+    "emoji": "",
+    "hexcode": "E2CF",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pollution", "carbon", "CO2"]
+  },
+  {
+    "annotation": "sea level rise",
+    "emoji": "",
+    "hexcode": "E2D0",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["flood", "tsunami", "sinking"]
+  },
+  {
+    "annotation": "wind energy",
+    "emoji": "",
+    "hexcode": "E2D1",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["turbine", "clean", "power", "renewable"]
+  },
+  {
+    "annotation": "reusable bag",
+    "emoji": "",
+    "hexcode": "E2D2",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["recycle", "nondisposable", "tote", "paper"]
+  },
+  {
+    "annotation": "radioactive waste",
+    "emoji": "",
+    "hexcode": "E2D3",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["nuclear", "hazardous"]
+  },
+  {
+    "annotation": "nuclear power plant",
+    "emoji": "",
+    "hexcode": "E2D4",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["reactor", "stacks", "cooling"]
+  },
+  {
+    "annotation": "nuclear power plant ruin",
+    "emoji": "",
+    "hexcode": "E2D5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["chernobyl", "fukushima", "reactor"]
+  },
+  {
+    "annotation": "geiger counter",
+    "emoji": "",
+    "hexcode": "E2D6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["radiation", "radioactive", "science", "research"]
+  },
+  {
+    "annotation": "nuclear worker man",
+    "emoji": "",
+    "hexcode": "E2D7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["radiation", "protection suit"]
+  },
+  {
+    "annotation": "nuclear worker woman",
+    "emoji": "",
+    "hexcode": "E2D8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["radiation", "protection suit", ""]
+  },
+  {
+    "annotation": "nuclear protection",
+    "emoji": "",
+    "hexcode": "E2D9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["radiation", "suit", "gas mask", "nbc suit", "hazmat"]
+  },
+  {
+    "annotation": "atom bomb",
+    "emoji": "",
+    "hexcode": "E2DA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["nuclear", "radioactive", "nuke", "WW2"]
+  },
+  {
+    "annotation": "female doctor",
+    "emoji": "",
+    "hexcode": "E300",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "care", "surgery"]
+  },
+  {
+    "annotation": "male doctor",
+    "emoji": "",
+    "hexcode": "E301",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "care", "surgery"]
+  },
+  {
+    "annotation": "female nurse",
+    "emoji": "",
+    "hexcode": "E302",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "care", "surgery"]
+  },
+  {
+    "annotation": "male nurse",
+    "emoji": "",
+    "hexcode": "E303",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "care", "surgery"]
+  },
+  {
+    "annotation": "pills",
+    "emoji": "",
+    "hexcode": "E305",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["drug", "medicine", "tablets", "pain killers"]
+  },
+  {
+    "annotation": "plaster",
+    "emoji": "",
+    "hexcode": "E306",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["patch", "band aid", "plaster", "wound", "dressing", "bandage"]
+  },
+  {
+    "annotation": "medication",
+    "emoji": "",
+    "hexcode": "E307",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["drug", "medicine", "tablets", "pain killers"]
+  },
+  {
+    "annotation": "ecg waves",
+    "emoji": "",
+    "hexcode": "E308",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["heartbeats", "beat", "hospital", "electrocardiogram"]
+  },
+  {
+    "annotation": "first aid bag",
+    "emoji": "",
+    "hexcode": "E309",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["briefcase", "medicine", "kit"]
+  },
+  {
+    "annotation": "patient file",
+    "emoji": "",
+    "hexcode": "E30A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "record", "filing"]
+  },
+  {
+    "annotation": "patient clipboard",
+    "emoji": "",
+    "hexcode": "E30B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "notes", "transcript"]
+  },
+  {
+    "annotation": "saline drip",
+    "emoji": "",
+    "hexcode": "E30C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "bag"]
+  },
+  {
+    "annotation": "blood transfusion",
+    "emoji": "",
+    "hexcode": "E30D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["medical", "bleeding", "loss"]
+  },
+  {
+    "annotation": "swab pliers",
+    "emoji": "",
+    "hexcode": "E30E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["surgery", "scissors"]
+  },
+  {
+    "annotation": "hot-water bottle",
+    "emoji": "",
+    "hexcode": "E30F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cramps", "comfort", "warm", "period"]
+  },
+  {
+    "annotation": "liver",
+    "emoji": "",
+    "hexcode": "E312",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["organ", "toxins", "bile"]
+  },
+  {
+    "annotation": "stomach",
+    "emoji": "",
+    "hexcode": "E313",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["gut", "digestion", "bile", "acid"]
+  },
+  {
+    "annotation": "large intestine",
+    "emoji": "",
+    "hexcode": "E314",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["organ", "colon", "gut"]
+  },
+  {
+    "annotation": "intestine",
+    "emoji": "",
+    "hexcode": "E315",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["organ", "digestion", "colon", "gut"]
+  },
+  {
+    "annotation": "kidney",
+    "emoji": "",
+    "hexcode": "E316",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["urine", "toxins", "blood", "organ"]
+  },
+  {
+    "annotation": "forceps",
+    "emoji": "",
+    "hexcode": "E318",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["surgery", "tweezers", "tongs"]
+  },
+  {
+    "annotation": "brain",
+    "emoji": "",
+    "hexcode": "E319",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["cortex", "grey matter", "intelligence", "IQ"]
+  },
+  {
+    "annotation": "bed linen",
+    "emoji": "",
+    "hexcode": "E31A",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "bedding", "sheets"]
+  },
+  {
+    "annotation": "bandage change",
+    "emoji": "",
+    "hexcode": "E31B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital", "gauze", "dressing", "wound"]
+  },
+  {
+    "annotation": "eye pain",
+    "emoji": "",
+    "hexcode": "E31C",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["migraine", "headache", "strain", "sore"]
+  },
+  {
+    "annotation": "headache",
+    "emoji": "",
+    "hexcode": "E31D",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["migraine", "sore", "tension", "stress"]
+  },
+  {
+    "annotation": "earache",
+    "emoji": "",
+    "hexcode": "E31E",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["tinnitus", "headache", "sore"]
+  },
+  {
+    "annotation": "fracture leg",
+    "emoji": "",
+    "hexcode": "E31F",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["broken", "cast", "bone"]
+  },
+  {
+    "annotation": "knee pain",
+    "emoji": "",
+    "hexcode": "E320",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["ACL", "ache", "patella"]
+  },
+  {
+    "annotation": "backache",
+    "emoji": "",
+    "hexcode": "E321",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["spine", "ache", "lumbar", "pain"]
+  },
+  {
+    "annotation": "joint pain",
+    "emoji": "",
+    "hexcode": "E322",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["ache", "arthritis", "strain", "cartilage,"]
+  },
+  {
+    "annotation": "clinical thermometer",
+    "emoji": "",
+    "hexcode": "E324",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["temperature", "fever", "mercury", "heat"]
+  },
+  {
+    "annotation": "bandage scissors",
+    "emoji": "",
+    "hexcode": "E325",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital,gauze", "dressing"]
+  },
+  {
+    "annotation": "crutches",
+    "emoji": "",
+    "hexcode": "E326",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["walk", "broken leg", "accessibility"]
+  },
+  {
+    "annotation": "wheel chair",
+    "emoji": "",
+    "hexcode": "E327",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["accessibility", "DACA", "disability", "mobility"]
+  },
+  {
+    "annotation": "stretcher",
+    "emoji": "",
+    "hexcode": "E328",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hospital,ambulance,patient,gurney"]
+  },
+  {
+    "annotation": "ct scan",
+    "emoji": "",
+    "hexcode": "E329",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["MRI", "cat", "cancer", "tumour"]
+  },
+  {
+    "annotation": "scales",
+    "emoji": "",
+    "hexcode": "E32B",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["BMI", "weight", "mass", "heavy"]
+  },
+  {
+    "annotation": "gardener man",
+    "emoji": "",
+    "hexcode": "E340",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "gardener woman",
+    "emoji": "",
+    "hexcode": "E341",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "gardening gloves",
+    "emoji": "",
+    "hexcode": "E342",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "lawn mower",
+    "emoji": "",
+    "hexcode": "E343",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "wheelbarrow",
+    "emoji": "",
+    "hexcode": "E344",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pushcart"]
+  },
+  {
+    "annotation": "spade",
+    "emoji": "",
+    "hexcode": "E345",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["shovel"]
+  },
+  {
+    "annotation": "trowel",
+    "emoji": "",
+    "hexcode": "E346",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["shovel"]
+  },
+  {
+    "annotation": "axe",
+    "emoji": "",
+    "hexcode": "E347",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["wood", "chop", "stump"]
+  },
+  {
+    "annotation": "saw",
+    "emoji": "",
+    "hexcode": "E348",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["foxtail", "carpentry", "wood", "branch", "rip saw"]
+  },
+  {
+    "annotation": "no handshaking",
+    "emoji": "",
+    "hexcode": "E380",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["hygiene", "agreement", "virus", "meeting", "spread", "germs"]
+  },
+  {
+    "annotation": "web syndication",
+    "emoji": "",
+    "hexcode": "E381",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["feed", "rss", "atom feed", "podcast", "subscribe", "web feed"]
+  },
+  {
+    "annotation": "windows",
+    "emoji": "",
+    "hexcode": "F000",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["microsoft"]
+  },
+  {
+    "annotation": "apple",
+    "emoji": "",
+    "hexcode": "F8FF",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["iOS", "osx"]
+  }
+]

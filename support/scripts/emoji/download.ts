@@ -2,6 +2,7 @@ import 'localstorage-polyfill';
 import 'isomorphic-fetch';
 
 import { fetchEmojis, generateEmoticonPermutations, minifyEmoji } from '@svgmoji/core';
+import copy from 'cpy';
 import { mkdir, readdir, readFile, writeFile } from 'fs/promises';
 import got from 'got';
 import ms from 'ms';
@@ -11,10 +12,10 @@ import path from 'path';
 import SVGO from 'svgo';
 import tar from 'tar';
 
-import { cliArgs, formatFiles, log } from '../helpers';
+import { cliArgs, formatFiles, log, rm } from '../helpers';
 import { data, emojiLibraries, EmojiLibrary, getSvgDestination, packagesDirectory } from './utils';
 
-async function download() {
+async function run() {
   log.debug('\n⏬ Starting download...');
   const emojiFile = path.join(packagesDirectory, 'svgmoji', `emoji.json`);
   const minifiedEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji.min.json`);
@@ -23,6 +24,7 @@ async function download() {
 
   log.debug('\n😊 Loading emojis from cdn');
   data.emojis = await fetchEmojis('en', { shortcodes: ['cldr'] });
+  data.hexcodes = data.emojis.map((emoji) => emoji.hexcode);
 
   for (const emoji of data.emojis) {
     if (!emoji.emoticon) {
@@ -43,7 +45,7 @@ async function download() {
 
   await mkdir(tmpdir, { recursive: true });
 
-  const limit = pLimit(os.cpus().length - 1);
+  const limit = pLimit(os.cpus().length);
   const promises: Array<Promise<void>> = [];
 
   for (const library of emojiLibraries) {
@@ -57,7 +59,7 @@ async function download() {
     const extractFolder = path.join(tmpdir, name);
     const url = `https://github.com/${owner}/${repo}/archive/${sha}.tar.gz`;
 
-    log.debug(`Downloading repository into ${extractFolder}`);
+    log.debug(`\nDownloading repository into ${extractFolder}`);
     const promise = limit(extractSvg({ url, tarPath, extractFolder, directory, name, library }));
     promises.push(promise);
   }
@@ -65,6 +67,23 @@ async function download() {
   promises.push(limit(prettifyJson(emojiFile, minifiedEmojiFile, emoticonsFile)));
 
   await Promise.all(promises);
+
+  const filePromises: Array<Promise<void>> = [];
+
+  for (const library of emojiLibraries) {
+    const json = (data.extra[library.name]?.sort() ?? []).map(
+      (code) => library.transform?.(code) ?? code,
+    );
+    const extraJsonFile = getSvgDestination(library.name, 'extra.json');
+    filePromises.push(
+      limit(async () => {
+        await rm(extraJsonFile);
+        await writeFile(extraJsonFile, JSON.stringify(json, null, 2));
+      }),
+    );
+  }
+
+  await Promise.all(filePromises);
 }
 
 const svgo = new SVGO({
@@ -84,7 +103,7 @@ const svgo = new SVGO({
     { removeEmptyContainers: true },
     { removeViewBox: false },
     { cleanupEnableBackground: true },
-    { convertStyleToAttrs: true },
+    { convertStyleToAttrs: false },
     { convertColors: true },
     { convertPathData: true },
     { convertTransform: true },
@@ -106,7 +125,7 @@ const svgo = new SVGO({
   ],
 });
 
-download();
+run();
 
 function prettifyJson(...files: string[]): () => void | PromiseLike<void> {
   return () => {
@@ -133,12 +152,24 @@ function extractSvg(props: ExtractSvgProps): () => void | PromiseLike<void> {
     await writeFile(tarPath, buffer);
     await mkdir(extractFolder, { recursive: true });
     await tar.extract({ cwd: extractFolder, file: tarPath });
+
     const folders = await readdir(extractFolder);
     const folder = folders.find((f) => !f.startsWith('.')) ?? '';
     const svgFolder = path.join(extractFolder, folder, directory);
+
+    if (library.extraFolder) {
+      const sourceFolder = path.join(extractFolder, folder, library.extraFolder, '*.svg');
+      log.debug(`\nℹ️ An extra folder is being searched ${sourceFolder}`);
+      await copy(sourceFolder, svgFolder);
+    }
+
     const destination = getSvgDestination(name);
-    const innerLimit = pLimit(os.cpus().length - 1);
+    const missingJsonFile = getSvgDestination(name, 'missing.json');
+    await rm([destination, missingJsonFile].join(' '));
+    const innerLimit = pLimit(os.cpus().length);
     const innerPromises: Array<Promise<void>> = [];
+    const all: Set<string> = new Set();
+    const missing: string[] = [];
 
     log.debug(`\nOptimize svgs for emoji library ✨${name}✨\nDESTINATION: ${destination}`);
     const start = Date.now();
@@ -149,10 +180,20 @@ function extractSvg(props: ExtractSvgProps): () => void | PromiseLike<void> {
       }
 
       const filepath = path.join(svgFolder, file);
-      innerPromises.push(innerLimit(optimizeSvgFile({ filepath, destination, library, file })));
+      innerPromises.push(
+        innerLimit(optimizeSvgFile({ filepath, destination, library, file, all })),
+      );
     }
 
     await Promise.all(innerPromises);
+
+    for (const hexcode of data.hexcodes) {
+      if (!all.has(hexcode)) {
+        missing.push(hexcode);
+      }
+    }
+
+    await writeFile(missingJsonFile, JSON.stringify(missing, null, 2));
     log.debug(`\n✅ ✨${name}✨ completed in ${ms(Date.now() - start)}`);
   };
 }
@@ -162,15 +203,20 @@ interface OptimizeSvgFileProps {
   destination: string;
   library: EmojiLibrary;
   file: string;
+  /** All the hexcodes for this library */
+  all: Set<string>;
 }
 
 function optimizeSvgFile(props: OptimizeSvgFileProps): () => void | PromiseLike<void> {
-  const { filepath, destination, library, file } = props;
+  const { filepath, destination, library, file, all } = props;
 
   return async () => {
-    const data = await readFile(filepath, 'utf-8');
-    const result = await svgo.optimize(data, { path: filepath });
+    const contents = await readFile(filepath, 'utf-8');
+    const result = await svgo.optimize(contents, { path: filepath });
+    const svgFileName = library.getSvgFile(file);
+    const hexcode = svgFileName.replace('.svg', '');
 
-    await writeFile(path.join(destination, `${library.getHexcode(file)}.svg`), result.data);
+    all.add(hexcode);
+    await writeFile(path.join(destination, svgFileName), result.data);
   };
 }

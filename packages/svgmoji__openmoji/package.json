@@ -33,6 +33,9 @@
   "types": "dist/svgmoji-openmoji.cjs.d.ts",
   "files": [
     "dist",
+    "extra.json",
+    "extra.json.d.ts",
+    "missing.json",
     "sprites",
     "svg"
   ],

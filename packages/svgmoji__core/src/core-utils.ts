@@ -1,5 +1,4 @@
-import type { FlatEmoji , MinifiedEmoji } from './types';
-
+import type { FlatEmoji, MinifiedEmoji } from './types';
 
 export function isMinifiedEmoji(value: unknown): value is MinifiedEmoji {
   if (typeof value !== 'object' || value == null) {

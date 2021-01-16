@@ -1,7 +1,7 @@
 import type { Emoji as BaseEmoji, ShortcodesDataset, SkinTone } from 'emojibase';
 
 import { joinShortcodesToEmoji as joinShortcodesToEmoji } from './join-shortcodes-to-emoji';
-import type { FlatEmoji,SkinToneTuple } from './types';
+import type { FlatEmoji, SkinToneTuple } from './types';
 
 /**
  * Throws an error if the tone is undefined.

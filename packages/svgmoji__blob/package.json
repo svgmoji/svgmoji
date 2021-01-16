@@ -35,6 +35,8 @@
   "types": "dist/svgmoji-blob.cjs.d.ts",
   "files": [
     "dist",
+    "extra.json",
+    "missing.json",
     "sprites",
     "svg"
   ],

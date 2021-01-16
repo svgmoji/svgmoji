@@ -111,13 +111,13 @@ export abstract class Moji {
     }
 
     if (this.type === SpriteCollection.Group && emoji?.group) {
-      const name = groups[emoji.group];
-      return name ? `${this.cdn}/sprites/group/${name}.svg#${emoji.hexcode}` : fallbackUrl;
+      const name = groups[emoji.group] ?? 'other';
+      return `${this.cdn}/sprites/group/${name}.svg#${emoji.hexcode}`;
     }
 
     if (this.type === SpriteCollection.Subgroup && emoji?.subgroup) {
-      const name = subgroups[emoji.subgroup];
-      return name ? `${this.cdn}/sprites/subgroup/${name}.svg#${emoji.hexcode}` : fallbackUrl;
+      const name = subgroups[emoji.subgroup] ?? 'other';
+      return `${this.cdn}/sprites/subgroup/${name}.svg#${emoji.hexcode}`;
     }
 
     return fallbackUrl;

@@ -34,6 +34,8 @@
   "types": "dist/svgmoji-twemoji.cjs.d.ts",
   "files": [
     "dist",
+    "extra.json",
+    "missing.json",
     "sprites",
     "svg"
   ],
