@@ -1,5 +1,22 @@
 # svgmoji
 
+## 0.2.0
+
+> 2021-01-16
+
+### Minor Changes
+
+- ff19a3c4: Improve `npm` package documentation and fix broken subgroup build.
+
+### Patch Changes
+
+- Updated dependencies [ff19a3c4]
+  - @svgmoji/blob@0.2.0
+  - @svgmoji/core@0.2.0
+  - @svgmoji/noto@0.2.0
+  - @svgmoji/openmoji@0.2.0
+  - @svgmoji/twemoji@0.2.0
+
 ## 0.1.0
 
 > 2021-01-15

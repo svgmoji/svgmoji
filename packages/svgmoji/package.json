@@ -1,6 +1,6 @@
 {
   "name": "svgmoji",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Consume svg sprites from popular open source emoji libraries.",
   "keywords": [],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji",
@@ -37,11 +37,11 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@svgmoji/blob": "0.1.0",
-    "@svgmoji/core": "0.1.0",
-    "@svgmoji/noto": "0.1.0",
-    "@svgmoji/openmoji": "0.1.0",
-    "@svgmoji/twemoji": "0.1.0"
+    "@svgmoji/blob": "0.2.0",
+    "@svgmoji/core": "0.2.0",
+    "@svgmoji/noto": "0.2.0",
+    "@svgmoji/openmoji": "0.2.0",
+    "@svgmoji/twemoji": "0.2.0"
   },
   "publishConfig": {
     "access": "public"

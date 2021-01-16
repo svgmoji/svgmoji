@@ -1,5 +1,13 @@
 # @svgmoji/core
 
+## 0.2.0
+
+> 2021-01-16
+
+### Minor Changes
+
+- ff19a3c4: Improve `npm` package documentation and fix broken subgroup build.
+
 ## 0.1.0
 
 > 2021-01-15
