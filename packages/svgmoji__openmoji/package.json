@@ -1,6 +1,6 @@
 {
   "name": "@svgmoji/openmoji",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The svgmoji sprites for the [`openmoji`](https://github.com/hfg-gmuend/openmoji) library.",
   "keywords": [
     "emoji",
@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@svgmoji/core": "0.1.0"
+    "@svgmoji/core": "0.2.0"
   },
   "publishConfig": {
     "access": "public"
