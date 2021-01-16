@@ -7,5 +7,7 @@ export * from './flatten-emoji-data';
 export * from './join-shortcodes-to-emoji';
 export * from './minify-emoji';
 export * from './populate-minified-emoji';
+export * from './regexp';
+export * from './types';
 export type { Emoticon } from 'emojibase';
 export { fromUnicodeToHexcode, generateEmoticonPermutations, stripHexcode } from 'emojibase';

@@ -1,28 +1,28 @@
-import type { Emoji, ShortcodesDataset, SkinTone } from 'emojibase';
+import type { Emoji as BaseEmoji, ShortcodesDataset, SkinTone } from 'emojibase';
 
 import { joinShortcodesToEmoji as joinShortcodesToEmoji } from './join-shortcodes-to-emoji';
+import type { FlatEmoji,SkinToneTuple } from './types';
 
-export interface FlatEmoji extends Omit<Emoji, 'skins' | 'tone'> {
-  /**
-   * The hexcodes for the skins contained.
-   */
-  skins?: string[];
+/**
+ * Throws an error if the tone is undefined.
+ */
+function getTone(tone: SkinTone | SkinTone[] | undefined): SkinToneTuple {
+  if (!tone) {
+    throw new Error('A tone is required when using `getTone`');
+  }
 
-  /**
-   * The skin tone.
-   */
-  tone?: SkinToneTuple;
+  return Array.isArray(tone) ? [tone[0] as SkinTone, tone[1]] : [tone];
 }
 
 function createFlatEmoji(
-  base: Omit<Emoji, 'skins' | 'tone'>,
-  skins: Emoji[] | undefined,
+  base: Omit<BaseEmoji, 'skins' | 'tone'>,
+  skins: BaseEmoji[] | undefined,
   tone: SkinTone | SkinTone[] | undefined,
 ) {
   const flatEmoji: FlatEmoji = { ...base };
 
   if (tone) {
-    flatEmoji.tone = Array.isArray(tone) ? [tone[0] as SkinTone, tone[1]] : [tone];
+    flatEmoji.tone = getTone(tone);
   }
 
   if (skins) {
@@ -32,14 +32,8 @@ function createFlatEmoji(
   return flatEmoji;
 }
 
-/**
- * The skin tone which allows a second tone for complex emoji that support multiple tones for
- * different characters.
- */
-export type SkinToneTuple = [primary: SkinTone, secondary?: SkinTone];
-
 export function flattenEmojiData(
-  data: Emoji[],
+  data: BaseEmoji[],
   shortcodeDatasets: ShortcodesDataset[] = [],
 ): FlatEmoji[] {
   const emojis: FlatEmoji[] = [];

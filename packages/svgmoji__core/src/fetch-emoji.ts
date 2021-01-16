@@ -2,7 +2,8 @@ import type { Emoji, Locale, ShortcodePreset, ShortcodesDataset } from 'emojibas
 
 import { fetchFromCDN, FetchFromCDNOptions } from './fetch-from-cdn';
 import { fetchShortcodes } from './fetch-shortcodes';
-import { FlatEmoji, flattenEmojiData } from './flatten-emoji-data';
+import { flattenEmojiData } from './flatten-emoji-data';
+import type { FlatEmoji } from './types';
 
 export interface FetchEmojisOptions<Type extends Locale> extends FetchFromCDNOptions {
   shortcodes?: Array<EmojiShortcodeLocale<Type> | ShortcodePreset>;

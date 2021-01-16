@@ -1,4 +1,4 @@
-import 'isomorphic-fetch';
+import { get, set } from 'idb-keyval';
 
 export interface FetchFromCDNOptions extends RequestInit {
   /**
@@ -9,22 +9,15 @@ export interface FetchFromCDNOptions extends RequestInit {
   version?: string;
 }
 
-async function get<Type>(key: string): Promise<Type | undefined> {
+async function runInBrowser<Type, Callback extends (...args: any[]) => Promise<Type | undefined>>(
+  callback: Callback,
+  ...args: Parameters<Callback>
+): Promise<Type | undefined> {
   if (typeof document === 'undefined') {
     return;
   }
 
-  const { get: idbGet } = await import('idb-keyval');
-  return idbGet(key);
-}
-
-async function set<Type>(key: string, value: Type): Promise<void> {
-  if (typeof document === 'undefined') {
-    return;
-  }
-
-  const { set: idbSet } = await import('idb-keyval');
-  await idbSet(key, value);
+  return callback(...args);
 }
 
 export async function fetchFromCDN<T>(path: string, options: FetchFromCDNOptions = {}): Promise<T> {
@@ -41,7 +34,7 @@ export async function fetchFromCDN<T>(path: string, options: FetchFromCDNOptions
   }
 
   const cacheKey = `svgmoji/${version}/${path}`;
-  const cachedData: T | undefined = await get(cacheKey);
+  const cachedData: T | undefined = await runInBrowser(get, cacheKey);
 
   // Check the cache first
   if (cachedData) {
@@ -62,7 +55,7 @@ export async function fetchFromCDN<T>(path: string, options: FetchFromCDNOptions
   const data = await response.json();
 
   try {
-    await set(cacheKey, data);
+    await runInBrowser(set, cacheKey, data);
   } catch {
     // Do nothing.
   }

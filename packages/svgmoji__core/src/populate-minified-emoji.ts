@@ -1,6 +1,5 @@
-import type { FlatEmoji } from './flatten-emoji-data';
-import type { MinifiedEmoji } from './minify-emoji';
 import { omitUndefined } from './minify-emoji';
+import type { FlatEmoji, MinifiedEmoji } from './types';
 
 /**
  * Populate the minified emoji into a readable format.
