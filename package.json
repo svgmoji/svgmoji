@@ -64,7 +64,7 @@
     "update:workspace": "pnpm up -r --workspace \"@svgmoji/*\" svgmoji",
     "preversion:changeset": "pnpm ts support/scripts/changeset-forced-update.ts",
     "version:changeset": "changeset version",
-    "postversion:changeset": "pnpm ts support/scripts/changeset-forced-update.ts --clean",
+    "postversion:changeset": "pnpm ts support/scripts/changeset-forced-update.ts -- --clean",
     "version:ci": "run-s version:changeset version:date version:repo fix:prettier version:lockfile",
     "version:date": "pnpm ts support/scripts/changelog-dates.ts",
     "version:lockfile": "CI= pnpm install --frozen-lockfile=false --lockfile-only",
