@@ -6,7 +6,7 @@ import type { SpriteCollectionType } from './constants';
 import { SpriteCollection } from './constants';
 import { isMinifiedEmojiList } from './core-utils';
 import { populateMinifiedEmoji } from './populate-minified-emoji';
-import { EMOJI_REGEX, EMOTICON_REGEX } from './regexp';
+import { EMOTICON_REGEX, HEXCODE_REGEX, SHORTCODE_REGEX } from './regexp';
 import type { FlatEmoji, MinifiedEmoji } from './types';
 
 const groups: Record<number, string> = loadJson('emojibase-data/meta/groups.json', 'groups');
@@ -127,17 +127,24 @@ export abstract class Moji {
    * Get an the emoji object of a value by it's hexcode, emoticon or unicode string.
    */
   find(code: string): FlatEmoji | undefined {
-    if (EMOJI_REGEX.test(code)) {
-      return this.data.find((emoji) => emoji.emoji === code);
-    }
-
     if (EMOTICON_REGEX.test(code)) {
       return this.data.find(
         (emoji) => !!emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code),
       );
     }
 
-    return this.data.find((emoji) => emoji.hexcode === code);
+    if (SHORTCODE_REGEX.test(code)) {
+      return this.data.find((emoji) =>
+        emoji.shortcodes?.map((shortcode) => `:${shortcode}:`).includes(code),
+      );
+    }
+
+    if (HEXCODE_REGEX.test(code)) {
+      return this.data.find((emoji) => emoji.hexcode === code);
+    }
+
+    // Assume that the string passed is a native emoji string.
+    return this.data.find((emoji) => emoji.emoji === code || emoji.text === code);
   }
 
   /**
