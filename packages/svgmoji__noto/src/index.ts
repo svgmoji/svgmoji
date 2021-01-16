@@ -1,1 +1,1 @@
-export * from './noto';
+export * from './notomoji';

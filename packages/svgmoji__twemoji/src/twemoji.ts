@@ -2,7 +2,7 @@ import { EmojiGithubMeta, Moji } from '@svgmoji/core';
 import { getVersion } from 'json.macro';
 
 export class Twemoji extends Moji {
-  name = 'twemoji';
+  name = 'twemoji' as const;
   version = getVersion();
 }
 
