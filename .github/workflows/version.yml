@@ -43,12 +43,10 @@ jobs:
           cache: ${{ env.PNPM_CACHE_FOLDER }}
 
       - name: check versions are valid
-        if: github.event.pull_request_target
         run: pnpm version:pr
 
       - name: create versions
         uses: changesets/action@master
-        if: github.ref == 'refs/heads/next'
         with:
           version: pnpm version:ci
           commit: 'chore(changeset): version update'
