@@ -9,6 +9,8 @@ import { exec, readChangesetState } from './helpers';
 const [, , ...args] = process.argv;
 const command = args.join(' ');
 
+const FIFTY_MB_BUFFER_SIZE = 1024 * 1024 * 50;
+
 async function run() {
   const { changesets, preState } = await readChangesetState();
   const shouldSkipCommand = changesets.length > 0;
@@ -31,6 +33,8 @@ async function run() {
   await exec(publishCommand, {
     // @ts-expect-error
     stdio: 'inherit',
+    // Added so that publishing still succeeds on CI with large publish payloads.
+    maxBuffer: FIFTY_MB_BUFFER_SIZE,
   });
 }
 

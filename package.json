@@ -15,7 +15,7 @@
     "checks:disable": "rimraf ./.config.json",
     "checks:enable": "cpy support/.config.sample.json ./ --rename=\".config.json\"",
     "checks:fix": "run-s -c fix typecheck test",
-    "checks:release": "run-s checks build test:e2e",
+    "checks:release": "run-s checks build",
     "clean": "pnpm if-clean git clean -- -fdx --exclude=.config.json --exclude=node_modules --exclude=**/node_modules",
     "clean:all": "git clean -fdX --exclude='.config.json'",
     "clean:modules": "git clean -fdX packages support",
