@@ -1,5 +1,4 @@
-import { minifyEmoji } from '../minify-emoji';
-import type { FlatEmoji } from '../types';
+import { FlatEmoji, minifyEmoji } from '../';
 
 const data = [
   {
