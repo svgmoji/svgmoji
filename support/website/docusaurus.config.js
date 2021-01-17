@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'Remirror Template',
+  title: 'svgmoji',
   tagline: 'Welcome to your templated docs',
-  url: 'https://remirror.github.io/template',
-  baseUrl: '/',
+  url: 'https://svgmoji.github.io',
+  baseUrl: '/svgmoji/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'remirror', // Usually your GitHub org/user name.
-  projectName: 'remirror', // Usually your repo name.
+  organizationName: 'svgmoji',
+  projectName: 'svgmoji',
   themeConfig: {
     navbar: {
-      title: 'Template',
+      title: 'svgmoji',
       logo: {
         alt: 'Docs',
         src: 'img/logo.svg',
@@ -24,7 +24,7 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/remirror/remirror',
+          href: 'https://github.com/svgmoji/svgmoji',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,7 +38,7 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/remirror',
+              href: 'https://stackoverflow.com/questions/tagged/svgmoji',
             },
             {
               label: 'Discord',
@@ -59,7 +59,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/remirror/remirror',
+              href: 'https://github.com/svgmoji/svgmoji',
             },
           ],
         },
@@ -74,12 +74,12 @@ module.exports = {
         docs: {
           path: '../../docs',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/remirror/remirror/edit/HEAD/docs/',
+          editUrl: 'https://github.com/svgmoji/svgmoji/edit/HEAD/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/remirror/remirror/edit/HEAD/support/website/blog/',
+          editUrl: 'https://github.com/svgmoji/svgmoji/edit/HEAD/support/website/blog/',
         },
       },
     ],
