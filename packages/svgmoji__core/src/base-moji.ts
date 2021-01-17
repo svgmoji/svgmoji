@@ -177,8 +177,9 @@ export abstract class Moji {
       threshold: rankings.WORD_STARTS_WITH,
       keys: [
         { threshold: rankings.STARTS_WITH, key: 'shortcodes' },
-        'tags',
+        (item) => item.shortcodes?.map((shortcode) => shortcode.split('_').join(' ')) ?? [],
         'annotation',
+        'tags',
         (item) => (item.subgroup ? subgroups[item.subgroup]?.split('-').join(' ') ?? '' : ''),
         (item) => (item.group ? groups[item.group]?.split('-').join(' ') ?? '' : ''),
       ],
