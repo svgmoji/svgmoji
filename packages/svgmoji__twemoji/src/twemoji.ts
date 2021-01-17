@@ -3,7 +3,7 @@ import { getVersion } from 'json.macro';
 
 export class Twemoji extends Moji {
   name = 'twemoji' as const;
-  version = getVersion();
+  version = VERSION;
 }
 
 export const TWEMOJI_META: EmojiGithubMeta = {
@@ -13,3 +13,5 @@ export const TWEMOJI_META: EmojiGithubMeta = {
   sha: 'v13.0.1',
   directory: 'assets/svg',
 };
+
+const VERSION = getVersion();

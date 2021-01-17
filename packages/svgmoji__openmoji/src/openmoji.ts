@@ -3,7 +3,7 @@ import { getVersion } from 'json.macro';
 
 export class Openmoji extends Moji {
   name = 'openmoji' as const;
-  version = getVersion();
+  version = VERSION;
 }
 
 export const OPENMOJI_META: EmojiGithubMeta = {
@@ -13,3 +13,4 @@ export const OPENMOJI_META: EmojiGithubMeta = {
   sha: '93513a3832db7c36bf0be119746456907972b262',
   directory: 'color/svg',
 };
+const VERSION = getVersion();

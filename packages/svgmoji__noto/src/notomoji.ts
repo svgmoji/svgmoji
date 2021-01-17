@@ -3,7 +3,7 @@ import { getVersion } from 'json.macro';
 
 export class Notomoji extends Moji {
   name = 'noto' as const;
-  version = getVersion();
+  version = VERSION;
 }
 
 export const NOTO_META: EmojiGithubMeta = {
@@ -13,3 +13,5 @@ export const NOTO_META: EmojiGithubMeta = {
   sha: 'v2020-09-16-unicode13_1',
   directory: 'svg',
 };
+
+const VERSION = getVersion();
