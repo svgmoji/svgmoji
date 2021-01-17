@@ -1,5 +1,16 @@
 # @svgmoji/twemoji
 
+## 2.0.0
+
+> 2021-01-17
+
+### Patch Changes
+
+- Updated dependencies [9599f2dd]
+- Updated dependencies [192504eb]
+- Updated dependencies [192504eb]
+  - @svgmoji/core@2.0.0
+
 ## 1.0.0
 
 > 2021-01-16

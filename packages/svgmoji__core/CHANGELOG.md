@@ -1,5 +1,18 @@
 # @svgmoji/core
 
+## 2.0.0
+
+> 2021-01-17
+
+### Major Changes
+
+- 9599f2dd: Remove all `*_REGEXP` exports. Use `emojibase-regex` as an alternative. This also shaves 300B from the total build size.
+
+### Minor Changes
+
+- 192504eb: Add support for passing a flat emoji object to the `url` method of `Moji`. This can lead to a performance boost in some cases.
+- 192504eb: Add caching to the `Moji#find` method. Now the second time a search is made for the same code, it will be retrieved from the cache.
+
 ## 1.0.0
 
 > 2021-01-16
