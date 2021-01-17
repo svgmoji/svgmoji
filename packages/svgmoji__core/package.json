@@ -1,6 +1,6 @@
 {
   "name": "@svgmoji/core",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Utilities forked from emojibase for working with svgmoji",
   "keywords": [
     "emoji",
