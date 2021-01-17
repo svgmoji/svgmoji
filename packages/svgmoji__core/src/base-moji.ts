@@ -6,7 +6,6 @@ import type { SpriteCollectionType } from './constants';
 import { SpriteCollection } from './constants';
 import { isMinifiedEmojiList } from './core-utils';
 import { populateMinifiedEmoji } from './populate-minified-emoji';
-import { EMOTICON_REGEX, HEXCODE_REGEX, SHORTCODE_REGEX } from './regexp';
 import type { FlatEmoji, MinifiedEmoji } from './types';
 
 const groups: Record<number, string> = loadJson('emojibase-data/meta/groups.json', 'groups');
@@ -127,24 +126,27 @@ export abstract class Moji {
    * Get an the emoji object of a value by it's hexcode, emoticon or unicode string.
    */
   find(code: string): FlatEmoji | undefined {
-    if (EMOTICON_REGEX.test(code)) {
-      return this.data.find(
-        (emoji) => !!emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code),
-      );
+    for (const emoji of this.data) {
+      if (
+        // This is a native emoji match
+        emoji.emoji === code ||
+        // This uses the underlying text representation of the emoji
+        emoji.text === code ||
+        // This is a hexcode match.
+        emoji.hexcode === code ||
+        // There is a match for the shortcode
+        emoji.shortcodes?.includes(code) ||
+        // There is a match for the shortcode, but with surrounding braces.
+        emoji.shortcodes?.map((shortcode) => `:${shortcode}:`).includes(code) ||
+        // The provided code matches the emoticon.
+        (emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code))
+      ) {
+        return emoji;
+      }
     }
 
-    if (SHORTCODE_REGEX.test(code)) {
-      return this.data.find((emoji) =>
-        emoji.shortcodes?.map((shortcode) => `:${shortcode}:`).includes(code),
-      );
-    }
-
-    if (HEXCODE_REGEX.test(code)) {
-      return this.data.find((emoji) => emoji.hexcode === code);
-    }
-
-    // Assume that the string passed is a native emoji string.
-    return this.data.find((emoji) => emoji.emoji === code || emoji.text === code);
+    // No matches were found in the data.
+    return;
   }
 
   /**
