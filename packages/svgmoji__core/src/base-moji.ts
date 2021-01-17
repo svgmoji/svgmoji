@@ -4,7 +4,7 @@ import { matchSorter, rankings } from 'match-sorter';
 
 import type { SpriteCollectionType } from './constants';
 import { SpriteCollection } from './constants';
-import { isMinifiedEmojiList } from './core-utils';
+import { isFlatEmoji, isMinifiedEmojiList } from './core-utils';
 import { populateMinifiedEmoji } from './populate-minified-emoji';
 import type { FlatEmoji, MinifiedEmoji } from './types';
 
@@ -61,8 +61,13 @@ export abstract class Moji {
    */
   fallback: FlatEmoji;
 
+  /**
+   * Cache the results for finding an emoji.
+   */
+  readonly #findCache = new Map<string, FlatEmoji | undefined>();
+
   get cdn(): string {
-    return `https://cdn.jsdelivr.net/npm/@svgmoji/${this.name}@${this.version}/`;
+    return `https://cdn.jsdelivr.net/npm/@svgmoji/${this.name}@${this.version}`;
   }
 
   get fallbackUrl(): string {
@@ -90,11 +95,12 @@ export abstract class Moji {
   /**
    * Get the CDN url from the provided emoji hexcode, emoticon or unicode string.
    */
+  url(emoji: FlatEmoji): string;
   url(code: string, options: { fallback: false }): string | undefined;
   url(code: string, options?: { fallback?: true }): string;
-  url(code: string, options: { fallback?: boolean } = {}): string | undefined {
+  url(code: string | FlatEmoji, options: { fallback?: boolean } = {}): string | undefined {
     const { fallback = true } = options;
-    const emoji = this.find(code);
+    const emoji = isFlatEmoji(code) ? code : this.find(code);
     const fallbackUrl = fallback ? this.fallbackUrl : undefined;
 
     if (!emoji) {
@@ -109,12 +115,12 @@ export abstract class Moji {
       return `${this.cdn}/svg/${emoji.hexcode}.svg`;
     }
 
-    if (this.type === SpriteCollection.Group && emoji?.group) {
+    if (this.type === SpriteCollection.Group && emoji.group != null) {
       const name = groups[emoji.group] ?? 'other';
       return `${this.cdn}/sprites/group/${name}.svg#${emoji.hexcode}`;
     }
 
-    if (this.type === SpriteCollection.Subgroup && emoji?.subgroup) {
+    if (this.type === SpriteCollection.Subgroup && emoji.subgroup != null) {
       const name = subgroups[emoji.subgroup] ?? 'other';
       return `${this.cdn}/sprites/subgroup/${name}.svg#${emoji.hexcode}`;
     }
@@ -126,6 +132,10 @@ export abstract class Moji {
    * Get an the emoji object of a value by it's hexcode, emoticon or unicode string.
    */
   find(code: string): FlatEmoji | undefined {
+    if (this.#findCache.has(code)) {
+      return this.#findCache.get(code);
+    }
+
     for (const emoji of this.data) {
       if (
         // This is a native emoji match
@@ -141,11 +151,14 @@ export abstract class Moji {
         // The provided code matches the emoticon.
         (emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code))
       ) {
+        this.#findCache.set(code, emoji);
         return emoji;
       }
     }
 
     // No matches were found in the data.
+    // eslint-disable-next-line unicorn/no-useless-undefined
+    this.#findCache.set(code, undefined);
     return;
   }
 
@@ -155,6 +168,10 @@ export abstract class Moji {
   search(query: string, options: BaseMojiProps = {}): FlatEmoji[] {
     const { excludeTone } = { ...DEFAULT_OPTIONS, ...options };
     const data = excludeTone ? this.tonelessData : this.data;
+
+    if (!query) {
+      return data;
+    }
 
     return matchSorter(data, query, {
       threshold: rankings.WORD_STARTS_WITH,
@@ -187,7 +204,7 @@ export abstract class Moji {
 }
 
 const DEFAULT_OPTIONS: Required<BaseMojiProps> = {
-  excludeTone: true,
+  excludeTone: false,
 };
 
 interface BaseMojiProps {
