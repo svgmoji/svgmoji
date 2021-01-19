@@ -35,9 +35,7 @@
     "dist",
     "extra.json",
     "extra.json.d.ts",
-    "missing.json",
-    "sprites",
-    "svg"
+    "missing.json"
   ],
   "dependencies": {
     "@babel/runtime": "^7.12.5"

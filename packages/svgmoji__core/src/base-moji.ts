@@ -67,7 +67,7 @@ export abstract class Moji {
   readonly #findCache = new Map<string, FlatEmoji | undefined>();
 
   get cdn(): string {
-    return `https://cdn.jsdelivr.net/npm/@svgmoji/${this.name}@${this.version}`;
+    return `https://cdn.jsdelivr.net/gh/svgmoji/svgmoji@${this.version}/packages/svgmoji__${this.name}`;
   }
 
   get fallbackUrl(): string {

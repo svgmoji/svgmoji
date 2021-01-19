@@ -37,29 +37,29 @@ describe('find', () => {
 describe('url', () => {
   it('can generate a url with the full sprite', () => {
     const moji = new Notomoji({ data, type: 'all', fallback: 'thumbs_up' });
-    expect(moji.url('red_heart')).toBe(
-      `https://cdn.jsdelivr.net/npm/@svgmoji/noto@${getVersion()}/sprites/all.svg#2764`,
+    expect(moji.url('red_heart').replace(`@${getVersion()}`, '')).toMatchInlineSnapshot(
+      `"https://cdn.jsdelivr.net/npm/@svgmoji/noto/sprites/all.svg#2764"`,
     );
   });
 
   it('can generate a url with the group sprite', () => {
     const moji = new Notomoji({ data, type: 'group', fallback: 'thumbs_up' });
-    expect(moji.url('red_heart')).toBe(
-      `https://cdn.jsdelivr.net/npm/@svgmoji/noto@${getVersion()}/sprites/group/smileys-emotion.svg#2764`,
+    expect(moji.url('red_heart').replace(`@${getVersion()}`, '')).toMatchInlineSnapshot(
+      `"https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/sprites/group/smileys-emotion.svg#2764"`,
     );
   });
 
   it('can generate a url with the subgroup sprite', () => {
     const moji = new Notomoji({ data, type: 'sub-group', fallback: 'thumbs_up' });
-    expect(moji.url('red_heart')).toBe(
-      `https://cdn.jsdelivr.net/npm/@svgmoji/noto@${getVersion()}/sprites/subgroup/emotion.svg#2764`,
+    expect(moji.url('red_heart').replace(`@${getVersion()}`, '')).toMatchInlineSnapshot(
+      `"https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/sprites/subgroup/emotion.svg#2764"`,
     );
   });
 
   it('can generate a url with the individual sprite', () => {
     const moji = new Notomoji({ data, type: 'individual', fallback: 'thumbs_up' });
-    expect(moji.url('red_heart')).toBe(
-      `https://cdn.jsdelivr.net/npm/@svgmoji/noto@${getVersion()}/svg/2764.svg`,
+    expect(moji.url('red_heart').replace(`@${getVersion()}`, '')).toMatchInlineSnapshot(
+      `"https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/2764.svg"`,
     );
   });
 });
