@@ -1,5 +1,14 @@
 # @svgmoji/core
 
+## 3.0.0
+
+> 2021-01-19
+
+### Minor Changes
+
+- d91dfe0e: Default to using the GitHub CDN as a way around the 100MB size limit for npm packages.
+- 485df41a: Improve search results by prioritizing shortcodes and the emoji annotation (description).
+
 ## 2.0.0
 
 > 2021-01-17
