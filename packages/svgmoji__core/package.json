@@ -36,13 +36,13 @@
   "dependencies": {
     "@babel/runtime": "^7.12.5",
     "emojibase": "^5.1.0",
-    "emojibase-regex": "^5.1.0",
-    "idb-keyval": "^5.0.1",
-    "match-sorter": "^6.1.0",
+    "emojibase-regex": "^5.1.1",
+    "idb-keyval": "^5.0.2",
+    "match-sorter": "^6.2.0",
     "type-fest": "^0.20.2"
   },
   "devDependencies": {
-    "emojibase-data": "^6.1.0"
+    "emojibase-data": "^6.1.1"
   },
   "publishConfig": {
     "access": "public"
