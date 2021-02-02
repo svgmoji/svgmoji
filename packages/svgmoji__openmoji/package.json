@@ -38,12 +38,7 @@
     "missing.json"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.12.5"
-  },
-  "devDependencies": {
-    "@svgmoji/core": "3.0.0"
-  },
-  "peerDependencies": {
+    "@babel/runtime": "^7.12.5",
     "@svgmoji/core": "^3.0.0"
   },
   "publishConfig": {
