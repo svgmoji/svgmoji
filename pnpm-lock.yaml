@@ -232,7 +232,7 @@ importers:
       markdown-table: 2.0.0
       minimist: 1.2.5
       ms: 2.1.3
-      openmoji: 13.0.0
+      openmoji: github.com/hfg-gmuend/openmoji/f6af300a94a29ab6ae1014d8e56fffb8b006d368
       p-limit: 3.1.0
       pirates: 4.0.1
       rimraf: 3.0.2
@@ -279,7 +279,7 @@ importers:
       markdown-table: ^2.0.0
       minimist: ^1.2.5
       ms: ^2.1.3
-      openmoji: ^13.0.0
+      openmoji: hfg-gmuend/openmoji#f6af300a94a29ab6ae1014d8e56fffb8b006d368
       p-limit: ^3.1.0
       pirates: ^4.0.1
       rimraf: ^3.0.2
@@ -12218,10 +12218,6 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
-  /openmoji/13.0.0:
-    dev: false
-    resolution:
-      integrity: sha512-w4zQ3HyMcYSdrXqwWqhlXRAvV4Vw97MmPCD03L6Rl+jzUfRMHnM04fdTaFZjP18EYaHugnxOaGVKxoHvn/rYHA==
   /opn/5.5.0:
     dependencies:
       is-wsl: 1.1.0
@@ -17743,3 +17739,9 @@ packages:
     dev: false
     resolution:
       integrity: sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw==
+  github.com/hfg-gmuend/openmoji/f6af300a94a29ab6ae1014d8e56fffb8b006d368:
+    dev: false
+    name: openmoji
+    resolution:
+      tarball: https://codeload.github.com/hfg-gmuend/openmoji/tar.gz/f6af300a94a29ab6ae1014d8e56fffb8b006d368
+    version: 13.0.0

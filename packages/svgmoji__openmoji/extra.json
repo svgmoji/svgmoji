@@ -594,6 +594,14 @@
     "version": -1,
     "tags": ["equilateral polygon"]
   },
+  "2B21-FE0F-200D-1F308",
+  "2B21-FE0F-200D-1F7E5",
+  "2B21-FE0F-200D-1F7E6",
+  "2B21-FE0F-200D-1F7E7",
+  "2B21-FE0F-200D-1F7E8",
+  "2B21-FE0F-200D-1F7E9",
+  "2B21-FE0F-200D-1F7EA",
+  "2B21-FE0F-200D-1F7EB",
   {
     "annotation": "black hexagon",
     "emoji": "⬢",
@@ -1018,6 +1026,7 @@
     "version": -1,
     "tags": ["browser", "microsoft"]
   },
+  "E058",
   {
     "annotation": "assembly point",
     "emoji": "",
