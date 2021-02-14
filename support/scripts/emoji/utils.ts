@@ -4,7 +4,7 @@ import path from 'path';
 import { BLOB_META, fromUnicodeToHexcode, NOTO_META, OPENMOJI_META, TWEMOJI_META } from 'svgmoji';
 import emojis from 'svgmoji/emoji.json';
 
-import { baseDir } from '../helpers';
+import { baseDir, log } from '../helpers';
 
 interface OpenmojiItem {
   emoji: string;
@@ -55,7 +55,7 @@ export interface EmojiLibrary extends EmojiGithubMeta {
   /**
    * Optional method for transforming the extra hexcode into a flat emoji that can be used as if it were standard.
    */
-  transform?: (hexcode: string) => FlatEmoji;
+  transform?: (hexcode: string) => FlatEmoji | undefined;
 
   /**
    * An extra folder where svg are also stored. Will be copied into the primary folder.
@@ -81,11 +81,12 @@ export const emojiLibraries: EmojiLibrary[] = [
   { ...TWEMOJI_META, getSvgFile: getTwemojiSvgfile },
 ];
 
-function openmojiTransform(hexcode: string): FlatEmoji {
+function openmojiTransform(hexcode: string): FlatEmoji | undefined {
   const emoji = openmojiJson.find((value) => value.hexcode === hexcode);
 
   if (!emoji) {
-    throw new Error(`no openmoji found for the hexcode ${hexcode}`);
+    log.warn(`\nNo openmoji found for the hexcode ${hexcode}`);
+    return;
   }
 
   return {

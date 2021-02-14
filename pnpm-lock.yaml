@@ -146,11 +146,11 @@ importers:
       '@svgmoji/twemoji': link:../svgmoji__twemoji
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/blob': 3.0.0
-      '@svgmoji/core': 3.0.0
-      '@svgmoji/noto': 3.0.0
-      '@svgmoji/openmoji': 3.0.0
-      '@svgmoji/twemoji': 3.0.0
+      '@svgmoji/blob': ^3.0.0
+      '@svgmoji/core': ^3.0.0
+      '@svgmoji/noto': ^3.0.0
+      '@svgmoji/openmoji': ^3.0.0
+      '@svgmoji/twemoji': ^3.0.0
   packages/svgmoji__blob:
     dependencies:
       '@babel/runtime': 7.12.13

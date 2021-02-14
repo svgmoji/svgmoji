@@ -1,0 +1,5 @@
+import { MinifiedEmoji } from './dist/svgmoji.cjs';
+
+declare const json: MinifiedEmoji[];
+
+export default json;

@@ -29,19 +29,31 @@
   "files": [
     "emoji.json",
     "emoji.min.json",
-    "emoticons.json",
     "emoji.json.d.ts",
     "emoji.min.json.d.ts",
+    "emoji-discord.json",
+    "emoji-discord.min.json",
+    "emoji-discord.json.d.ts",
+    "emoji-discord.min.json.d.ts",
+    "emoji-github.json",
+    "emoji-github.min.json",
+    "emoji-github.json.d.ts",
+    "emoji-github.min.json.d.ts",
+    "emoji-slack.json",
+    "emoji-slack.min.json",
+    "emoji-slack.json.d.ts",
+    "emoji-slack.min.json.d.ts",
+    "emoticons.json",
     "emoticons.json.d.ts",
     "dist"
   ],
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@svgmoji/blob": "3.0.0",
-    "@svgmoji/core": "3.0.0",
-    "@svgmoji/noto": "3.0.0",
-    "@svgmoji/openmoji": "3.0.0",
-    "@svgmoji/twemoji": "3.0.0"
+    "@svgmoji/blob": "^3.0.0",
+    "@svgmoji/core": "^3.0.0",
+    "@svgmoji/noto": "^3.0.0",
+    "@svgmoji/openmoji": "^3.0.0",
+    "@svgmoji/twemoji": "^3.0.0"
   },
   "publishConfig": {
     "access": "public"

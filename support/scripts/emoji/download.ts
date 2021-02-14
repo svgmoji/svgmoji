@@ -18,12 +18,25 @@ import { data, emojiLibraries, EmojiLibrary, getSvgDestination, packagesDirector
 async function run() {
   log.debug('\n⏬ Starting download...');
   const emojiFile = path.join(packagesDirectory, 'svgmoji', `emoji.json`);
+  const githubEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji-github.json`);
+  const discordEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji-discord.json`);
+  const slackEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji-slack.json`);
   const minifiedEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji.min.json`);
+  const minifiedGithubEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji-github.min.json`);
+  const minifiedDiscordEmojiFile = path.join(
+    packagesDirectory,
+    'svgmoji',
+    `emoji-discord.min.json`,
+  );
+  const minifiedSlackEmojiFile = path.join(packagesDirectory, 'svgmoji', `emoji-slack.min.json`);
   const emoticonsFile = path.join(packagesDirectory, 'svgmoji', `emoticons.json`);
   const tmpdir = path.join(os.tmpdir(), '__svgmoji__');
 
   log.debug('\n😊 Loading emojis from cdn');
   data.emojis = await fetchEmojis('en', { shortcodes: ['cldr'] });
+  const githubEmoji = await fetchEmojis('en', { shortcodes: ['github'] });
+  const discordEmoji = await fetchEmojis('en', { shortcodes: ['discord'] });
+  const slackEmoji = await fetchEmojis('en', { shortcodes: ['slack'] });
   data.hexcodes = data.emojis.map((emoji) => emoji.hexcode);
 
   for (const emoji of data.emojis) {
@@ -36,9 +49,15 @@ async function run() {
 
   log.debug('\nWriting EMOJI to file');
   await writeFile(emojiFile, JSON.stringify(data.emojis, null, 2));
+  await writeFile(githubEmojiFile, JSON.stringify(githubEmoji, null, 2));
+  await writeFile(discordEmojiFile, JSON.stringify(discordEmoji, null, 2));
+  await writeFile(slackEmojiFile, JSON.stringify(slackEmoji, null, 2));
 
   log.debug('\nWriting MINIFIED EMOJI to file');
-  await writeFile(minifiedEmojiFile, JSON.stringify(minifyEmoji(data.emojis), null, 2));
+  await writeFile(minifiedEmojiFile, JSON.stringify(minifyEmoji(data.emojis)));
+  await writeFile(minifiedGithubEmojiFile, JSON.stringify(minifyEmoji(githubEmoji)));
+  await writeFile(minifiedDiscordEmojiFile, JSON.stringify(minifyEmoji(discordEmoji)));
+  await writeFile(minifiedSlackEmojiFile, JSON.stringify(minifyEmoji(slackEmoji)));
 
   log.debug('\nWriting EMOTICONS to file');
   await writeFile(emoticonsFile, JSON.stringify(data.emoticons, null, 2));
