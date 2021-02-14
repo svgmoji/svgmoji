@@ -8,18 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Blog Plugin]]></title>
-            <link>https://svgmoji.github.io/svgmoji/blog/2020/04/14/blog-plugin</link>
-            <guid>Blog Plugin</guid>
-            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[You can use our blog plugin to do your posts]]></description>
-        </item>
-        <item>
             <title><![CDATA[A large blog post]]></title>
             <link>https://svgmoji.github.io/svgmoji/blog/2020/04/14/large-blog-post</link>
             <guid>A large blog post</guid>
             <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello, this is an example]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blog Plugin]]></title>
+            <link>https://svgmoji.github.io/svgmoji/blog/2020/04/14/blog-plugin</link>
+            <guid>Blog Plugin</guid>
+            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[You can use our blog plugin to do your posts]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
