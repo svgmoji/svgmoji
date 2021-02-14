@@ -30,8 +30,8 @@
     "@docusaurus/types": "^2.0.0-alpha.70",
     "@mdx-js/react": "^1.5.8",
     "@types/classnames": "^2.2.11",
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
     "classnames": "^2.2.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
