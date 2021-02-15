@@ -28,6 +28,15 @@ interface MojiProps {
    * @default `1F44D` // 👍
    */
   fallback?: string;
+
+  /**
+   * A list of the popular emoji that should be used when the query is empty.
+   *
+   * The string can be the hexcode or the native emoji unicode.
+   *
+   * @default `POPULAR_EMOJI`
+   */
+  popular?: string[];
 }
 
 export abstract class Moji {
@@ -62,6 +71,11 @@ export abstract class Moji {
   fallback: FlatEmoji;
 
   /**
+   * A list of popular emoji that can be presented when an empty string is provided as the query.
+   */
+  popularEmoji: FlatEmoji[];
+
+  /**
    * Cache the results for finding an emoji.
    */
   readonly #findCache = new Map<string, FlatEmoji | undefined>();
@@ -78,10 +92,11 @@ export abstract class Moji {
    * @param data - data which is used to lookup the groups and subgroups for the emoji instance
    * @param fallback - the default hexcode to use when none can be found.
    */
-  constructor({ data, type, fallback = '1F44D' }: MojiProps) {
+  constructor({ data, type, fallback = '1F44D', popular = DEFAULT_POPULAR_EMOJI }: MojiProps) {
     this.type = type;
     this.data = isMinifiedEmojiList(data) ? populateMinifiedEmoji(data) : data;
     this.tonelessData = this.data.filter((emoji) => !emoji.tone);
+    this.popularEmoji = this.populatePopularEmoji(popular);
 
     const fallbackEmoji = this.find(fallback);
 
@@ -137,20 +152,7 @@ export abstract class Moji {
     }
 
     for (const emoji of this.data) {
-      if (
-        // This is a native emoji match
-        emoji.emoji === code ||
-        // This uses the underlying text representation of the emoji
-        emoji.text === code ||
-        // This is a hexcode match.
-        emoji.hexcode === code ||
-        // There is a match for the shortcode
-        emoji.shortcodes?.includes(code) ||
-        // There is a match for the shortcode, but with surrounding braces.
-        emoji.shortcodes?.map((shortcode) => `:${shortcode}:`).includes(code) ||
-        // The provided code matches the emoticon.
-        (emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code))
-      ) {
+      if (emojiMatchesCode(code, emoji)) {
         this.#findCache.set(code, emoji);
         return emoji;
       }
@@ -170,7 +172,7 @@ export abstract class Moji {
     const data = excludeTone ? this.tonelessData : this.data;
 
     if (!query) {
-      return data;
+      return take(this.popularEmoji, maxResults);
     }
 
     return take(
@@ -204,6 +206,23 @@ export abstract class Moji {
     }
 
     return skins;
+  }
+
+  /**
+   * Populate the popular emoji codes.
+   */
+  private populatePopularEmoji(codes: string[]): FlatEmoji[] {
+    const popularEmoji: FlatEmoji[] = [];
+
+    for (const code of codes) {
+      const emoji = this.find(code);
+
+      if (emoji) {
+        popularEmoji.push(emoji);
+      }
+    }
+
+    return popularEmoji;
   }
 }
 
@@ -243,3 +262,135 @@ function take<Type>(array: Type[], count: number): Type[] {
   count = Math.max(Math.min(0, count), count === -1 ? array.length : count);
   return array.slice(0, count);
 }
+
+/**
+ * Check if the emoji matches the provided code.
+ */
+function emojiMatchesCode(code: string, emoji: FlatEmoji): boolean {
+  if (
+    // This is a native emoji match
+    emoji.emoji === code ||
+    // This uses the underlying text representation of the emoji
+    emoji.text === code ||
+    // This is a hexcode match.
+    emoji.hexcode === code ||
+    // There is a match for the shortcode
+    emoji.shortcodes?.includes(code) ||
+    // There is a match for the shortcode, but with surrounding braces.
+    emoji.shortcodes?.map((shortcode) => `:${shortcode}:`).includes(code) ||
+    // The provided code matches the emoticon.
+    (emoji.emoticon && generateEmoticonPermutations(emoji.emoticon).includes(code))
+  ) {
+    return true;
+  }
+
+  return false;
+}
+
+/**
+ * A list of some of the most popular emoji.
+ *
+ * Derived from https://home.unicode.org/emoji/emoji-frequency/
+ */
+export const DEFAULT_POPULAR_EMOJI = [
+  '😂',
+  '❤️',
+  '😍',
+  '🤣',
+  '😊',
+  '🙏',
+  '💕',
+  '😭',
+  '😘',
+  '👍',
+  '😅',
+  '👏',
+  '😁',
+  '🔥',
+  '💔',
+  '💖',
+  '😢',
+  '🤔',
+  '😆',
+  '🙄',
+  '💪',
+  '😉',
+  '☺️',
+  '👌',
+  '🤗',
+  '😔',
+  '😎',
+  '😇',
+  '🌹',
+  '🤦',
+  '🎉',
+  '💞',
+  '✌️',
+  '✨',
+  '🤷',
+  '😱',
+  '😌',
+  '🌸',
+  '🙌',
+  '😋',
+  '😏',
+  '🙂',
+  '🤩',
+  '😄',
+  '😀',
+  '😃',
+  '💯',
+  '🙈',
+  '👇',
+  '🎶',
+  '😒',
+  '🤭',
+  '❣️',
+  '❗',
+  '😜',
+  '💋',
+  '👀',
+  '😪',
+  '😑',
+  '💥',
+  '🙋',
+  '😞',
+  '😩',
+  '😡',
+  '🤪',
+  '👊',
+  '☀️',
+  '😥',
+  '🤤',
+  '👉',
+  '💃',
+  '😳',
+  '✋',
+  '😚',
+  '😝',
+  '😴',
+  '🌟',
+  '😬',
+  '🙃',
+  '🍀',
+  '🌷',
+  '😻',
+  '😓',
+  '⭐',
+  '✅',
+  '🌈',
+  '😈',
+  '🤘',
+  '💦',
+  '✔️',
+  '😣',
+  '🏃',
+  '💐',
+  '☹️',
+  '🎊',
+  '💘',
+  '😠',
+  '☝️',
+  '😕',
+  '🌺',
+];

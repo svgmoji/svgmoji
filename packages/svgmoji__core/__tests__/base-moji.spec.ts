@@ -76,8 +76,7 @@ describe('search', () => {
     expect(values.some((emoji) => emoji.hexcode === '261D-1F3FF')).toBe(false);
   });
 
-  it('bypasses searching when no query is empty', () => {
-    expect(moji.search('')).toBe(moji.data);
-    expect(moji.search('', { excludeTone: true })).toBe(moji.tonelessData);
+  it('bypasses searching when query is empty', () => {
+    expect(moji.search('')[0]).toEqual(moji.popularEmoji[0]);
   });
 });
