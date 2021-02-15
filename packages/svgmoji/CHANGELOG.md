@@ -1,5 +1,25 @@
 # svgmoji
 
+## 3.1.0
+
+> 2021-02-15
+
+### Minor Changes
+
+- 33a6204f: Add data entrypoints for `github`, `slack` and `discord` shortcodes.
+
+### Patch Changes
+
+- Updated dependencies [7c81be1b]
+- Updated dependencies [75b361fc]
+- Updated dependencies [088f5d3e]
+- Updated dependencies [edd4a29c]
+  - @svgmoji/core@3.1.0
+  - @svgmoji/blob@3.1.0
+  - @svgmoji/noto@3.1.0
+  - @svgmoji/openmoji@3.1.0
+  - @svgmoji/twemoji@3.1.0
+
 ## 3.0.0
 
 > 2021-01-19

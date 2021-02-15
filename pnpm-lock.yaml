@@ -133,7 +133,7 @@ importers:
       rimraf: ^3.0.2
       size-limit: ^4.9.2
       snapshot-diff: ^0.8.1
-      svgmoji: ^3.0.0
+      svgmoji: ^3.1.0
       typescript: ^4.1.5
       typescript-snapshots-plugin: ^1.7.0
   packages/svgmoji:
@@ -146,18 +146,18 @@ importers:
       '@svgmoji/twemoji': link:../svgmoji__twemoji
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/blob': ^3.0.0
-      '@svgmoji/core': ^3.0.0
-      '@svgmoji/noto': ^3.0.0
-      '@svgmoji/openmoji': ^3.0.0
-      '@svgmoji/twemoji': ^3.0.0
+      '@svgmoji/blob': ^3.1.0
+      '@svgmoji/core': ^3.1.0
+      '@svgmoji/noto': ^3.1.0
+      '@svgmoji/openmoji': ^3.1.0
+      '@svgmoji/twemoji': ^3.1.0
   packages/svgmoji__blob:
     dependencies:
       '@babel/runtime': 7.12.13
       '@svgmoji/core': link:../svgmoji__core
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/core': ^3.0.0
+      '@svgmoji/core': ^3.1.0
   packages/svgmoji__core:
     dependencies:
       '@babel/runtime': 7.12.13
@@ -182,21 +182,21 @@ importers:
       '@svgmoji/core': link:../svgmoji__core
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/core': ^3.0.0
+      '@svgmoji/core': ^3.1.0
   packages/svgmoji__openmoji:
     dependencies:
       '@babel/runtime': 7.12.13
       '@svgmoji/core': link:../svgmoji__core
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/core': ^3.0.0
+      '@svgmoji/core': ^3.1.0
   packages/svgmoji__twemoji:
     dependencies:
       '@babel/runtime': 7.12.13
       '@svgmoji/core': link:../svgmoji__core
     specifiers:
       '@babel/runtime': ^7.12.5
-      '@svgmoji/core': ^3.0.0
+      '@svgmoji/core': ^3.1.0
   support:
     dependencies:
       '@babel/register': 7.12.13
@@ -252,7 +252,7 @@ importers:
       '@changesets/read': ^0.4.6
       '@changesets/types': ^3.3.0
       '@remirror/core-helpers': 1.0.0-next.60
-      '@svgmoji/core': 3.0.0
+      '@svgmoji/core': 3.1.0
       '@types/babel__core': ^7.1.12
       '@types/lodash.isequal': ^4.5.5
       '@types/markdown-table': ^2.0.0
