@@ -8,18 +8,18 @@
     <subtitle>svgmoji Blog</subtitle>
     <icon>https://svgmoji.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[A large blog post]]></title>
-        <id>A large blog post</id>
-        <link href="https://svgmoji.github.io/svgmoji/blog/2020/04/14/large-blog-post"/>
-        <updated>2020-04-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, this is an example]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blog Plugin]]></title>
         <id>Blog Plugin</id>
         <link href="https://svgmoji.github.io/svgmoji/blog/2020/04/14/blog-plugin"/>
         <updated>2020-04-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You can use our blog plugin to do your posts]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A large blog post]]></title>
+        <id>A large blog post</id>
+        <link href="https://svgmoji.github.io/svgmoji/blog/2020/04/14/large-blog-post"/>
+        <updated>2020-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is an example]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
