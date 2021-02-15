@@ -1,5 +1,20 @@
 # @svgmoji/openmoji
 
+## 3.1.0
+
+> 2021-02-15
+
+### Minor Changes
+
+- 75b361fc: Update svg files to latest versions and fix some issues with missing files. Also fix missing emoji for `openmoji`.
+- 088f5d3e: Make `@svgmoji/core` a direct dependency for all icon packages.
+
+### Patch Changes
+
+- Updated dependencies [7c81be1b]
+- Updated dependencies [edd4a29c]
+  - @svgmoji/core@3.1.0
+
 ## 3.0.0
 
 > 2021-01-19
