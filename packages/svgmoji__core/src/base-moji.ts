@@ -166,24 +166,27 @@ export abstract class Moji {
    * Search for the nearest emoji using the `match-sorter` algorithm.
    */
   search(query: string, options: BaseMojiProps = {}): FlatEmoji[] {
-    const { excludeTone } = { ...DEFAULT_OPTIONS, ...options };
+    const { excludeTone, maxResults } = { ...DEFAULT_OPTIONS, ...options };
     const data = excludeTone ? this.tonelessData : this.data;
 
     if (!query) {
       return data;
     }
 
-    return matchSorter(data, query, {
-      threshold: rankings.WORD_STARTS_WITH,
-      keys: [
-        { threshold: rankings.STARTS_WITH, key: 'shortcodes' },
-        (item) => item.shortcodes?.map((shortcode) => shortcode.split('_').join(' ')) ?? [],
-        'annotation',
-        'tags',
-        (item) => (item.subgroup ? subgroups[item.subgroup]?.split('-').join(' ') ?? '' : ''),
-        (item) => (item.group ? groups[item.group]?.split('-').join(' ') ?? '' : ''),
-      ],
-    });
+    return take(
+      matchSorter(data, query, {
+        threshold: rankings.WORD_STARTS_WITH,
+        keys: [
+          { threshold: rankings.STARTS_WITH, key: 'shortcodes' },
+          (item) => item.shortcodes?.map((shortcode) => shortcode.split('_').join(' ')) ?? [],
+          'annotation',
+          'tags',
+          (item) => (item.subgroup ? subgroups[item.subgroup]?.split('-').join(' ') ?? '' : ''),
+          (item) => (item.group ? groups[item.group]?.split('-').join(' ') ?? '' : ''),
+        ],
+      }),
+      maxResults,
+    );
   }
 
   /**
@@ -206,6 +209,7 @@ export abstract class Moji {
 
 const DEFAULT_OPTIONS: Required<BaseMojiProps> = {
   excludeTone: false,
+  maxResults: 20,
 };
 
 interface BaseMojiProps {
@@ -215,4 +219,27 @@ interface BaseMojiProps {
    * @default true;
    */
   excludeTone?: boolean;
+
+  /**
+   * The maximum number of results that can be returned by a search. Set to -1 to include all
+   * results.
+   *
+   * @default 20
+   */
+  maxResults?: number;
+}
+
+/**
+ * Takes a number of elements from the provided array starting from the
+ * zero-index.
+ *
+ * Set count to `-1` to include all results.
+ *
+ * @param array - the array to take from
+ * @param count - the number of items to take
+ *
+ */
+function take<Type>(array: Type[], count: number): Type[] {
+  count = Math.max(Math.min(0, count), count === -1 ? array.length : count);
+  return array.slice(0, count);
 }
