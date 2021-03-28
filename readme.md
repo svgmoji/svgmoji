@@ -214,7 +214,7 @@ import data from 'svgmoji/emoji.json';
 
 const notomoji = new Notomoji({ data, type: 'all' });
 const image = document.createElement('img');
-image.src = notomoji.getUrl('❤️');
+image.src = notomoji.url('❤️');
 
 document.body.append(image);
 ```
