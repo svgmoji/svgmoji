@@ -176,6 +176,15 @@ function augmentExportsObject(packageJson: PackageJson, filePath: string, json: 
     exportsObject['./package.json'] = './package.json';
     exportsObject['./types/*'] = './dist/declarations/src/*.d.ts';
   }
+
+  for (const file of json.files ?? []) {
+    if (!/(.js|.json)$/.test(file)) {
+      continue;
+    }
+
+    const relativePath = `./${file}`;
+    exportsObject[relativePath] = relativePath;
+  }
 }
 
 /**

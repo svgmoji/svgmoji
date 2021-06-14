@@ -16,6 +16,15 @@
       "types": "./dist/svgmoji.cjs.d.ts",
       "default": "./dist/svgmoji.esm.js"
     },
+    "./emoji-discord.json": "./emoji-discord.json",
+    "./emoji-discord.min.json": "./emoji-discord.min.json",
+    "./emoji-github.json": "./emoji-github.json",
+    "./emoji-github.min.json": "./emoji-github.min.json",
+    "./emoji-slack.json": "./emoji-slack.json",
+    "./emoji-slack.min.json": "./emoji-slack.min.json",
+    "./emoji.json": "./emoji.json",
+    "./emoji.min.json": "./emoji.min.json",
+    "./emoticons.json": "./emoticons.json",
     "./package.json": "./package.json",
     "./types/*": "./dist/declarations/src/*.d.ts"
   },

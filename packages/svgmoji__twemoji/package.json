@@ -22,6 +22,8 @@
       "types": "./dist/svgmoji-twemoji.cjs.d.ts",
       "default": "./dist/svgmoji-twemoji.esm.js"
     },
+    "./extra.json": "./extra.json",
+    "./missing.json": "./missing.json",
     "./package.json": "./package.json",
     "./types/*": "./dist/declarations/src/*.d.ts"
   },
