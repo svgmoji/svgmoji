@@ -5,8 +5,9 @@
  * before any packages have been installed.
  */
 import process from 'process';
+console.log(process.env.npm_execpath);
 
-if (!/pnpm\.js$/.test(process.env.npm_execpath || '')) {
+if (!/pnpm\.c?js$/.test(process.env.npm_execpath || '')) {
   console.warn(
     "\u001B[33mYou don't seem to be using pnpm. This could produce unexpected results.\n\nInstall with:\u001B[39m\n\nnpm i -g pnpm\n\n",
   );

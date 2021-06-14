@@ -21,6 +21,8 @@
       "types": "./dist/svgmoji-openmoji.cjs.d.ts",
       "default": "./dist/svgmoji-openmoji.esm.js"
     },
+    "./extra.json": "./extra.json",
+    "./missing.json": "./missing.json",
     "./package.json": "./package.json",
     "./types/*": "./dist/declarations/src/*.d.ts"
   },
