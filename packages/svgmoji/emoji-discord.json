@@ -742,7 +742,7 @@
     "group": 0,
     "subgroup": 4,
     "version": 13.1,
-    "shortcodes": []
+    "shortcodes": ["face_in_clouds"]
   },
   {
     "annotation": "smirking face",
@@ -810,7 +810,7 @@
     "group": 0,
     "subgroup": 4,
     "version": 13.1,
-    "shortcodes": []
+    "shortcodes": ["face_exhaling"]
   },
   {
     "annotation": "lying face",
@@ -1034,7 +1034,7 @@
     "group": 0,
     "subgroup": 6,
     "version": 13.1,
-    "shortcodes": []
+    "shortcodes": ["face_with_spiral_eyes"]
   },
   {
     "annotation": "exploding head",
@@ -1991,7 +1991,7 @@
     "group": 0,
     "subgroup": 14,
     "version": 13.1,
-    "shortcodes": []
+    "shortcodes": ["heart_on_fire"]
   },
   {
     "annotation": "mending heart",
@@ -2004,7 +2004,7 @@
     "group": 0,
     "subgroup": 14,
     "version": 13.1,
-    "shortcodes": []
+    "shortcodes": ["mending_heart"]
   },
   {
     "annotation": "red heart",
@@ -6423,7 +6423,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_beard"],
     "skins": [
       "1F9D4-1F3FB-200D-2642-FE0F",
       "1F9D4-1F3FC-200D-2642-FE0F",
@@ -6443,7 +6443,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_tone1_beard", "man_light_skin_tone_beard"],
     "tags": ["beard", "man"],
     "tone": [1]
   },
@@ -6458,7 +6458,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_tone2_beard", "man_medium_light_skin_tone_beard"],
     "tags": ["beard", "man"],
     "tone": [2]
   },
@@ -6473,7 +6473,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_tone3_beard", "man_medium_skin_tone_beard"],
     "tags": ["beard", "man"],
     "tone": [3]
   },
@@ -6488,7 +6488,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_tone4_beard", "man_medium_dark_skin_tone_beard"],
     "tags": ["beard", "man"],
     "tone": [4]
   },
@@ -6503,7 +6503,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 1,
-    "shortcodes": [],
+    "shortcodes": ["man_tone5_beard", "man_dark_skin_tone_beard"],
     "tags": ["beard", "man"],
     "tone": [5]
   },
@@ -6519,7 +6519,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_beard"],
     "skins": [
       "1F9D4-1F3FB-200D-2640-FE0F",
       "1F9D4-1F3FC-200D-2640-FE0F",
@@ -6539,7 +6539,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_tone1_beard", "woman_light_skin_tone_beard"],
     "tags": ["beard", "woman"],
     "tone": [1]
   },
@@ -6554,7 +6554,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_tone2_beard", "woman_medium_light_skin_tone_beard"],
     "tags": ["beard", "woman"],
     "tone": [2]
   },
@@ -6569,7 +6569,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_tone3_beard", "woman_medium_skin_tone_beard"],
     "tags": ["beard", "woman"],
     "tone": [3]
   },
@@ -6584,7 +6584,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_tone4_beard", "woman_medium_dark_skin_tone_beard"],
     "tags": ["beard", "woman"],
     "tone": [4]
   },
@@ -6599,7 +6599,7 @@
     "subgroup": 22,
     "version": 13.1,
     "gender": 0,
-    "shortcodes": [],
+    "shortcodes": ["woman_tone5_beard", "woman_dark_skin_tone_beard"],
     "tags": ["beard", "woman"],
     "tone": [5]
   },
@@ -29785,7 +29785,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_tone1", "kiss_light_skin_tone"],
     "tags": ["couple"],
     "tone": [1]
   },
@@ -29799,7 +29799,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_tone2", "kiss_medium_light_skin_tone"],
     "tags": ["couple"],
     "tone": [2]
   },
@@ -29813,7 +29813,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_tone3", "kiss_medium_skin_tone"],
     "tags": ["couple"],
     "tone": [3]
   },
@@ -29827,7 +29827,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_tone4", "kiss_medium_dark_skin_tone"],
     "tags": ["couple"],
     "tone": [4]
   },
@@ -29841,7 +29841,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_tone5", "kiss_dark_skin_tone"],
     "tags": ["couple"],
     "tone": [5]
   },
@@ -29855,7 +29855,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone1_tone2",
+      "kiss_person_person_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [1, 2]
   },
@@ -29869,7 +29872,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone1_tone3",
+      "kiss_person_person_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [1, 3]
   },
@@ -29883,7 +29889,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone1_tone4",
+      "kiss_person_person_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [1, 4]
   },
@@ -29897,7 +29906,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone1_tone5",
+      "kiss_person_person_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [1, 5]
   },
@@ -29911,7 +29923,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone2_tone1",
+      "kiss_person_person_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [2, 1]
   },
@@ -29925,7 +29940,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone2_tone3",
+      "kiss_person_person_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [2, 3]
   },
@@ -29939,7 +29957,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone2_tone4",
+      "kiss_person_person_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [2, 4]
   },
@@ -29953,7 +29974,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone2_tone5",
+      "kiss_person_person_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [2, 5]
   },
@@ -29967,7 +29991,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone3_tone1",
+      "kiss_person_person_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [3, 1]
   },
@@ -29981,7 +30008,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone3_tone2",
+      "kiss_person_person_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [3, 2]
   },
@@ -29995,7 +30025,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone3_tone4",
+      "kiss_person_person_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [3, 4]
   },
@@ -30009,7 +30042,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone3_tone5",
+      "kiss_person_person_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [3, 5]
   },
@@ -30023,7 +30059,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone4_tone1",
+      "kiss_person_person_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [4, 1]
   },
@@ -30037,7 +30076,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone4_tone2",
+      "kiss_person_person_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [4, 2]
   },
@@ -30051,7 +30093,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone4_tone3",
+      "kiss_person_person_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [4, 3]
   },
@@ -30065,7 +30110,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone4_tone5",
+      "kiss_person_person_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [4, 5]
   },
@@ -30079,7 +30127,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone5_tone1",
+      "kiss_person_person_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [5, 1]
   },
@@ -30093,7 +30144,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone5_tone2",
+      "kiss_person_person_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [5, 2]
   },
@@ -30107,7 +30161,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone5_tone3",
+      "kiss_person_person_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [5, 3]
   },
@@ -30121,7 +30178,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_person_person_tone5_tone4",
+      "kiss_person_person_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple"],
     "tone": [5, 4]
   },
@@ -30175,7 +30235,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone1", "kiss_woman_man_light_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [1]
   },
@@ -30189,7 +30249,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone1_tone2",
+      "kiss_woman_man_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [1, 2]
   },
@@ -30203,7 +30266,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone1_tone3", "kiss_woman_man_light_skin_tone_medium_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [1, 3]
   },
@@ -30217,7 +30280,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone1_tone4",
+      "kiss_woman_man_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [1, 4]
   },
@@ -30231,7 +30297,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone1_tone5", "kiss_woman_man_light_skin_tone_dark_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [1, 5]
   },
@@ -30245,7 +30311,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone2_tone1",
+      "kiss_woman_man_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [2, 1]
   },
@@ -30259,7 +30328,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone2", "kiss_woman_man_medium_light_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [2]
   },
@@ -30273,7 +30342,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone2_tone3",
+      "kiss_woman_man_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [2, 3]
   },
@@ -30287,7 +30359,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone2_tone4",
+      "kiss_woman_man_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [2, 4]
   },
@@ -30301,7 +30376,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone2_tone5",
+      "kiss_woman_man_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [2, 5]
   },
@@ -30315,7 +30393,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone3_tone1", "kiss_woman_man_medium_skin_tone_light_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [3, 1]
   },
@@ -30329,7 +30407,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone3_tone2",
+      "kiss_woman_man_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [3, 2]
   },
@@ -30343,7 +30424,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone3", "kiss_woman_man_medium_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [3]
   },
@@ -30357,7 +30438,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone3_tone4",
+      "kiss_woman_man_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [3, 4]
   },
@@ -30371,7 +30455,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone3_tone5", "kiss_woman_man_medium_skin_tone_dark_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [3, 5]
   },
@@ -30385,7 +30469,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone4_tone1",
+      "kiss_woman_man_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [4, 1]
   },
@@ -30399,7 +30486,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone4_tone2",
+      "kiss_woman_man_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [4, 2]
   },
@@ -30413,7 +30503,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone4_tone3",
+      "kiss_woman_man_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [4, 3]
   },
@@ -30427,7 +30520,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone4", "kiss_woman_man_medium_dark_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [4]
   },
@@ -30441,7 +30534,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone4_tone5",
+      "kiss_woman_man_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [4, 5]
   },
@@ -30455,7 +30551,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone5_tone1", "kiss_woman_man_dark_skin_tone_light_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [5, 1]
   },
@@ -30469,7 +30565,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone5_tone2",
+      "kiss_woman_man_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [5, 2]
   },
@@ -30483,7 +30582,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone5_tone3", "kiss_woman_man_dark_skin_tone_medium_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [5, 3]
   },
@@ -30497,7 +30596,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_man_tone5_tone4",
+      "kiss_woman_man_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [5, 4]
   },
@@ -30511,7 +30613,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_man_tone5", "kiss_woman_man_dark_skin_tone"],
     "tags": ["couple", "kiss", "man", "woman"],
     "tone": [5]
   },
@@ -30565,7 +30667,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone1", "kiss_man_man_light_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [1]
   },
@@ -30579,7 +30681,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone1_tone2",
+      "kiss_man_man_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [1, 2]
   },
@@ -30593,7 +30698,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone1_tone3", "kiss_man_man_light_skin_tone_medium_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [1, 3]
   },
@@ -30607,7 +30712,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone1_tone4",
+      "kiss_man_man_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [1, 4]
   },
@@ -30621,7 +30729,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone1_tone5", "kiss_man_man_light_skin_tone_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [1, 5]
   },
@@ -30635,7 +30743,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone2_tone1",
+      "kiss_man_man_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [2, 1]
   },
@@ -30649,7 +30760,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone2", "kiss_man_man_medium_light_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [2]
   },
@@ -30663,7 +30774,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone2_tone3",
+      "kiss_man_man_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [2, 3]
   },
@@ -30677,7 +30791,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone2_tone4",
+      "kiss_man_man_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [2, 4]
   },
@@ -30691,7 +30808,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone2_tone5",
+      "kiss_man_man_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [2, 5]
   },
@@ -30705,7 +30825,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone3_tone1", "kiss_man_man_medium_skin_tone_light_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [3, 1]
   },
@@ -30719,7 +30839,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone3_tone2",
+      "kiss_man_man_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [3, 2]
   },
@@ -30733,7 +30856,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone3", "kiss_man_man_medium_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [3]
   },
@@ -30747,7 +30870,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone3_tone4",
+      "kiss_man_man_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [3, 4]
   },
@@ -30761,7 +30887,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone3_tone5", "kiss_man_man_medium_skin_tone_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [3, 5]
   },
@@ -30775,7 +30901,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone4_tone1",
+      "kiss_man_man_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [4, 1]
   },
@@ -30789,7 +30918,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone4_tone2",
+      "kiss_man_man_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [4, 2]
   },
@@ -30803,7 +30935,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone4_tone3",
+      "kiss_man_man_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [4, 3]
   },
@@ -30817,7 +30952,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone4", "kiss_man_man_medium_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [4]
   },
@@ -30831,7 +30966,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone4_tone5", "kiss_man_man_medium_dark_skin_tone_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [4, 5]
   },
@@ -30845,7 +30980,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone5_tone1", "kiss_man_man_dark_skin_tone_light_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [5, 1]
   },
@@ -30859,7 +30994,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_man_man_tone5_tone2",
+      "kiss_man_man_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "man"],
     "tone": [5, 2]
   },
@@ -30873,7 +31011,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone5_tone3", "kiss_man_man_dark_skin_tone_medium_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [5, 3]
   },
@@ -30887,7 +31025,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone5_tone4", "kiss_man_man_dark_skin_tone_medium_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [5, 4]
   },
@@ -30901,7 +31039,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_man_man_tone5", "kiss_man_man_dark_skin_tone"],
     "tags": ["couple", "kiss", "man"],
     "tone": [5]
   },
@@ -30955,7 +31093,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_woman_tone1", "kiss_woman_woman_light_skin_tone"],
     "tags": ["couple", "kiss", "woman"],
     "tone": [1]
   },
@@ -30969,7 +31107,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone1_tone2",
+      "kiss_woman_woman_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [1, 2]
   },
@@ -30983,7 +31124,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone1_tone3",
+      "kiss_woman_woman_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [1, 3]
   },
@@ -30997,7 +31141,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone1_tone4",
+      "kiss_woman_woman_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [1, 4]
   },
@@ -31011,7 +31158,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone1_tone5",
+      "kiss_woman_woman_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [1, 5]
   },
@@ -31025,7 +31175,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone2_tone1",
+      "kiss_woman_woman_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [2, 1]
   },
@@ -31039,7 +31192,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_woman_tone2", "kiss_woman_woman_medium_light_skin_tone"],
     "tags": ["couple", "kiss", "woman"],
     "tone": [2]
   },
@@ -31053,7 +31206,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone2_tone3",
+      "kiss_woman_woman_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [2, 3]
   },
@@ -31067,7 +31223,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone2_tone4",
+      "kiss_woman_woman_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [2, 4]
   },
@@ -31081,7 +31240,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone2_tone5",
+      "kiss_woman_woman_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [2, 5]
   },
@@ -31095,7 +31257,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone3_tone1",
+      "kiss_woman_woman_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [3, 1]
   },
@@ -31109,7 +31274,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone3_tone2",
+      "kiss_woman_woman_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [3, 2]
   },
@@ -31123,7 +31291,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_woman_tone3", "kiss_woman_woman_medium_skin_tone"],
     "tags": ["couple", "kiss", "woman"],
     "tone": [3]
   },
@@ -31137,7 +31305,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone3_tone4",
+      "kiss_woman_woman_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [3, 4]
   },
@@ -31151,7 +31322,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone3_tone5",
+      "kiss_woman_woman_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [3, 5]
   },
@@ -31165,7 +31339,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone4_tone1",
+      "kiss_woman_woman_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [4, 1]
   },
@@ -31179,7 +31356,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone4_tone2",
+      "kiss_woman_woman_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [4, 2]
   },
@@ -31193,7 +31373,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone4_tone3",
+      "kiss_woman_woman_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [4, 3]
   },
@@ -31207,7 +31390,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_woman_tone4", "kiss_woman_woman_medium_dark_skin_tone"],
     "tags": ["couple", "kiss", "woman"],
     "tone": [4]
   },
@@ -31221,7 +31404,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone4_tone5",
+      "kiss_woman_woman_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [4, 5]
   },
@@ -31235,7 +31421,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone5_tone1",
+      "kiss_woman_woman_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [5, 1]
   },
@@ -31249,7 +31438,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone5_tone2",
+      "kiss_woman_woman_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [5, 2]
   },
@@ -31263,7 +31455,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone5_tone3",
+      "kiss_woman_woman_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [5, 3]
   },
@@ -31277,7 +31472,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "kiss_woman_woman_tone5_tone4",
+      "kiss_woman_woman_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "kiss", "woman"],
     "tone": [5, 4]
   },
@@ -31291,7 +31489,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["kiss_woman_woman_tone5", "kiss_woman_woman_dark_skin_tone"],
     "tags": ["couple", "kiss", "woman"],
     "tone": [5]
   },
@@ -31345,7 +31543,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_tone1", "couple_with_heart_light_skin_tone"],
     "tags": ["couple", "love"],
     "tone": [1]
   },
@@ -31359,7 +31557,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_tone2", "couple_with_heart_medium_light_skin_tone"],
     "tags": ["couple", "love"],
     "tone": [2]
   },
@@ -31373,7 +31571,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_tone3", "couple_with_heart_medium_skin_tone"],
     "tags": ["couple", "love"],
     "tone": [3]
   },
@@ -31387,7 +31585,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_tone4", "couple_with_heart_medium_dark_skin_tone"],
     "tags": ["couple", "love"],
     "tone": [4]
   },
@@ -31401,7 +31599,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_tone5", "couple_with_heart_dark_skin_tone"],
     "tags": ["couple", "love"],
     "tone": [5]
   },
@@ -31415,7 +31613,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone1_tone2",
+      "couple_with_heart_person_person_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [1, 2]
   },
@@ -31429,7 +31630,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone1_tone3",
+      "couple_with_heart_person_person_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [1, 3]
   },
@@ -31443,7 +31647,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone1_tone4",
+      "couple_with_heart_person_person_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [1, 4]
   },
@@ -31457,7 +31664,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone1_tone5",
+      "couple_with_heart_person_person_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [1, 5]
   },
@@ -31471,7 +31681,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone2_tone1",
+      "couple_with_heart_person_person_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [2, 1]
   },
@@ -31485,7 +31698,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone2_tone3",
+      "couple_with_heart_person_person_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [2, 3]
   },
@@ -31499,7 +31715,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone2_tone4",
+      "couple_with_heart_person_person_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [2, 4]
   },
@@ -31513,7 +31732,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone2_tone5",
+      "couple_with_heart_person_person_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [2, 5]
   },
@@ -31527,7 +31749,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone3_tone1",
+      "couple_with_heart_person_person_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [3, 1]
   },
@@ -31541,7 +31766,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone3_tone2",
+      "couple_with_heart_person_person_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [3, 2]
   },
@@ -31555,7 +31783,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone3_tone4",
+      "couple_with_heart_person_person_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [3, 4]
   },
@@ -31569,7 +31800,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone3_tone5",
+      "couple_with_heart_person_person_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [3, 5]
   },
@@ -31583,7 +31817,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone4_tone1",
+      "couple_with_heart_person_person_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [4, 1]
   },
@@ -31597,7 +31834,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone4_tone2",
+      "couple_with_heart_person_person_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [4, 2]
   },
@@ -31611,7 +31851,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone4_tone3",
+      "couple_with_heart_person_person_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [4, 3]
   },
@@ -31625,7 +31868,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone4_tone5",
+      "couple_with_heart_person_person_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [4, 5]
   },
@@ -31639,7 +31885,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone5_tone1",
+      "couple_with_heart_person_person_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [5, 1]
   },
@@ -31653,7 +31902,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone5_tone2",
+      "couple_with_heart_person_person_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [5, 2]
   },
@@ -31667,7 +31919,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone5_tone3",
+      "couple_with_heart_person_person_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [5, 3]
   },
@@ -31681,7 +31936,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_person_person_tone5_tone4",
+      "couple_with_heart_person_person_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "love"],
     "tone": [5, 4]
   },
@@ -31735,7 +31993,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone1",
+      "couple_with_heart_woman_man_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [1]
   },
@@ -31749,7 +32010,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone1_tone2",
+      "couple_with_heart_woman_man_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [1, 2]
   },
@@ -31763,7 +32027,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone1_tone3",
+      "couple_with_heart_woman_man_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [1, 3]
   },
@@ -31777,7 +32044,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone1_tone4",
+      "couple_with_heart_woman_man_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [1, 4]
   },
@@ -31791,7 +32061,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone1_tone5",
+      "couple_with_heart_woman_man_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [1, 5]
   },
@@ -31805,7 +32078,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone2_tone1",
+      "couple_with_heart_woman_man_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [2, 1]
   },
@@ -31819,7 +32095,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone2",
+      "couple_with_heart_woman_man_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [2]
   },
@@ -31833,7 +32112,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone2_tone3",
+      "couple_with_heart_woman_man_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [2, 3]
   },
@@ -31847,7 +32129,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone2_tone4",
+      "couple_with_heart_woman_man_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [2, 4]
   },
@@ -31861,7 +32146,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone2_tone5",
+      "couple_with_heart_woman_man_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [2, 5]
   },
@@ -31875,7 +32163,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone3_tone1",
+      "couple_with_heart_woman_man_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [3, 1]
   },
@@ -31889,7 +32180,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone3_tone2",
+      "couple_with_heart_woman_man_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [3, 2]
   },
@@ -31903,7 +32197,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone3",
+      "couple_with_heart_woman_man_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [3]
   },
@@ -31917,7 +32214,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone3_tone4",
+      "couple_with_heart_woman_man_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [3, 4]
   },
@@ -31931,7 +32231,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone3_tone5",
+      "couple_with_heart_woman_man_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [3, 5]
   },
@@ -31945,7 +32248,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone4_tone1",
+      "couple_with_heart_woman_man_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [4, 1]
   },
@@ -31959,7 +32265,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone4_tone2",
+      "couple_with_heart_woman_man_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [4, 2]
   },
@@ -31973,7 +32282,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone4_tone3",
+      "couple_with_heart_woman_man_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [4, 3]
   },
@@ -31987,7 +32299,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone4",
+      "couple_with_heart_woman_man_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [4]
   },
@@ -32001,7 +32316,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone4_tone5",
+      "couple_with_heart_woman_man_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [4, 5]
   },
@@ -32015,7 +32333,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone5_tone1",
+      "couple_with_heart_woman_man_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [5, 1]
   },
@@ -32029,7 +32350,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone5_tone2",
+      "couple_with_heart_woman_man_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [5, 2]
   },
@@ -32043,7 +32367,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone5_tone3",
+      "couple_with_heart_woman_man_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [5, 3]
   },
@@ -32057,7 +32384,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone5_tone4",
+      "couple_with_heart_woman_man_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [5, 4]
   },
@@ -32071,7 +32401,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_man_tone5",
+      "couple_with_heart_woman_man_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man", "woman"],
     "tone": [5]
   },
@@ -32125,7 +32458,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_man_man_tone1", "couple_with_heart_man_man_light_skin_tone"],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [1]
   },
@@ -32139,7 +32472,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone1_tone2",
+      "couple_with_heart_man_man_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [1, 2]
   },
@@ -32153,7 +32489,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone1_tone3",
+      "couple_with_heart_man_man_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [1, 3]
   },
@@ -32167,7 +32506,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone1_tone4",
+      "couple_with_heart_man_man_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [1, 4]
   },
@@ -32181,7 +32523,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone1_tone5",
+      "couple_with_heart_man_man_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [1, 5]
   },
@@ -32195,7 +32540,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone2_tone1",
+      "couple_with_heart_man_man_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [2, 1]
   },
@@ -32209,7 +32557,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone2",
+      "couple_with_heart_man_man_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [2]
   },
@@ -32223,7 +32574,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone2_tone3",
+      "couple_with_heart_man_man_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [2, 3]
   },
@@ -32237,7 +32591,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone2_tone4",
+      "couple_with_heart_man_man_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [2, 4]
   },
@@ -32251,7 +32608,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone2_tone5",
+      "couple_with_heart_man_man_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [2, 5]
   },
@@ -32265,7 +32625,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone3_tone1",
+      "couple_with_heart_man_man_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [3, 1]
   },
@@ -32279,7 +32642,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone3_tone2",
+      "couple_with_heart_man_man_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [3, 2]
   },
@@ -32293,7 +32659,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_man_man_tone3", "couple_with_heart_man_man_medium_skin_tone"],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [3]
   },
@@ -32307,7 +32673,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone3_tone4",
+      "couple_with_heart_man_man_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [3, 4]
   },
@@ -32321,7 +32690,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone3_tone5",
+      "couple_with_heart_man_man_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [3, 5]
   },
@@ -32335,7 +32707,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone4_tone1",
+      "couple_with_heart_man_man_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [4, 1]
   },
@@ -32349,7 +32724,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone4_tone2",
+      "couple_with_heart_man_man_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [4, 2]
   },
@@ -32363,7 +32741,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone4_tone3",
+      "couple_with_heart_man_man_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [4, 3]
   },
@@ -32377,7 +32758,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone4",
+      "couple_with_heart_man_man_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [4]
   },
@@ -32391,7 +32775,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone4_tone5",
+      "couple_with_heart_man_man_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [4, 5]
   },
@@ -32405,7 +32792,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone5_tone1",
+      "couple_with_heart_man_man_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [5, 1]
   },
@@ -32419,7 +32809,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone5_tone2",
+      "couple_with_heart_man_man_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [5, 2]
   },
@@ -32433,7 +32826,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone5_tone3",
+      "couple_with_heart_man_man_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [5, 3]
   },
@@ -32447,7 +32843,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_man_man_tone5_tone4",
+      "couple_with_heart_man_man_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [5, 4]
   },
@@ -32461,7 +32860,7 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": ["couple_with_heart_man_man_tone5", "couple_with_heart_man_man_dark_skin_tone"],
     "tags": ["couple", "couple with heart", "love", "man"],
     "tone": [5]
   },
@@ -32515,7 +32914,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone1",
+      "couple_with_heart_woman_woman_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [1]
   },
@@ -32529,7 +32931,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone1_tone2",
+      "couple_with_heart_woman_woman_light_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [1, 2]
   },
@@ -32543,7 +32948,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone1_tone3",
+      "couple_with_heart_woman_woman_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [1, 3]
   },
@@ -32557,7 +32965,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone1_tone4",
+      "couple_with_heart_woman_woman_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [1, 4]
   },
@@ -32571,7 +32982,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone1_tone5",
+      "couple_with_heart_woman_woman_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [1, 5]
   },
@@ -32585,7 +32999,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone2_tone1",
+      "couple_with_heart_woman_woman_medium_light_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [2, 1]
   },
@@ -32599,7 +33016,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone2",
+      "couple_with_heart_woman_woman_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [2]
   },
@@ -32613,7 +33033,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone2_tone3",
+      "couple_with_heart_woman_woman_medium_light_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [2, 3]
   },
@@ -32627,7 +33050,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone2_tone4",
+      "couple_with_heart_woman_woman_medium_light_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [2, 4]
   },
@@ -32641,7 +33067,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone2_tone5",
+      "couple_with_heart_woman_woman_medium_light_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [2, 5]
   },
@@ -32655,7 +33084,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone3_tone1",
+      "couple_with_heart_woman_woman_medium_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [3, 1]
   },
@@ -32669,7 +33101,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone3_tone2",
+      "couple_with_heart_woman_woman_medium_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [3, 2]
   },
@@ -32683,7 +33118,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone3",
+      "couple_with_heart_woman_woman_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [3]
   },
@@ -32697,7 +33135,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone3_tone4",
+      "couple_with_heart_woman_woman_medium_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [3, 4]
   },
@@ -32711,7 +33152,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone3_tone5",
+      "couple_with_heart_woman_woman_medium_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [3, 5]
   },
@@ -32725,7 +33169,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone4_tone1",
+      "couple_with_heart_woman_woman_medium_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [4, 1]
   },
@@ -32739,7 +33186,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone4_tone2",
+      "couple_with_heart_woman_woman_medium_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [4, 2]
   },
@@ -32753,7 +33203,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone4_tone3",
+      "couple_with_heart_woman_woman_medium_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [4, 3]
   },
@@ -32767,7 +33220,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone4",
+      "couple_with_heart_woman_woman_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [4]
   },
@@ -32781,7 +33237,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone4_tone5",
+      "couple_with_heart_woman_woman_medium_dark_skin_tone_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [4, 5]
   },
@@ -32795,7 +33254,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone5_tone1",
+      "couple_with_heart_woman_woman_dark_skin_tone_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [5, 1]
   },
@@ -32809,7 +33271,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone5_tone2",
+      "couple_with_heart_woman_woman_dark_skin_tone_medium_light_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [5, 2]
   },
@@ -32823,7 +33288,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone5_tone3",
+      "couple_with_heart_woman_woman_dark_skin_tone_medium_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [5, 3]
   },
@@ -32837,7 +33305,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone5_tone4",
+      "couple_with_heart_woman_woman_dark_skin_tone_medium_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [5, 4]
   },
@@ -32851,7 +33322,10 @@
     "group": 1,
     "subgroup": 29,
     "version": 13.1,
-    "shortcodes": [],
+    "shortcodes": [
+      "couple_with_heart_woman_woman_tone5",
+      "couple_with_heart_woman_woman_dark_skin_tone"
+    ],
     "tags": ["couple", "couple with heart", "love", "woman"],
     "tone": [5]
   },
@@ -41594,7 +42068,7 @@
   {
     "annotation": "accordion",
     "hexcode": "1FA97",
-    "tags": ["accordian", "concertina", "squeeze box"],
+    "tags": ["concertina", "squeeze box"],
     "emoji": "🪗",
     "text": "",
     "type": 1,
