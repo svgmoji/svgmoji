@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{93:function(o){o.exports=JSON.parse('{"allTagsPath":"/svgmoji/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/svgmoji/blog/tags/hello"}')}}]);
