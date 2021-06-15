@@ -1,5 +1,20 @@
 # @svgmoji/twemoji
 
+## 3.2.0
+
+> 2021-06-15
+
+### Minor Changes
+
+- e35c9b48: Add `.json` files to the exports. This fixes the webpack issue raised in [#12](https://github.com/svgmoji/svgmoji/issues/12).
+- 71bb8f85: Upgrade Twemoji to [`Emoji 13.1`](https://github.com/twitter/twemoji/releases/tag/v13.1.0) which adds new emoji's to the library.
+
+### Patch Changes
+
+- 71bb8f85: Regenerate exported `.svg` and `.json` files with latest version of [**SVGO**](https://github.com/svg/svgo).
+- Updated dependencies [71bb8f85]
+  - @svgmoji/core@3.2.0
+
 ## 3.1.0
 
 > 2021-02-15

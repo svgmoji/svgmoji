@@ -1,5 +1,13 @@
 # @svgmoji/core
 
+## 3.2.0
+
+> 2021-06-15
+
+### Patch Changes
+
+- 71bb8f85: Regenerate exported `.svg` and `.json` files with latest version of [**SVGO**](https://github.com/svg/svgo).
+
 ## 3.1.0
 
 > 2021-02-15
