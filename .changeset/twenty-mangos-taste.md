@@ -7,4 +7,4 @@
 '@svgmoji/twemoji': patch
 ---
 
-Regenerate exported SVG's and json files with upgraded SVGO.
+Regenerate exported `.svg` and `.json` files with latest version of [**SVGO**](https://github.com/svg/svgo).

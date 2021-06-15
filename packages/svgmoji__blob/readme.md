@@ -41,7 +41,7 @@ import data from 'svgmoji/emoji.json';
 
 const blobmoji = new Blobmoji({ data, type: 'all' });
 const image = document.createElement('img');
-image.src = blobmoji.getUrl('❤️');
+image.src = blobmoji.url('❤️');
 
 document.body.append(image);
 ```

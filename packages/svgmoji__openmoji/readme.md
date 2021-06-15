@@ -41,7 +41,7 @@ import data from 'svgmoji/emoji.json';
 
 const openmoji = new Openmoji({ data, type: 'all' });
 const image = document.createElement('img');
-image.src = openmoji.getUrl('❤️');
+image.src = openmoji.url('❤️');
 
 document.body.append(image);
 ```

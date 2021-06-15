@@ -41,7 +41,7 @@ import data from 'svgmoji/emoji.json';
 
 const twemoji = new Twemoji({ data, type: 'all' });
 const image = document.createElement('img');
-image.src = twemoji.getUrl('❤️');
+image.src = twemoji.url('❤️');
 
 document.body.append(image);
 ```
