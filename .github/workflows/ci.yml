@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - 'changeset-release/main'
+      - 'issue/*'
 
   pull_request:
     branches:
