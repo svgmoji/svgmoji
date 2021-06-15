@@ -1,9 +1,6 @@
 name: ci
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-
   push:
     branches:
       - main
@@ -38,7 +35,7 @@ jobs:
       - name: setup node.js
         uses: actions/setup-node@v2-beta
         with:
-          node-version: 14
+          node-version: 16
 
       - name: install and audit
         uses: ./.github/actions/pnpm
@@ -78,7 +75,7 @@ jobs:
       - name: setup node.js
         uses: actions/setup-node@v2-beta
         with:
-          node-version: 14
+          node-version: 16
 
       - name: install and audit
         uses: ./.github/actions/pnpm
@@ -109,7 +106,7 @@ jobs:
       - name: setup node.js
         uses: actions/setup-node@v2-beta
         with:
-          node-version: 14
+          node-version: 16
 
       - name: install and audit
         uses: ./.github/actions/pnpm
@@ -125,7 +122,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x, 15.x]
+        node-version: [14.x, 16.x]
       fail-fast: false
 
     steps:
@@ -179,7 +176,7 @@ jobs:
       - name: setup node.js
         uses: actions/setup-node@v2-beta
         with:
-          node-version: 14
+          node-version: 16
 
       - name: install and audit
         uses: ./.github/actions/pnpm
