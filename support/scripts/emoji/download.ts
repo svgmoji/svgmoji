@@ -229,7 +229,12 @@ function optimizeSvgFile(props: OptimizeSvgFileProps): () => void | PromiseLike<
 
   return async () => {
     const contents = await readFile(filepath, 'utf-8');
-    const result = optimize(contents, { path: filepath, plugins: svgPlugins });
+    const result = optimize(contents, {
+      path: filepath,
+      plugins: svgPlugins,
+      multipass: true,
+      full: true,
+    });
     const svgFileName = library.getSvgFile(file);
     const hexcode = svgFileName.replace('.svg', '');
 

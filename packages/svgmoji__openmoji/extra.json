@@ -6,7 +6,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "public domain"
+    ]
   },
   {
     "annotation": "circled anticlockwise arrow",
@@ -15,7 +22,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre", "share alike"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "share alike"
+    ]
   },
   {
     "annotation": "circled dollar sign with overlaid backslash",
@@ -24,7 +38,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre", "non commercial"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "non commercial"
+    ]
   },
   {
     "annotation": "copyleft symbol",
@@ -33,7 +54,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["open source", "free", "libre", "reciprocal"]
+    "tags": [
+      "open source",
+      "free",
+      "libre",
+      "reciprocal"
+    ]
   },
   {
     "annotation": "circled cc",
@@ -42,7 +68,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "public domain"
+    ]
   },
   {
     "annotation": "circled c with overlaid backslash",
@@ -51,7 +84,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre", "public domain"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre",
+      "public domain"
+    ]
   },
   {
     "annotation": "circled human figure",
@@ -78,7 +118,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hello internet", "cgp grey", "brady haran"]
+    "tags": [
+      "hello internet",
+      "cgp grey",
+      "brady haran"
+    ]
   },
   {
     "annotation": "red flag",
@@ -87,7 +131,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["socialism", "communism"]
+    "tags": [
+      "socialism",
+      "communism"
+    ]
   },
   {
     "annotation": "blue flag",
@@ -96,7 +143,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "united federation of planets flag (star trek)",
@@ -105,7 +154,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["star trek", "future", "utopia", "trekkie", "trekker", "space"]
+    "tags": [
+      "star trek",
+      "future",
+      "utopia",
+      "trekkie",
+      "trekker",
+      "space"
+    ]
   },
   {
     "annotation": "orange flag",
@@ -114,7 +170,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["maratha", "pirate party", "christian democracy"]
+    "tags": [
+      "maratha",
+      "pirate party",
+      "christian democracy"
+    ]
   },
   {
     "annotation": "yellow flag",
@@ -123,7 +183,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["quebec", "yellow jack"]
+    "tags": [
+      "quebec",
+      "yellow jack"
+    ]
   },
   {
     "annotation": "green flag",
@@ -132,7 +195,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["green party", "environmentalism"]
+    "tags": [
+      "green party",
+      "environmentalism"
+    ]
   },
   {
     "annotation": "esperanto flag",
@@ -141,7 +207,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["constructed", "Zamenhof"]
+    "tags": [
+      "constructed",
+      "Zamenhof"
+    ]
   },
   {
     "annotation": "purple flag",
@@ -150,7 +219,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "brown flag",
@@ -159,7 +230,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "berlin flag",
@@ -168,7 +241,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["bear", "city", "capital"]
+    "tags": [
+      "bear",
+      "city",
+      "capital"
+    ]
   },
   {
     "annotation": "bavaria flag",
@@ -177,7 +254,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["state", "lozenge"]
+    "tags": [
+      "state",
+      "lozenge"
+    ]
   },
   {
     "annotation": "asturian flag",
@@ -186,7 +266,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["asturian", "asturina"]
+    "tags": [
+      "asturian",
+      "asturina"
+    ]
   },
   {
     "annotation": "california flag",
@@ -195,7 +278,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["bear", "republic", "state"]
+    "tags": [
+      "bear",
+      "republic",
+      "state"
+    ]
   },
   {
     "annotation": "texas flag",
@@ -204,7 +291,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cowboy", "lone star", "republic", "state"]
+    "tags": [
+      "cowboy",
+      "lone star",
+      "republic",
+      "state"
+    ]
   },
   {
     "annotation": "hacker cat",
@@ -232,7 +324,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure with arms raised",
@@ -241,7 +335,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure with dress and arms raised",
@@ -250,7 +346,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure leaning left",
@@ -259,7 +357,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure with dress leaning left",
@@ -268,7 +368,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure leaning right",
@@ -277,7 +379,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure with dress leaning right",
@@ -286,7 +390,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "stick figure with dress",
@@ -295,7 +401,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["legacy computing"]
+    "tags": [
+      "legacy computing"
+    ]
   },
   {
     "annotation": "catalonia flag",
@@ -304,7 +412,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["catalan", "senyera"]
+    "tags": [
+      "catalan",
+      "senyera"
+    ]
   },
   {
     "annotation": "sound recording copyright",
@@ -313,7 +424,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["trademark", "music", "phonogram"]
+    "tags": [
+      "trademark",
+      "music",
+      "phonogram"
+    ]
   },
   {
     "annotation": "service mark",
@@ -322,7 +437,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["trademark", "sm"]
+    "tags": [
+      "trademark",
+      "sm"
+    ]
   },
   {
     "annotation": "circled equals",
@@ -331,7 +449,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["license", "copyright", "creative commons", "open", "libre"]
+    "tags": [
+      "license",
+      "copyright",
+      "creative commons",
+      "open",
+      "libre"
+    ]
   },
   {
     "annotation": "power symbol",
@@ -340,7 +464,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["enable", "on", "off"]
+    "tags": [
+      "enable",
+      "on",
+      "off"
+    ]
   },
   {
     "annotation": "power on-off symbol",
@@ -349,7 +477,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["enable", "disable", "on", "off"]
+    "tags": [
+      "enable",
+      "disable",
+      "on",
+      "off"
+    ]
   },
   {
     "annotation": "power on symbol",
@@ -358,7 +491,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["enable", "on", "I"]
+    "tags": [
+      "enable",
+      "on",
+      "I"
+    ]
   },
   {
     "annotation": "power sleep symbol",
@@ -367,7 +504,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["sleep", "standby", "crescent moon"]
+    "tags": [
+      "sleep",
+      "standby",
+      "crescent moon"
+    ]
   },
   {
     "annotation": "white square",
@@ -376,7 +517,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["missing glyph"]
+    "tags": [
+      "missing glyph"
+    ]
   },
   {
     "annotation": "black rectangle",
@@ -385,7 +528,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "white rectangle",
@@ -394,7 +539,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "circle with left half black",
@@ -403,7 +550,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "circle with right half black",
@@ -412,7 +561,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "square with left half black",
@@ -421,7 +572,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "square with right half black",
@@ -430,7 +583,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "square with upper left diagonal black",
@@ -439,7 +594,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "square with lower right diagonal black",
@@ -448,7 +605,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "up-pointing triangle with left half black",
@@ -457,7 +616,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "up-pointing triangle with right half black",
@@ -466,7 +627,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "black star",
@@ -475,7 +638,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["full star"]
+    "tags": [
+      "full star"
+    ]
   },
   {
     "annotation": "red flag",
@@ -484,7 +649,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["socialism", "communism"]
+    "tags": [
+      "socialism",
+      "communism"
+    ]
   },
   {
     "annotation": "deep blue flag",
@@ -493,7 +661,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "deep orange flag",
@@ -502,7 +672,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["maratha", "pirate party", "christian democracy"]
+    "tags": [
+      "maratha",
+      "pirate party",
+      "christian democracy"
+    ]
   },
   {
     "annotation": "deep yellow flag",
@@ -511,7 +685,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["quebec", "yellow jack"]
+    "tags": [
+      "quebec",
+      "yellow jack"
+    ]
   },
   {
     "annotation": "deep green flag",
@@ -520,7 +697,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["green party", "environmentalism"]
+    "tags": [
+      "green party",
+      "environmentalism"
+    ]
   },
   {
     "annotation": "browncoat flag",
@@ -529,7 +709,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["firefly", "serenity", "independent planets"]
+    "tags": [
+      "firefly",
+      "serenity",
+      "independent planets"
+    ]
   },
   {
     "annotation": "deep purple flag",
@@ -538,7 +722,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "deep brown flag",
@@ -547,7 +733,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "left right black arrow",
@@ -556,7 +744,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "up down black arrow",
@@ -565,7 +755,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "black pentagon",
@@ -574,7 +766,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "white pentagon",
@@ -583,7 +777,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "white hexagon",
@@ -592,16 +788,98 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
-  "2B21-FE0F-200D-1F308",
-  "2B21-FE0F-200D-1F7E5",
-  "2B21-FE0F-200D-1F7E6",
-  "2B21-FE0F-200D-1F7E7",
-  "2B21-FE0F-200D-1F7E8",
-  "2B21-FE0F-200D-1F7E9",
-  "2B21-FE0F-200D-1F7EA",
-  "2B21-FE0F-200D-1F7EB",
+  {
+    "annotation": "rainbow hexagon",
+    "emoji": "⬡️‍🌈",
+    "hexcode": "2B21-FE0F-200D-1F308",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "pride"
+    ]
+  },
+  {
+    "annotation": "red hexagon",
+    "emoji": "⬡️‍🟥",
+    "hexcode": "2B21-FE0F-200D-1F7E5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "blue hexagon",
+    "emoji": "⬡️‍🟦",
+    "hexcode": "2B21-FE0F-200D-1F7E6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "orange hexagon",
+    "emoji": "⬡️‍🟧",
+    "hexcode": "2B21-FE0F-200D-1F7E7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "yellow hexagon",
+    "emoji": "⬡️‍🟨",
+    "hexcode": "2B21-FE0F-200D-1F7E8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "green hexagon",
+    "emoji": "⬡️‍🟩",
+    "hexcode": "2B21-FE0F-200D-1F7E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "purple hexagon",
+    "emoji": "⬡️‍🟪",
+    "hexcode": "2B21-FE0F-200D-1F7EA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "annotation": "brown hexagon",
+    "emoji": "⬡️‍🟫",
+    "hexcode": "2B21-FE0F-200D-1F7EB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      ""
+    ]
+  },
   {
     "annotation": "black hexagon",
     "emoji": "⬢",
@@ -609,7 +887,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "horizontal black hexagon ",
@@ -618,7 +898,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "black large circle",
@@ -627,7 +909,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "black vertical ellipse",
@@ -636,7 +920,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "white vertical ellipse",
@@ -645,7 +931,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "heavy circle",
@@ -654,7 +942,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["off", "disable", "power off", "O"]
+    "tags": [
+      "off",
+      "disable",
+      "power off",
+      "O"
+    ]
   },
   {
     "annotation": "anticlockwise triangle-headed top u-shaped arrow",
@@ -663,7 +956,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "overlapping white squares",
@@ -672,7 +967,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "overlapping white and black squares",
@@ -681,7 +978,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "overlapping black squares",
@@ -690,7 +989,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "horizontal black octagon",
@@ -699,7 +1000,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "black octagon",
@@ -708,7 +1011,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equilateral polygon"]
+    "tags": [
+      "equilateral polygon"
+    ]
   },
   {
     "annotation": "star with left half black",
@@ -717,7 +1022,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["half star"]
+    "tags": [
+      "half star"
+    ]
   },
   {
     "annotation": "star with right half black",
@@ -726,7 +1033,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["half star"]
+    "tags": [
+      "half star"
+    ]
   },
   {
     "annotation": "goldfish",
@@ -735,7 +1044,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["goldfish", "fish", "water"]
+    "tags": [
+      "goldfish",
+      "fish",
+      "water"
+    ]
   },
   {
     "annotation": "donkey",
@@ -744,7 +1057,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "poppy",
@@ -753,7 +1068,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["poppy", "remembrance", "veterans"]
+    "tags": [
+      "poppy",
+      "remembrance",
+      "veterans"
+    ]
   },
   {
     "annotation": "doe",
@@ -762,7 +1081,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["forest", "hunt", "antler", "deer"]
+    "tags": [
+      "forest",
+      "hunt",
+      "antler",
+      "deer"
+    ]
   },
   {
     "annotation": "spouting-orca",
@@ -790,7 +1114,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cetacean", "whale", "orca", "killer whale", "blackfish", "swim", "animal", "water"]
+    "tags": [
+      "cetacean",
+      "whale",
+      "orca",
+      "killer whale",
+      "blackfish",
+      "swim",
+      "animal",
+      "water"
+    ]
   },
   {
     "annotation": "narwhal",
@@ -799,7 +1132,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cetacean", "whale", "swim", "animal", "water"]
+    "tags": [
+      "cetacean",
+      "whale",
+      "swim",
+      "animal",
+      "water"
+    ]
   },
   {
     "annotation": "beluga",
@@ -808,7 +1147,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cetacean", "whale", "swim", "animal", "water"]
+    "tags": [
+      "cetacean",
+      "whale",
+      "swim",
+      "animal",
+      "water"
+    ]
   },
   {
     "annotation": "porpoise",
@@ -817,7 +1162,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cetacean", "swim", "animal", "water"]
+    "tags": [
+      "cetacean",
+      "swim",
+      "animal",
+      "water"
+    ]
   },
   {
     "annotation": "pigeon",
@@ -826,7 +1176,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["vermin", "rock dove", "bird", "city"]
+    "tags": [
+      "vermin",
+      "rock dove",
+      "bird",
+      "city"
+    ]
   },
   {
     "annotation": "macaw",
@@ -835,7 +1190,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["tropical", "jungle", "exotic", "parrots"]
+    "tags": [
+      "tropical",
+      "jungle",
+      "exotic",
+      "parrots"
+    ]
   },
   {
     "annotation": "microbe",
@@ -844,7 +1204,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["amoeba", "bacteria", "virus"]
+    "tags": [
+      "amoeba",
+      "bacteria",
+      "virus"
+    ]
   },
   {
     "annotation": "Twitter",
@@ -853,7 +1217,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "pinterest",
@@ -862,7 +1228,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["social", "platform", "pins"]
+    "tags": [
+      "social",
+      "platform",
+      "pins"
+    ]
   },
   {
     "annotation": "facebook",
@@ -871,7 +1241,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["facebook", "company", "social-media"]
+    "tags": [
+      "facebook",
+      "company",
+      "social-media"
+    ]
   },
   {
     "annotation": "instagram",
@@ -880,7 +1254,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["instagram", "facebook", "company", "social-media"]
+    "tags": [
+      "instagram",
+      "facebook",
+      "company",
+      "social-media"
+    ]
   },
   {
     "annotation": "youtube",
@@ -889,7 +1268,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["social", "platform", "video", "brand"]
+    "tags": [
+      "social",
+      "platform",
+      "video",
+      "brand"
+    ]
   },
   {
     "annotation": "github",
@@ -898,7 +1282,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["social", "platform", "code", "git", "brand"]
+    "tags": [
+      "social",
+      "platform",
+      "code",
+      "git",
+      "brand"
+    ]
   },
   {
     "annotation": "linkedin",
@@ -907,7 +1297,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["business"]
+    "tags": [
+      "business"
+    ]
   },
   {
     "annotation": "android",
@@ -916,7 +1308,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["google play"]
+    "tags": [
+      "google play"
+    ]
   },
   {
     "annotation": "musicbrainz",
@@ -925,7 +1319,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["music metadata"]
+    "tags": [
+      "music metadata"
+    ]
   },
   {
     "annotation": "openfoodfact",
@@ -934,7 +1330,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["nutrition data"]
+    "tags": [
+      "nutrition data"
+    ]
   },
   {
     "annotation": "openstreetmap",
@@ -943,7 +1341,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["map", "osm", "geodata"]
+    "tags": [
+      "map",
+      "osm",
+      "geodata"
+    ]
   },
   {
     "annotation": "wikidata",
@@ -952,7 +1354,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["open knowledge graph"]
+    "tags": [
+      "open knowledge graph"
+    ]
   },
   {
     "annotation": "Firefox",
@@ -961,7 +1365,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser", "fire", "fox"]
+    "tags": [
+      "browser",
+      "fire",
+      "fox"
+    ]
   },
   {
     "annotation": "Safari",
@@ -970,7 +1378,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser", "compass", "webkit", "apple"]
+    "tags": [
+      "browser",
+      "compass",
+      "webkit",
+      "apple"
+    ]
   },
   {
     "annotation": "Opera",
@@ -979,7 +1392,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser"]
+    "tags": [
+      "browser"
+    ]
   },
   {
     "annotation": "Chromium",
@@ -988,7 +1403,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser"]
+    "tags": [
+      "browser"
+    ]
   },
   {
     "annotation": "Chrome",
@@ -997,7 +1414,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser", "google"]
+    "tags": [
+      "browser",
+      "google"
+    ]
   },
   {
     "annotation": "Netscape Navigator",
@@ -1006,7 +1426,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser"]
+    "tags": [
+      "browser"
+    ]
   },
   {
     "annotation": "Internet Explorer",
@@ -1015,7 +1437,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser", "ie", "microsoft"]
+    "tags": [
+      "browser",
+      "ie",
+      "microsoft"
+    ]
   },
   {
     "annotation": "Edge",
@@ -1024,9 +1450,24 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["browser", "microsoft"]
+    "tags": [
+      "browser",
+      "microsoft"
+    ]
   },
-  "E058",
+  {
+    "annotation": "iNaturalist",
+    "emoji": "",
+    "hexcode": "E058",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [
+      "opendata",
+      "nature",
+      "observation"
+    ]
+  },
   {
     "annotation": "assembly point",
     "emoji": "",
@@ -1034,7 +1475,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "assembly group",
@@ -1043,7 +1486,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "authority instruction",
@@ -1052,7 +1497,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "help others",
@@ -1061,7 +1508,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["help elderly", "help wheelchair"]
+    "tags": [
+      "help elderly",
+      "help wheelchair"
+    ]
   },
   {
     "annotation": "drop cover hold",
@@ -1070,7 +1520,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["earthquake safety"]
+    "tags": [
+      "earthquake safety"
+    ]
   },
   {
     "annotation": "evacuate",
@@ -1079,7 +1531,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "evacuate vertical",
@@ -1088,7 +1542,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "evacuate downstairs",
@@ -1097,7 +1553,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "evacuate to shelter",
@@ -1106,7 +1564,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "structural fire",
@@ -1115,7 +1575,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "wild fire",
@@ -1124,7 +1586,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "evacuate fire",
@@ -1133,7 +1597,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "warning tsunami",
@@ -1142,7 +1608,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "warning volcano",
@@ -1151,7 +1619,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "warning fire",
@@ -1160,7 +1630,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "authority",
@@ -1169,7 +1641,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "first aid",
@@ -1178,7 +1652,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["red cross"]
+    "tags": [
+      "red cross"
+    ]
   },
   {
     "annotation": "flagged point",
@@ -1187,7 +1663,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["white flag"]
+    "tags": [
+      "white flag"
+    ]
   },
   {
     "annotation": "flagged building",
@@ -1196,7 +1674,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["white flag"]
+    "tags": [
+      "white flag"
+    ]
   },
   {
     "annotation": "authority building",
@@ -1205,7 +1685,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["white flag"]
+    "tags": [
+      "white flag"
+    ]
   },
   {
     "annotation": "signpost",
@@ -1214,7 +1696,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["orientation", "crossroad"]
+    "tags": [
+      "orientation",
+      "crossroad"
+    ]
   },
   {
     "annotation": "mobile info",
@@ -1223,7 +1708,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "mobile message",
@@ -1232,7 +1719,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "charge plug",
@@ -1241,7 +1730,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["low battery"]
+    "tags": [
+      "low battery"
+    ]
   },
   {
     "annotation": "shelter",
@@ -1250,7 +1741,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "volcano eruption",
@@ -1259,7 +1752,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["volcano fumarole"]
+    "tags": [
+      "volcano fumarole"
+    ]
   },
   {
     "annotation": "volcano ashes",
@@ -1268,7 +1763,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["volcano eruption"]
+    "tags": [
+      "volcano eruption"
+    ]
   },
   {
     "annotation": "tsunami",
@@ -1277,7 +1774,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "earthquake",
@@ -1286,7 +1785,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "landslide",
@@ -1295,7 +1796,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "avalanche",
@@ -1304,7 +1807,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "flood",
@@ -1313,7 +1818,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "north",
@@ -1322,7 +1829,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "transmission",
@@ -1331,7 +1840,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "sos stencil",
@@ -1340,7 +1851,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "ok stencil",
@@ -1349,7 +1862,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "no stencil",
@@ -1358,7 +1873,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "warning strip",
@@ -1367,7 +1884,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "warning strip right",
@@ -1376,7 +1895,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["arrow"]
+    "tags": [
+      "arrow"
+    ]
   },
   {
     "annotation": "arrow turn right",
@@ -1385,7 +1906,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "emergency exit door",
@@ -1394,7 +1917,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "location indicator red",
@@ -1403,7 +1928,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "electric plug red",
@@ -1412,7 +1939,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "timer",
@@ -1421,7 +1950,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["clock", "alarm"]
+    "tags": [
+      "clock",
+      "alarm"
+    ]
   },
   {
     "annotation": "person with medical mask",
@@ -1430,7 +1962,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "woman with medical mask",
@@ -1439,7 +1974,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "man with medical mask",
@@ -1448,7 +1986,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "person sneezing into elbow",
@@ -1457,7 +1998,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "dab"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "dab"
+    ]
   },
   {
     "annotation": "woman sneezing into elbow",
@@ -1466,7 +2011,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "dab"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "dab"
+    ]
   },
   {
     "annotation": "man sneezing into elbow",
@@ -1475,7 +2024,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "dab"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "dab"
+    ]
   },
   {
     "annotation": "disinfect surface",
@@ -1484,7 +2037,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "sanitize", "clean"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "sanitize",
+      "clean"
+    ]
   },
   {
     "annotation": "quarantine",
@@ -1493,7 +2051,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "social distancing",
@@ -1502,7 +2063,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "sanitizer spray",
@@ -1511,7 +2075,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "disinfect", "clean"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "disinfect",
+      "clean"
+    ]
   },
   {
     "annotation": "wash hands",
@@ -1520,7 +2089,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "sanitize", "clean"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "sanitize",
+      "clean"
+    ]
   },
   {
     "annotation": "temperature taking",
@@ -1529,7 +2103,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19", "thermometer"]
+    "tags": [
+      "coronavirus",
+      "COVID-19",
+      "thermometer"
+    ]
   },
   {
     "annotation": "medical gloves",
@@ -1538,7 +2116,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coronavirus", "COVID-19"]
+    "tags": [
+      "coronavirus",
+      "COVID-19"
+    ]
   },
   {
     "annotation": "half orange fruit",
@@ -1547,7 +2128,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["citrus fruits", "half"]
+    "tags": [
+      "citrus fruits",
+      "half"
+    ]
   },
   {
     "annotation": "maultasche",
@@ -1556,7 +2140,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "meal", "germany"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "meal",
+      "germany"
+    ]
   },
   {
     "annotation": "lentils with spaetzle",
@@ -1565,7 +2155,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "meal", "germany"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "meal",
+      "germany"
+    ]
   },
   {
     "annotation": "pretzel",
@@ -1574,7 +2169,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "brezel", "germany"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "brezel",
+      "germany"
+    ]
   },
   {
     "annotation": "pomegranate",
@@ -1583,7 +2184,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pomegranate", "fruit", "seeds"]
+    "tags": [
+      "pomegranate",
+      "fruit",
+      "seeds"
+    ]
   },
   {
     "annotation": "latte macchiato",
@@ -1592,7 +2197,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coffee"]
+    "tags": [
+      "coffee"
+    ]
   },
   {
     "annotation": "roasted coffee bean",
@@ -1601,7 +2208,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "ubuntu",
@@ -1610,7 +2219,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["linux"]
+    "tags": [
+      "linux"
+    ]
   },
   {
     "annotation": "tap",
@@ -1619,7 +2230,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "double tap",
@@ -1628,7 +2241,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "three finger operation",
@@ -1637,7 +2252,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "move",
@@ -1646,7 +2263,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "scroll",
@@ -1655,7 +2274,15 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["vertical", "y-axis", "mouse", "wheel", "movement", "up", "down"]
+    "tags": [
+      "vertical",
+      "y-axis",
+      "mouse",
+      "wheel",
+      "movement",
+      "up",
+      "down"
+    ]
   },
   {
     "annotation": "swipe",
@@ -1664,7 +2291,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swipe", "finger", "move", "hand", "sideways", "app"]
+    "tags": [
+      "swipe",
+      "finger",
+      "move",
+      "hand",
+      "sideways",
+      "app"
+    ]
   },
   {
     "annotation": "scroll horizontal",
@@ -1673,7 +2307,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["x-axis", "move", "mouse", "scrollwheel", "scrolling"]
+    "tags": [
+      "x-axis",
+      "move",
+      "mouse",
+      "scrollwheel",
+      "scrolling"
+    ]
   },
   {
     "annotation": "page move",
@@ -1682,7 +2322,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["movement", "left", "right", "site", "document", "next", "previous", "paper"]
+    "tags": [
+      "movement",
+      "left",
+      "right",
+      "site",
+      "document",
+      "next",
+      "previous",
+      "paper"
+    ]
   },
   {
     "annotation": "swipe left",
@@ -1691,7 +2340,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["finger", "movement", "gesture", "touch", "app", "left", "x-axis", "hand"]
+    "tags": [
+      "finger",
+      "movement",
+      "gesture",
+      "touch",
+      "app",
+      "left",
+      "x-axis",
+      "hand"
+    ]
   },
   {
     "annotation": "swipe up",
@@ -1700,7 +2358,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["finger", "movement", "gesture", "touch", "app", "up", "y-axis", "hand"]
+    "tags": [
+      "finger",
+      "movement",
+      "gesture",
+      "touch",
+      "app",
+      "up",
+      "y-axis",
+      "hand"
+    ]
   },
   {
     "annotation": "swipe right",
@@ -1709,7 +2376,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["finger", "movement", "gesture", "touch", "app", "right", "x-axis", "hand"]
+    "tags": [
+      "finger",
+      "movement",
+      "gesture",
+      "touch",
+      "app",
+      "right",
+      "x-axis",
+      "hand"
+    ]
   },
   {
     "annotation": "swipe down",
@@ -1718,7 +2394,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["finger", "movement", "gesture", "touch", "app", "down", "y-axis", "hand"]
+    "tags": [
+      "finger",
+      "movement",
+      "gesture",
+      "touch",
+      "app",
+      "down",
+      "y-axis",
+      "hand"
+    ]
   },
   {
     "annotation": "finger pushing button",
@@ -1727,7 +2412,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pushing", "pressing", "red", "alarm", "nuclear missile", "launch", "start", "stop"]
+    "tags": [
+      "pushing",
+      "pressing",
+      "red",
+      "alarm",
+      "nuclear missile",
+      "launch",
+      "start",
+      "stop"
+    ]
   },
   {
     "annotation": "exit",
@@ -1736,7 +2430,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "first aid kit",
@@ -1745,7 +2441,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "armchair",
@@ -1754,7 +2452,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "picture",
@@ -1763,7 +2463,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["photo", "picture", "frame", "landscape"]
+    "tags": [
+      "photo",
+      "picture",
+      "frame",
+      "landscape"
+    ]
   },
   {
     "annotation": "lighter",
@@ -1772,7 +2477,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["lighter", "bic"]
+    "tags": [
+      "lighter",
+      "bic"
+    ]
   },
   {
     "annotation": "outlet",
@@ -1781,7 +2489,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["outlet"]
+    "tags": [
+      "outlet"
+    ]
   },
   {
     "annotation": "spätzlepresse",
@@ -1790,7 +2500,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "spätzle", "germany"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "spätzle",
+      "germany"
+    ]
   },
   {
     "annotation": "european name badge",
@@ -1799,7 +2515,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "kehrwoche",
@@ -1808,7 +2526,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany", "broom"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "germany",
+      "broom"
+    ]
   },
   {
     "annotation": "tardis",
@@ -1817,7 +2541,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["time machine", "doctor who", "police booth", "police box"]
+    "tags": [
+      "time machine",
+      "doctor who",
+      "police booth",
+      "police box"
+    ]
   },
   {
     "annotation": "espresso machine",
@@ -1826,7 +2555,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coffee"]
+    "tags": [
+      "coffee"
+    ]
   },
   {
     "annotation": "french press",
@@ -1835,7 +2566,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coffee"]
+    "tags": [
+      "coffee"
+    ]
   },
   {
     "annotation": "moka pot",
@@ -1844,7 +2577,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coffee"]
+    "tags": [
+      "coffee"
+    ]
   },
   {
     "annotation": "milk jug",
@@ -1853,7 +2588,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["coffee", "latte"]
+    "tags": [
+      "coffee",
+      "latte"
+    ]
   },
   {
     "annotation": "electric coffee percolator",
@@ -1862,7 +2600,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["burned coffee"]
+    "tags": [
+      "burned coffee"
+    ]
   },
   {
     "annotation": "drip coffee maker",
@@ -1871,7 +2611,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "coffee grinder",
@@ -1880,7 +2622,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "horse jumping hurdle",
@@ -1889,7 +2633,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equestrian"]
+    "tags": [
+      "equestrian"
+    ]
   },
   {
     "annotation": "drunk person",
@@ -1917,7 +2663,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["person", "person-activity", "dog", "walking", "animal", "pet"]
+    "tags": [
+      "person",
+      "person-activity",
+      "dog",
+      "walking",
+      "animal",
+      "pet"
+    ]
   },
   {
     "annotation": "trump",
@@ -1926,7 +2679,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["trump", "donald", "president", "america", "usa"]
+    "tags": [
+      "trump",
+      "donald",
+      "president",
+      "america",
+      "usa"
+    ]
   },
   {
     "annotation": "horse riding",
@@ -1935,7 +2694,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["equestrian"]
+    "tags": [
+      "equestrian"
+    ]
   },
   {
     "annotation": "barista",
@@ -1944,7 +2705,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["person"]
+    "tags": [
+      "person"
+    ]
   },
   {
     "annotation": "man barista",
@@ -1953,7 +2716,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["male"]
+    "tags": [
+      "male"
+    ]
   },
   {
     "annotation": "woman barista",
@@ -1962,7 +2727,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["female"]
+    "tags": [
+      "female"
+    ]
   },
   {
     "annotation": "Greta Thunberg",
@@ -1971,7 +2738,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["climate change", "sweden", "activist", "Fridays for Future", "FFF"]
+    "tags": [
+      "climate change",
+      "sweden",
+      "activist",
+      "Fridays for Future",
+      "FFF"
+    ]
   },
   {
     "annotation": "wireframes",
@@ -1980,7 +2753,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "code editor",
@@ -1989,7 +2764,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "autonomous car",
@@ -1998,7 +2775,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "switch",
@@ -2007,7 +2786,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["toggling", "changeover switch", "exchange counter", "left", "right"]
+    "tags": [
+      "toggling",
+      "changeover switch",
+      "exchange counter",
+      "left",
+      "right"
+    ]
   },
   {
     "annotation": "surveillance",
@@ -2016,7 +2801,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["surveillance", "camera", "CCTV"]
+    "tags": [
+      "surveillance",
+      "camera",
+      "CCTV"
+    ]
   },
   {
     "annotation": "augmented reality",
@@ -2025,7 +2814,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "led",
@@ -2034,7 +2825,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "motor",
@@ -2043,7 +2836,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "raspberry pi",
@@ -2052,7 +2847,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "virtual reality",
@@ -2061,7 +2858,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "cable",
@@ -2070,7 +2869,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "tablet",
@@ -2079,7 +2880,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["technology", "device", "portable", "screen", "phablet", "ipad"]
+    "tags": [
+      "technology",
+      "device",
+      "portable",
+      "screen",
+      "phablet",
+      "ipad"
+    ]
   },
   {
     "annotation": "gps",
@@ -2106,7 +2914,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["clock", "apps", "monitor", "intelligent", "device", "armlet"]
+    "tags": [
+      "clock",
+      "apps",
+      "monitor",
+      "intelligent",
+      "device",
+      "armlet"
+    ]
   },
   {
     "annotation": "washing machine",
@@ -2115,7 +2930,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["clothing", "garment", "cleaner", "home electronics", "appliance"]
+    "tags": [
+      "clothing",
+      "garment",
+      "cleaner",
+      "home electronics",
+      "appliance"
+    ]
   },
   {
     "annotation": "ibeacon",
@@ -2143,7 +2964,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["keyboard", "key", "type"]
+    "tags": [
+      "keyboard",
+      "key",
+      "type"
+    ]
   },
   {
     "annotation": "drone",
@@ -2152,7 +2977,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["drone", "UAV", "quadcopter", "RC"]
+    "tags": [
+      "drone",
+      "UAV",
+      "quadcopter",
+      "RC"
+    ]
   },
   {
     "annotation": "arduino",
@@ -2161,7 +2991,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["arduino", "prototyping", "electric", "sensor"]
+    "tags": [
+      "arduino",
+      "prototyping",
+      "electric",
+      "sensor"
+    ]
   },
   {
     "annotation": "wire",
@@ -2170,7 +3005,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["wire", "cord", "electric", "litz-wire"]
+    "tags": [
+      "wire",
+      "cord",
+      "electric",
+      "litz-wire"
+    ]
   },
   {
     "annotation": "potentiometer",
@@ -2179,7 +3019,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["potentiometer"]
+    "tags": [
+      "potentiometer"
+    ]
   },
   {
     "annotation": "solar cell",
@@ -2188,7 +3030,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["solar", "module", "cell", "photovoltaic"]
+    "tags": [
+      "solar",
+      "module",
+      "cell",
+      "photovoltaic"
+    ]
   },
   {
     "annotation": "circuit",
@@ -2197,7 +3044,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["circuit", "electric", "prototype"]
+    "tags": [
+      "circuit",
+      "electric",
+      "prototype"
+    ]
   },
   {
     "annotation": "cafeteria",
@@ -2206,7 +3057,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "emergency exit",
@@ -2236,7 +3089,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["steps", "up", "down", "ascend", "descend", "walk"]
+    "tags": [
+      "steps",
+      "up",
+      "down",
+      "ascend",
+      "descend",
+      "walk"
+    ]
   },
   {
     "annotation": "town",
@@ -2245,7 +3105,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["city", "village", "town"]
+    "tags": [
+      "city",
+      "village",
+      "town"
+    ]
   },
   {
     "annotation": "elevator",
@@ -2254,7 +3118,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["elevator"]
+    "tags": [
+      "elevator"
+    ]
   },
   {
     "annotation": "eiffel tower",
@@ -2263,7 +3129,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["paris", "tower", "france"]
+    "tags": [
+      "paris",
+      "tower",
+      "france"
+    ]
   },
   {
     "annotation": "parking garage",
@@ -2272,7 +3142,15 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["parking lot", "car", "automobile", "vehicle", "sign", "traffic sign", "p"]
+    "tags": [
+      "parking lot",
+      "car",
+      "automobile",
+      "vehicle",
+      "sign",
+      "traffic sign",
+      "p"
+    ]
   },
   {
     "annotation": "schwäbisch gmünd forum gold und silber",
@@ -2281,7 +3159,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany", "schwaebisch gmuend"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "germany",
+      "schwaebisch gmuend"
+    ]
   },
   {
     "annotation": "schwäbisch gmünd fünfknopfturm",
@@ -2290,7 +3174,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["tower", "schwaebisch gmuend"]
+    "tags": [
+      "tower",
+      "schwaebisch gmuend"
+    ]
   },
   {
     "annotation": "schwäbisch gmünd ratshaus",
@@ -2299,7 +3186,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["town hall", "schwaebisch gmuend"]
+    "tags": [
+      "town hall",
+      "schwaebisch gmuend"
+    ]
   },
   {
     "annotation": "stuttgart fernsehturm",
@@ -2308,7 +3198,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["swabian", "schwäbisch", "schwaebisch", "germany"]
+    "tags": [
+      "swabian",
+      "schwäbisch",
+      "schwaebisch",
+      "germany"
+    ]
   },
   {
     "annotation": "space shuttle",
@@ -2317,7 +3212,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["nasa", "shuttle", "rocket", "space", "galaxy", "adventure", "alien", "transportation"]
+    "tags": [
+      "nasa",
+      "shuttle",
+      "rocket",
+      "space",
+      "galaxy",
+      "adventure",
+      "alien",
+      "transportation"
+    ]
   },
   {
     "annotation": "viennese coffee house",
@@ -2326,7 +3230,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["viennese coffee culture"]
+    "tags": [
+      "viennese coffee culture"
+    ]
   },
   {
     "annotation": "black hole",
@@ -2335,7 +3241,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["interstellar", "event horizon", "accretion disc"]
+    "tags": [
+      "interstellar",
+      "event horizon",
+      "accretion disc"
+    ]
   },
   {
     "annotation": "mark",
@@ -2344,7 +3254,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "toggle button",
@@ -2353,7 +3265,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "location indicator",
@@ -2362,7 +3276,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "scale",
@@ -2389,7 +3305,16 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["movement", "transport", "driving", "destination", "start", "end", "distance", "track"]
+    "tags": [
+      "movement",
+      "transport",
+      "driving",
+      "destination",
+      "start",
+      "end",
+      "distance",
+      "track"
+    ]
   },
   {
     "annotation": "toggle button state B",
@@ -2398,7 +3323,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "people dialogue",
@@ -2425,7 +3352,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "chats",
@@ -2434,7 +3363,15 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["messaging", "typing", "message", "text", "writing", "write", "dialog"]
+    "tags": [
+      "messaging",
+      "typing",
+      "message",
+      "text",
+      "writing",
+      "write",
+      "dialog"
+    ]
   },
   {
     "annotation": "collaboration",
@@ -2443,7 +3380,15 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["collab", "team", "teamwork", "group", "work", "communication", "circle"]
+    "tags": [
+      "collab",
+      "team",
+      "teamwork",
+      "group",
+      "work",
+      "communication",
+      "circle"
+    ]
   },
   {
     "annotation": "interview",
@@ -2452,7 +3397,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["interview", "talk", "speak", "bubble"]
+    "tags": [
+      "interview",
+      "talk",
+      "speak",
+      "bubble"
+    ]
   },
   {
     "annotation": "intricate",
@@ -2461,7 +3411,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["intricate", "abstract"]
+    "tags": [
+      "intricate",
+      "abstract"
+    ]
   },
   {
     "annotation": "simple",
@@ -2470,7 +3423,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["simple", "abstract"]
+    "tags": [
+      "simple",
+      "abstract"
+    ]
   },
   {
     "annotation": "return, back button",
@@ -2479,7 +3435,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "close",
@@ -2488,7 +3446,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "forward",
@@ -2497,7 +3457,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "hamburger menu",
@@ -2506,7 +3468,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "upload",
@@ -2515,7 +3479,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "download",
@@ -2524,7 +3490,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "share",
@@ -2533,7 +3501,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "wifi",
@@ -2542,7 +3512,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "copy",
@@ -2551,7 +3523,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "contacts",
@@ -2560,7 +3534,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "filter",
@@ -2569,7 +3545,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "cursor",
@@ -2578,7 +3556,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pointer"]
+    "tags": [
+      "pointer"
+    ]
   },
   {
     "annotation": "details",
@@ -2587,7 +3567,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "hold",
@@ -2596,7 +3578,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "duplicate",
@@ -2605,7 +3589,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["make copy", "second", "file", "create", "page", "document"]
+    "tags": [
+      "make copy",
+      "second",
+      "file",
+      "create",
+      "page",
+      "document"
+    ]
   },
   {
     "annotation": "save",
@@ -2614,7 +3605,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["store", "hard drive", "record", "hdd", "harddisk", "download"]
+    "tags": [
+      "store",
+      "hard drive",
+      "record",
+      "hdd",
+      "harddisk",
+      "download"
+    ]
   },
   {
     "annotation": "edit",
@@ -2662,7 +3660,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["new", "file", "plus", "more", "create", "set"]
+    "tags": [
+      "new",
+      "file",
+      "plus",
+      "more",
+      "create",
+      "set"
+    ]
   },
   {
     "annotation": "archive",
@@ -2671,7 +3676,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["save", "save to", "library", "cupboard", "drawer"]
+    "tags": [
+      "save",
+      "save to",
+      "library",
+      "cupboard",
+      "drawer"
+    ]
   },
   {
     "annotation": "overview",
@@ -2680,7 +3691,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["overview", "lines", "list"]
+    "tags": [
+      "overview",
+      "lines",
+      "list"
+    ]
   },
   {
     "annotation": "delete",
@@ -2689,7 +3704,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["delete", "bin", "waste", "remove"]
+    "tags": [
+      "delete",
+      "bin",
+      "waste",
+      "remove"
+    ]
   },
   {
     "annotation": "comment",
@@ -2698,7 +3718,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["comment", "write"]
+    "tags": [
+      "comment",
+      "write"
+    ]
   },
   {
     "annotation": "more information",
@@ -2707,7 +3730,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["more", "plus", "add", "cross"]
+    "tags": [
+      "more",
+      "plus",
+      "add",
+      "cross"
+    ]
   },
   {
     "annotation": "sort",
@@ -2716,7 +3744,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["sort", "list", "hierarchy"]
+    "tags": [
+      "sort",
+      "list",
+      "hierarchy"
+    ]
   },
   {
     "annotation": "inbox",
@@ -2725,7 +3757,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["entrance", "inbox", "in"]
+    "tags": [
+      "entrance",
+      "inbox",
+      "in"
+    ]
   },
   {
     "annotation": "compose",
@@ -2734,7 +3770,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["write", "compose", "author"]
+    "tags": [
+      "write",
+      "compose",
+      "author"
+    ]
   },
   {
     "annotation": "add contact",
@@ -2743,7 +3783,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["add", "contact"]
+    "tags": [
+      "add",
+      "contact"
+    ]
   },
   {
     "annotation": "link",
@@ -2752,7 +3795,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["link", "chain"]
+    "tags": [
+      "link",
+      "chain"
+    ]
   },
   {
     "annotation": "exhausted face",
@@ -2761,7 +3807,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["exhausted", "sleepy", "tired", "face"]
+    "tags": [
+      "exhausted",
+      "sleepy",
+      "tired",
+      "face"
+    ]
   },
   {
     "annotation": "incredulous face",
@@ -2770,7 +3821,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["incredulous", "disbelief", "shocked"]
+    "tags": [
+      "incredulous",
+      "disbelief",
+      "shocked"
+    ]
   },
   {
     "annotation": "dejected face",
@@ -2779,7 +3834,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["sigh", "._.", "pensive", "disappointed"]
+    "tags": [
+      "sigh",
+      "._.",
+      "pensive",
+      "disappointed"
+    ]
   },
   {
     "annotation": "iceberg",
@@ -2788,7 +3848,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["titanic", "ship wreck", "ice", "cold", "sea"]
+    "tags": [
+      "titanic",
+      "ship wreck",
+      "ice",
+      "cold",
+      "sea"
+    ]
   },
   {
     "annotation": "floating ice",
@@ -2797,7 +3863,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["glacier", "polar", "sea", "melt"]
+    "tags": [
+      "glacier",
+      "polar",
+      "sea",
+      "melt"
+    ]
   },
   {
     "annotation": "floating ice broken",
@@ -2806,7 +3877,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["glacier", "polar", "sea", "melt"]
+    "tags": [
+      "glacier",
+      "polar",
+      "sea",
+      "melt"
+    ]
   },
   {
     "annotation": "polar research station",
@@ -2815,7 +3891,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["neumayer station", "arctic", "science"]
+    "tags": [
+      "neumayer station",
+      "arctic",
+      "science"
+    ]
   },
   {
     "annotation": "ice core sample",
@@ -2824,7 +3904,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["science", "research", "arctic", "polar"]
+    "tags": [
+      "science",
+      "research",
+      "arctic",
+      "polar"
+    ]
   },
   {
     "annotation": "ice shelf",
@@ -2833,7 +3918,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["glacier", "polar", "sea", "melt"]
+    "tags": [
+      "glacier",
+      "polar",
+      "sea",
+      "melt"
+    ]
   },
   {
     "annotation": "ice shelf melting",
@@ -2842,7 +3932,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["glacier", "sea", "melt", "climate", "global", "warming"]
+    "tags": [
+      "glacier",
+      "sea",
+      "melt",
+      "climate",
+      "global",
+      "warming"
+    ]
   },
   {
     "annotation": "polar explorer",
@@ -2851,7 +3948,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["inuit", "anorak with fur"]
+    "tags": [
+      "inuit",
+      "anorak with fur"
+    ]
   },
   {
     "annotation": "polar explorer man",
@@ -2860,7 +3960,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["research"]
+    "tags": [
+      "research"
+    ]
   },
   {
     "annotation": "polar explorer woman",
@@ -2869,7 +3971,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["research"]
+    "tags": [
+      "research"
+    ]
   },
   {
     "annotation": "oil spill",
@@ -2878,7 +3982,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pollution", "petrol", "fossil", "fuel"]
+    "tags": [
+      "pollution",
+      "petrol",
+      "fossil",
+      "fuel"
+    ]
   },
   {
     "annotation": "exhaust gases factory",
@@ -2887,7 +3996,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pollution", "CO2", "carbon"]
+    "tags": [
+      "pollution",
+      "CO2",
+      "carbon"
+    ]
   },
   {
     "annotation": "solar energy",
@@ -2896,7 +4009,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["sun", "panel", "clean", "power", "renewable"]
+    "tags": [
+      "sun",
+      "panel",
+      "clean",
+      "power",
+      "renewable"
+    ]
   },
   {
     "annotation": "meat consumption",
@@ -2905,7 +4024,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["carnivore"]
+    "tags": [
+      "carnivore"
+    ]
   },
   {
     "annotation": "exhaust gases car",
@@ -2914,7 +4035,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pollution", "carbon", "CO2"]
+    "tags": [
+      "pollution",
+      "carbon",
+      "CO2"
+    ]
   },
   {
     "annotation": "sea level rise",
@@ -2923,7 +4048,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["flood", "tsunami", "sinking"]
+    "tags": [
+      "flood",
+      "tsunami",
+      "sinking"
+    ]
   },
   {
     "annotation": "wind energy",
@@ -2932,7 +4061,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["turbine", "clean", "power", "renewable"]
+    "tags": [
+      "turbine",
+      "clean",
+      "power",
+      "renewable"
+    ]
   },
   {
     "annotation": "reusable bag",
@@ -2941,7 +4075,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["recycle", "nondisposable", "tote", "paper"]
+    "tags": [
+      "recycle",
+      "nondisposable",
+      "tote",
+      "paper"
+    ]
   },
   {
     "annotation": "radioactive waste",
@@ -2950,7 +4089,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["nuclear", "hazardous"]
+    "tags": [
+      "nuclear",
+      "hazardous"
+    ]
   },
   {
     "annotation": "nuclear power plant",
@@ -2959,7 +4101,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["reactor", "stacks", "cooling"]
+    "tags": [
+      "reactor",
+      "stacks",
+      "cooling"
+    ]
   },
   {
     "annotation": "nuclear power plant ruin",
@@ -2968,7 +4114,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["chernobyl", "fukushima", "reactor"]
+    "tags": [
+      "chernobyl",
+      "fukushima",
+      "reactor"
+    ]
   },
   {
     "annotation": "geiger counter",
@@ -2977,7 +4127,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["radiation", "radioactive", "science", "research"]
+    "tags": [
+      "radiation",
+      "radioactive",
+      "science",
+      "research"
+    ]
   },
   {
     "annotation": "nuclear worker man",
@@ -2986,7 +4141,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["radiation", "protection suit"]
+    "tags": [
+      "radiation",
+      "protection suit"
+    ]
   },
   {
     "annotation": "nuclear worker woman",
@@ -2995,7 +4153,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["radiation", "protection suit", ""]
+    "tags": [
+      "radiation",
+      "protection suit",
+      ""
+    ]
   },
   {
     "annotation": "nuclear protection",
@@ -3004,7 +4166,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["radiation", "suit", "gas mask", "nbc suit", "hazmat"]
+    "tags": [
+      "radiation",
+      "suit",
+      "gas mask",
+      "nbc suit",
+      "hazmat"
+    ]
   },
   {
     "annotation": "atom bomb",
@@ -3013,7 +4181,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["nuclear", "radioactive", "nuke", "WW2"]
+    "tags": [
+      "nuclear",
+      "radioactive",
+      "nuke",
+      "WW2"
+    ]
   },
   {
     "annotation": "female doctor",
@@ -3022,7 +4195,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "care", "surgery"]
+    "tags": [
+      "hospital",
+      "care",
+      "surgery"
+    ]
   },
   {
     "annotation": "male doctor",
@@ -3031,7 +4208,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "care", "surgery"]
+    "tags": [
+      "hospital",
+      "care",
+      "surgery"
+    ]
   },
   {
     "annotation": "female nurse",
@@ -3040,7 +4221,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "care", "surgery"]
+    "tags": [
+      "hospital",
+      "care",
+      "surgery"
+    ]
   },
   {
     "annotation": "male nurse",
@@ -3049,7 +4234,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "care", "surgery"]
+    "tags": [
+      "hospital",
+      "care",
+      "surgery"
+    ]
   },
   {
     "annotation": "pills",
@@ -3058,7 +4247,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["drug", "medicine", "tablets", "pain killers"]
+    "tags": [
+      "drug",
+      "medicine",
+      "tablets",
+      "pain killers"
+    ]
   },
   {
     "annotation": "plaster",
@@ -3067,7 +4261,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["patch", "band aid", "plaster", "wound", "dressing", "bandage"]
+    "tags": [
+      "patch",
+      "band aid",
+      "plaster",
+      "wound",
+      "dressing",
+      "bandage"
+    ]
   },
   {
     "annotation": "medication",
@@ -3076,7 +4277,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["drug", "medicine", "tablets", "pain killers"]
+    "tags": [
+      "drug",
+      "medicine",
+      "tablets",
+      "pain killers"
+    ]
   },
   {
     "annotation": "ecg waves",
@@ -3085,7 +4291,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["heartbeats", "beat", "hospital", "electrocardiogram"]
+    "tags": [
+      "heartbeats",
+      "beat",
+      "hospital",
+      "electrocardiogram"
+    ]
   },
   {
     "annotation": "first aid bag",
@@ -3094,7 +4305,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["briefcase", "medicine", "kit"]
+    "tags": [
+      "briefcase",
+      "medicine",
+      "kit"
+    ]
   },
   {
     "annotation": "patient file",
@@ -3103,7 +4318,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "record", "filing"]
+    "tags": [
+      "hospital",
+      "record",
+      "filing"
+    ]
   },
   {
     "annotation": "patient clipboard",
@@ -3112,7 +4331,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "notes", "transcript"]
+    "tags": [
+      "hospital",
+      "notes",
+      "transcript"
+    ]
   },
   {
     "annotation": "saline drip",
@@ -3121,7 +4344,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "bag"]
+    "tags": [
+      "hospital",
+      "bag"
+    ]
   },
   {
     "annotation": "blood transfusion",
@@ -3130,7 +4356,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["medical", "bleeding", "loss"]
+    "tags": [
+      "medical",
+      "bleeding",
+      "loss"
+    ]
   },
   {
     "annotation": "swab pliers",
@@ -3139,7 +4369,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["surgery", "scissors"]
+    "tags": [
+      "surgery",
+      "scissors"
+    ]
   },
   {
     "annotation": "hot-water bottle",
@@ -3148,7 +4381,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cramps", "comfort", "warm", "period"]
+    "tags": [
+      "cramps",
+      "comfort",
+      "warm",
+      "period"
+    ]
   },
   {
     "annotation": "liver",
@@ -3157,7 +4395,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["organ", "toxins", "bile"]
+    "tags": [
+      "organ",
+      "toxins",
+      "bile"
+    ]
   },
   {
     "annotation": "stomach",
@@ -3166,7 +4408,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["gut", "digestion", "bile", "acid"]
+    "tags": [
+      "gut",
+      "digestion",
+      "bile",
+      "acid"
+    ]
   },
   {
     "annotation": "large intestine",
@@ -3175,7 +4422,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["organ", "colon", "gut"]
+    "tags": [
+      "organ",
+      "colon",
+      "gut"
+    ]
   },
   {
     "annotation": "intestine",
@@ -3184,7 +4435,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["organ", "digestion", "colon", "gut"]
+    "tags": [
+      "organ",
+      "digestion",
+      "colon",
+      "gut"
+    ]
   },
   {
     "annotation": "kidney",
@@ -3193,7 +4449,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["urine", "toxins", "blood", "organ"]
+    "tags": [
+      "urine",
+      "toxins",
+      "blood",
+      "organ"
+    ]
   },
   {
     "annotation": "forceps",
@@ -3202,7 +4463,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["surgery", "tweezers", "tongs"]
+    "tags": [
+      "surgery",
+      "tweezers",
+      "tongs"
+    ]
   },
   {
     "annotation": "brain",
@@ -3211,7 +4476,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["cortex", "grey matter", "intelligence", "IQ"]
+    "tags": [
+      "cortex",
+      "grey matter",
+      "intelligence",
+      "IQ"
+    ]
   },
   {
     "annotation": "bed linen",
@@ -3220,7 +4490,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "bedding", "sheets"]
+    "tags": [
+      "hospital",
+      "bedding",
+      "sheets"
+    ]
   },
   {
     "annotation": "bandage change",
@@ -3229,7 +4503,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital", "gauze", "dressing", "wound"]
+    "tags": [
+      "hospital",
+      "gauze",
+      "dressing",
+      "wound"
+    ]
   },
   {
     "annotation": "eye pain",
@@ -3238,7 +4517,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["migraine", "headache", "strain", "sore"]
+    "tags": [
+      "migraine",
+      "headache",
+      "strain",
+      "sore"
+    ]
   },
   {
     "annotation": "headache",
@@ -3247,7 +4531,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["migraine", "sore", "tension", "stress"]
+    "tags": [
+      "migraine",
+      "sore",
+      "tension",
+      "stress"
+    ]
   },
   {
     "annotation": "earache",
@@ -3256,7 +4545,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["tinnitus", "headache", "sore"]
+    "tags": [
+      "tinnitus",
+      "headache",
+      "sore"
+    ]
   },
   {
     "annotation": "fracture leg",
@@ -3265,7 +4558,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["broken", "cast", "bone"]
+    "tags": [
+      "broken",
+      "cast",
+      "bone"
+    ]
   },
   {
     "annotation": "knee pain",
@@ -3274,7 +4571,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["ACL", "ache", "patella"]
+    "tags": [
+      "ACL",
+      "ache",
+      "patella"
+    ]
   },
   {
     "annotation": "backache",
@@ -3283,7 +4584,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["spine", "ache", "lumbar", "pain"]
+    "tags": [
+      "spine",
+      "ache",
+      "lumbar",
+      "pain"
+    ]
   },
   {
     "annotation": "joint pain",
@@ -3292,7 +4598,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["ache", "arthritis", "strain", "cartilage,"]
+    "tags": [
+      "ache",
+      "arthritis",
+      "strain",
+      "cartilage,"
+    ]
   },
   {
     "annotation": "clinical thermometer",
@@ -3301,7 +4612,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["temperature", "fever", "mercury", "heat"]
+    "tags": [
+      "temperature",
+      "fever",
+      "mercury",
+      "heat"
+    ]
   },
   {
     "annotation": "bandage scissors",
@@ -3310,7 +4626,10 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital,gauze", "dressing"]
+    "tags": [
+      "hospital,gauze",
+      "dressing"
+    ]
   },
   {
     "annotation": "crutches",
@@ -3319,7 +4638,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["walk", "broken leg", "accessibility"]
+    "tags": [
+      "walk",
+      "broken leg",
+      "accessibility"
+    ]
   },
   {
     "annotation": "wheel chair",
@@ -3328,7 +4651,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["accessibility", "DACA", "disability", "mobility"]
+    "tags": [
+      "accessibility",
+      "DACA",
+      "disability",
+      "mobility"
+    ]
   },
   {
     "annotation": "stretcher",
@@ -3337,7 +4665,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hospital,ambulance,patient,gurney"]
+    "tags": [
+      "hospital,ambulance,patient,gurney"
+    ]
   },
   {
     "annotation": "ct scan",
@@ -3346,7 +4676,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["MRI", "cat", "cancer", "tumour"]
+    "tags": [
+      "MRI",
+      "cat",
+      "cancer",
+      "tumour"
+    ]
   },
   {
     "annotation": "scales",
@@ -3355,7 +4690,12 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["BMI", "weight", "mass", "heavy"]
+    "tags": [
+      "BMI",
+      "weight",
+      "mass",
+      "heavy"
+    ]
   },
   {
     "annotation": "gardener man",
@@ -3364,7 +4704,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "gardener woman",
@@ -3373,7 +4715,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "gardening gloves",
@@ -3382,7 +4726,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "lawn mower",
@@ -3391,7 +4737,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": [""]
+    "tags": [
+      ""
+    ]
   },
   {
     "annotation": "wheelbarrow",
@@ -3400,7 +4748,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["pushcart"]
+    "tags": [
+      "pushcart"
+    ]
   },
   {
     "annotation": "spade",
@@ -3409,7 +4759,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["shovel"]
+    "tags": [
+      "shovel"
+    ]
   },
   {
     "annotation": "trowel",
@@ -3418,7 +4770,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["shovel"]
+    "tags": [
+      "shovel"
+    ]
   },
   {
     "annotation": "axe",
@@ -3427,7 +4781,11 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["wood", "chop", "stump"]
+    "tags": [
+      "wood",
+      "chop",
+      "stump"
+    ]
   },
   {
     "annotation": "saw",
@@ -3436,7 +4794,13 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["foxtail", "carpentry", "wood", "branch", "rip saw"]
+    "tags": [
+      "foxtail",
+      "carpentry",
+      "wood",
+      "branch",
+      "rip saw"
+    ]
   },
   {
     "annotation": "no handshaking",
@@ -3445,7 +4809,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["hygiene", "agreement", "virus", "meeting", "spread", "germs"]
+    "tags": [
+      "hygiene",
+      "agreement",
+      "virus",
+      "meeting",
+      "spread",
+      "germs"
+    ]
   },
   {
     "annotation": "web syndication",
@@ -3454,7 +4825,14 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["feed", "rss", "atom feed", "podcast", "subscribe", "web feed"]
+    "tags": [
+      "feed",
+      "rss",
+      "atom feed",
+      "podcast",
+      "subscribe",
+      "web feed"
+    ]
   },
   {
     "annotation": "windows",
@@ -3463,7 +4841,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["microsoft"]
+    "tags": [
+      "microsoft"
+    ]
   },
   {
     "annotation": "apple",
@@ -3472,6 +4852,9 @@
     "text": "",
     "type": 1,
     "version": -1,
-    "tags": ["iOS", "osx"]
+    "tags": [
+      "iOS",
+      "osx"
+    ]
   }
 ]
