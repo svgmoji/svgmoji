@@ -39,7 +39,7 @@
     "emojibase-regex": "^5.1.1",
     "idb-keyval": "^5.0.2",
     "match-sorter": "^6.2.0",
-    "type-fest": "^0.20 || ^0.21"
+    "type-fest": "^1.2.0"
   },
   "devDependencies": {
     "emojibase-data": "^6.1.1"

@@ -594,14 +594,78 @@
     "version": -1,
     "tags": ["equilateral polygon"]
   },
-  "2B21-FE0F-200D-1F308",
-  "2B21-FE0F-200D-1F7E5",
-  "2B21-FE0F-200D-1F7E6",
-  "2B21-FE0F-200D-1F7E7",
-  "2B21-FE0F-200D-1F7E8",
-  "2B21-FE0F-200D-1F7E9",
-  "2B21-FE0F-200D-1F7EA",
-  "2B21-FE0F-200D-1F7EB",
+  {
+    "annotation": "rainbow hexagon",
+    "emoji": "⬡️‍🌈",
+    "hexcode": "2B21-FE0F-200D-1F308",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["pride"]
+  },
+  {
+    "annotation": "red hexagon",
+    "emoji": "⬡️‍🟥",
+    "hexcode": "2B21-FE0F-200D-1F7E5",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "blue hexagon",
+    "emoji": "⬡️‍🟦",
+    "hexcode": "2B21-FE0F-200D-1F7E6",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "orange hexagon",
+    "emoji": "⬡️‍🟧",
+    "hexcode": "2B21-FE0F-200D-1F7E7",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "yellow hexagon",
+    "emoji": "⬡️‍🟨",
+    "hexcode": "2B21-FE0F-200D-1F7E8",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "green hexagon",
+    "emoji": "⬡️‍🟩",
+    "hexcode": "2B21-FE0F-200D-1F7E9",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "purple hexagon",
+    "emoji": "⬡️‍🟪",
+    "hexcode": "2B21-FE0F-200D-1F7EA",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
+  {
+    "annotation": "brown hexagon",
+    "emoji": "⬡️‍🟫",
+    "hexcode": "2B21-FE0F-200D-1F7EB",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": [""]
+  },
   {
     "annotation": "black hexagon",
     "emoji": "⬢",
@@ -1026,7 +1090,15 @@
     "version": -1,
     "tags": ["browser", "microsoft"]
   },
-  "E058",
+  {
+    "annotation": "iNaturalist",
+    "emoji": "",
+    "hexcode": "E058",
+    "text": "",
+    "type": 1,
+    "version": -1,
+    "tags": ["opendata", "nature", "observation"]
+  },
   {
     "annotation": "assembly point",
     "emoji": "",

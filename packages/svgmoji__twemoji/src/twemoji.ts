@@ -10,7 +10,7 @@ export const TWEMOJI_META: EmojiGithubMeta = {
   name: 'twemoji',
   owner: 'twitter',
   repo: 'twemoji',
-  sha: 'v13.0.1',
+  sha: 'v13.1.0',
   directory: 'assets/svg',
 };
 
