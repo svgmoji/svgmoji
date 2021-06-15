@@ -9,7 +9,7 @@ import ms from 'ms';
 import os from 'os';
 import pLimit from 'p-limit';
 import path from 'path';
-import SVGO from 'svgo';
+import { optimize, Plugin } from 'svgo';
 import tar from 'tar';
 
 import { cliArgs, formatFiles, log, rm } from '../helpers';
@@ -105,44 +105,42 @@ async function run() {
   await Promise.all(filePromises);
 }
 
-const svgo = new SVGO({
-  plugins: [
-    { cleanupAttrs: true },
-    { removeDoctype: true },
-    { removeXMLProcInst: true },
-    { removeComments: true },
-    { removeMetadata: true },
-    { removeTitle: true },
-    { removeDesc: true },
-    { removeUselessDefs: true },
-    { removeEditorsNSData: true },
-    { removeEmptyAttrs: true },
-    { removeHiddenElems: true },
-    { removeEmptyText: true },
-    { removeEmptyContainers: true },
-    { removeViewBox: false },
-    { cleanupEnableBackground: true },
-    { convertStyleToAttrs: false },
-    { convertColors: true },
-    { convertPathData: true },
-    { convertTransform: true },
-    { removeUnknownsAndDefaults: true },
-    { removeNonInheritableGroupAttrs: true },
-    { removeUselessStrokeAndFill: true },
-    { removeUnusedNS: true },
-    { cleanupIDs: true },
-    { cleanupNumericValues: true },
-    { moveElemsAttrsToGroup: true },
-    { moveGroupAttrsToElems: true },
-    { collapseGroups: true },
-    { removeRasterImages: true },
-    { mergePaths: true },
-    { convertShapeToPath: true },
-    { sortAttrs: true },
-    { removeDimensions: true },
-    { minifyStyles: true },
-  ],
-});
+const svgPlugins: Plugin[] = [
+  { name: 'cleanupAttrs', active: true },
+  { name: 'removeDoctype', active: true },
+  { name: 'removeXMLProcInst', active: true },
+  { name: 'removeComments', active: true },
+  { name: 'removeMetadata', active: true },
+  { name: 'removeTitle', active: true },
+  { name: 'removeDesc', active: true },
+  { name: 'removeUselessDefs', active: true },
+  { name: 'removeEditorsNSData', active: true },
+  { name: 'removeEmptyAttrs', active: true },
+  { name: 'removeHiddenElems', active: true },
+  { name: 'removeEmptyText', active: true },
+  { name: 'removeEmptyContainers', active: true },
+  { name: 'removeViewBox', active: false },
+  { name: 'cleanupEnableBackground', active: true },
+  { name: 'convertStyleToAttrs', active: false },
+  { name: 'convertColors', active: true },
+  { name: 'convertPathData', active: true },
+  { name: 'convertTransform', active: true },
+  { name: 'removeUnknownsAndDefaults', active: true },
+  { name: 'removeNonInheritableGroupAttrs', active: true },
+  { name: 'removeUselessStrokeAndFill', active: true },
+  { name: 'removeUnusedNS', active: true },
+  { name: 'cleanupIDs', active: true },
+  { name: 'cleanupNumericValues', active: true },
+  { name: 'moveElemsAttrsToGroup', active: true },
+  { name: 'moveGroupAttrsToElems', active: true },
+  { name: 'collapseGroups', active: true },
+  { name: 'removeRasterImages', active: true },
+  { name: 'mergePaths', active: true },
+  { name: 'convertShapeToPath', active: true },
+  { name: 'sortAttrs', active: true },
+  { name: 'removeDimensions', active: true },
+  { name: 'minifyStyles', active: true },
+];
 
 run();
 
@@ -231,7 +229,7 @@ function optimizeSvgFile(props: OptimizeSvgFileProps): () => void | PromiseLike<
 
   return async () => {
     const contents = await readFile(filepath, 'utf-8');
-    const result = await svgo.optimize(contents, { path: filepath });
+    const result = optimize(contents, { path: filepath, plugins: svgPlugins });
     const svgFileName = library.getSvgFile(file);
     const hexcode = svgFileName.replace('.svg', '');
 

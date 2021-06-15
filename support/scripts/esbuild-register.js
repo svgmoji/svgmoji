@@ -63,7 +63,11 @@ function getLoader(filename) {
  * @returns {string}
  */
 function compile(code, filename) {
-  const { code: js, warnings, map: jsSourceMap } = transformSync(code, {
+  const {
+    code: js,
+    warnings,
+    map: jsSourceMap,
+  } = transformSync(code, {
     sourcefile: filename,
     sourcemap: true,
     loader: getLoader(filename),

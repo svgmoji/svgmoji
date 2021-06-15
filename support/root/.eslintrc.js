@@ -26,7 +26,6 @@ let config = {
     'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
     'prettier',
-    'prettier/@typescript-eslint',
     'plugin:jest-formatting/recommended',
     'plugin:jest/recommended',
     'plugin:jest/style',
