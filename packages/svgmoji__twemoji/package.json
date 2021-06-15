@@ -1,6 +1,6 @@
 {
   "name": "@svgmoji/twemoji",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "The svgmoji sprites for the [`twemoji`](https://github.com/twitter/twemoji) library provided by Twitter.",
   "keywords": [
     "emoji",
@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@svgmoji/core": "^3.1.0"
+    "@svgmoji/core": "^3.2.0"
   },
   "publishConfig": {
     "access": "public"

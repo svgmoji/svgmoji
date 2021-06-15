@@ -140,7 +140,7 @@
     "rimraf": "^3.0.2",
     "size-limit": "^4.9.2",
     "snapshot-diff": "^0.8.1",
-    "svgmoji": "^3.1.0",
+    "svgmoji": "^3.2.0",
     "typescript": "^4.1.5",
     "typescript-snapshots-plugin": "^1.7.0"
   },
