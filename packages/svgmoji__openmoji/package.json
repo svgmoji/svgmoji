@@ -10,7 +10,7 @@
   ],
   "homepage": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/@svgmoji/openmoji",
   "repository": "https://github.com/svgmoji/svgmoji/tree/HEAD/packages/svgmoji__openmoji",
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "contributors": [],
   "sideEffects": false,
   "exports": {
