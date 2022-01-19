@@ -4,11 +4,11 @@
 
 <br />
 
-[![Version][version]][npm] [![Weekly Downloads][downloads-badge]][npm] [![Bundled size][size-badge]][size] [![Typed Codebase][typescript]](./src/index.ts) ![MIT License][license]
+[![Version][version]][npm] [![Weekly Downloads][downloads-badge]][npm] [![Bundled size][size-badge]][size] [![Typed Codebase][typescript]](./src/index.ts) ![CC-BY-SA-4.0 License][license]
 
 [version]: https://flat.badgen.net/npm/v/@svgmoji/openmoji
 [npm]: https://npmjs.com/package/@svgmoji/openmoji
-[license]: https://flat.badgen.net/badge/license/MIT/purple
+[license]: https://flat.badgen.net/badge/license/CC-BY-SA-4.0/purple
 [size]: https://bundlephobia.com/result?p=@svgmoji/openmoji
 [size-badge]: https://flat.badgen.net/bundlephobia/minzip/@svgmoji/openmoji
 [typescript]: https://flat.badgen.net/badge/icon/TypeScript?icon=typescript&label
