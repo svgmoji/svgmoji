@@ -3,6 +3,7 @@
   "private": true,
   "homepage": "https://github.com/svgmoji/svgmoji",
   "repository": "https://github.com/svgmoji/svgmoji",
+  "license": "MIT",
   "scripts": {
     "audit": "pnpm audit --audit-level high",
     "build": "preconstruct build",
